@@ -1,0 +1,4547 @@
+[
+  {
+    "id": 1,
+    "name": "সুবহানাল্লাহ",
+    "arabic": "سُبْحَانَ اللَّهِ",
+    "transliteration": "SubhanAllah",
+    "translation": "আল্লাহ পবিত্র",
+    "count_target": 33,
+    "description": "আল্লাহর পবিত্রতা ও মহিমা ঘোষণার জন্য।"
+  },
+  {
+    "id": 2,
+    "name": "আলহামদুলিল্লাহ",
+    "arabic": "الْحَمْدُ لِلَّهِ",
+    "transliteration": "Alhamdulillah",
+    "translation": "সমস্ত প্রশংসা আল্লাহর জন্য",
+    "count_target": 33,
+    "description": "আল্লাহর প্রশংসা ও কৃতজ্ঞতা জ্ঞাপনের জন্য।"
+  },
+  {
+    "id": 3,
+    "name": "আল্লাহু আকবার",
+    "arabic": "اللَّهُ أَكْبَرُ",
+    "transliteration": "Allahu Akbar",
+    "translation": "আল্লাহ সবচেয়ে বড়",
+    "count_target": 34,
+    "description": "আল্লাহর শ্রেষ্ঠত্ব ও বড়ত্ব প্রকাশের জন্য।"
+  },
+  {
+    "id": 4,
+    "name": "লা ইলাহা ইল্লাল্লাহ",
+    "arabic": "لَا إِلَٰهَ إِلَّا اللَّهُ",
+    "transliteration": "La ilaha illallah",
+    "translation": "আল্লাহ ছাড়া কোনো উপাস্য নেই",
+    "count_target": 100,
+    "description": "তাওহীদের ঘোষণা ও সর্বোত্তম যিকির।"
+  },
+  {
+    "id": 5,
+    "name": "আস্তাগফিরুল্লাহ",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "transliteration": "Astaghfirullah",
+    "translation": "আমি আল্লাহর কাছে ক্ষমা চাই",
+    "count_target": 100,
+    "description": "গুনাহ মাফের জন্য ক্ষমা প্রার্থনা।"
+  },
+  {
+    "id": 6,
+    "name": "সুবহানাল্লাহি ওয়া বিহামদিহি",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transliteration": "SubhanAllahi wa bihamdih",
+    "translation": "আল্লাহ পবিত্র এবং তাঁর প্রশংসাসহ",
+    "count_target": 100,
+    "description": "এই যিকির পাপ মোচন করে যদিও তা সমুদ্রের ফেনার মতো বেশি হয়।"
+  },
+  {
+    "id": 7,
+    "name": "সুবহানাল্লাহিল আযীম",
+    "arabic": "سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "transliteration": "SubhanAllahil Azeem",
+    "translation": "মহান আল্লাহ পবিত্র",
+    "count_target": 33,
+    "description": "আল্লাহর মহত্ত্ব ও পবিত্রতার ঘোষণা।"
+  },
+  {
+    "id": 8,
+    "name": "লা হাওলা ওয়ালা কুওয়াতা ইল্লা বিল্লাহ",
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "La hawla wala quwwata illa billah",
+    "translation": "আল্লাহ ছাড়া কোনো শক্তি ও ক্ষমতা নেই",
+    "count_target": 100,
+    "description": "জান্নাতের ভান্ডারসমূহের একটি।"
+  },
+  {
+    "id": 9,
+    "name": "সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম",
+    "arabic": "صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "transliteration": "SallAllahu alayhi wa sallam",
+    "translation": "আল্লাহ তাঁর উপর দরুদ ও সালাম বর্ষণ করুন",
+    "count_target": 10,
+    "description": "নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের উপর দরুদ পাঠ।"
+  },
+  {
+    "id": 10,
+    "name": "বিসমিল্লাহ",
+    "arabic": "بِسْمِ اللَّهِ",
+    "transliteration": "Bismillah",
+    "translation": "আল্লাহর নামে",
+    "count_target": 1,
+    "description": "প্রতিটি ভালো কাজ শুরুতে পড়তে হয়।"
+  },
+  {
+    "id": 11,
+    "name": "বিসমিল্লাহির রাহমানির রাহীম",
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "transliteration": "Bismillahir Rahmanir Rahim",
+    "translation": "পরম করুণাময় ও অতি দয়ালু আল্লাহর নামে",
+    "count_target": 1,
+    "description": "কুরআন তিলাওয়াত ও গুরুত্বপূর্ণ কাজ শুরুর আগে পড়তে হয়।"
+  },
+  {
+    "id": 12,
+    "name": "হাসবুনাল্লাহু ওয়া নিয়মাল ওয়াকীল",
+    "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Hasbunallahu wa ni'mal wakeel",
+    "translation": "আল্লাহই আমাদের জন্য যথেষ্ট এবং তিনি কতই না উত্তম অভিভাবক",
+    "count_target": 7,
+    "description": "বিপদ ও দুশ্চিন্তার সময় পড়তে হয়।"
+  },
+  {
+    "id": 13,
+    "name": "ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন",
+    "arabic": "إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ",
+    "transliteration": "Inna lillahi wa inna ilayhi raji'un",
+    "translation": "নিশ্চয়ই আমরা আল্লাহর জন্য এবং তাঁর কাছেই ফিরে যাব",
+    "count_target": 3,
+    "description": "বিপদ বা মৃত্যু সংবাদ পেলে পড়তে হয়।"
+  },
+  {
+    "id": 14,
+    "name": "মাশাআল্লাহ",
+    "arabic": "مَا شَاءَ اللَّهُ",
+    "transliteration": "MashaAllah",
+    "translation": "আল্লাহ যা চেয়েছেন তাই হয়েছে",
+    "count_target": 3,
+    "description": "কোনো ভালো বিষয় দেখলে বা শুনলে পড়তে হয়।"
+  },
+  {
+    "id": 15,
+    "name": "ইনশাআল্লাহ",
+    "arabic": "إِنْ شَاءَ اللَّهُ",
+    "transliteration": "In sha Allah",
+    "translation": "আল্লাহ যদি চান",
+    "count_target": 1,
+    "description": "ভবিষ্যতে কোনো কাজ করার ইচ্ছা প্রকাশ করার সময় বলতে হয়।"
+  },
+  {
+    "id": 16,
+    "name": "জাযাকাল্লাহু খাইরান",
+    "arabic": "جَزَاكَ اللَّهُ خَيْرًا",
+    "transliteration": "JazakAllahu Khayran",
+    "translation": "আল্লাহ আপনাকে উত্তম প্রতিদান দিন",
+    "count_target": 1,
+    "description": "কারো উপকারের কৃতজ্ঞতা জানানোর সময় বলতে হয়।"
+  },
+  {
+    "id": 17,
+    "name": "আল্লাহুম্মা সাল্লি আলা মুহাম্মাদ",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+    "transliteration": "Allahumma salli ala Muhammad",
+    "translation": "হে আল্লাহ! মুহাম্মাদের উপর রহমত বর্ষণ করুন",
+    "count_target": 10,
+    "description": "নবীজির উপর দরুদ পাঠের সংক্ষিপ্ত রূপ।"
+  },
+  {
+    "id": 18,
+    "name": "আউযু বিল্লাহি মিনাশ শাইতানির রাজিম",
+    "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A'udhu billahi minash shaitanir rajeem",
+    "translation": "আমি বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চাই",
+    "count_target": 1,
+    "description": "কুরআন তিলাওয়াত ও যেকোনো কাজ শুরুর আগে শয়তান থেকে আশ্রয় প্রার্থনা।"
+  },
+  {
+    "id": 19,
+    "name": "রাব্বি যিদনি ইলমা",
+    "arabic": "رَبِّ زِدْنِي عِلْمًا",
+    "transliteration": "Rabbi zidni ilma",
+    "translation": "হে আমার পালনকর্তা! আমার জ্ঞান বৃদ্ধি করুন",
+    "count_target": 10,
+    "description": "জ্ঞান বৃদ্ধির জন্য দোয়া।"
+  },
+  {
+    "id": 20,
+    "name": "রাব্বানা আতিনা ফিদ্দুনিয়া হাসানাহ",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "transliteration": "Rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan wa qina adhab an-nar",
+    "translation": "হে আমাদের রব! আমাদের দুনিয়ায় কল্যাণ দিন এবং আখিরাতে কল্যাণ দিন এবং জাহান্নামের আযাব থেকে রক্ষা করুন",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতের কল্যাণের জন্য সর্বোত্তম দোয়া।"
+  },
+  {
+    "id": 21,
+    "name": "সুবহানাল্লাহি ওয়া বিহামদিহি সুবহানাল্লাহিল আযীম",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ سُبْحَانَ اللَّهِ الْعَظِيمِ",
+    "transliteration": "SubhanAllahi wa bihamdih SubhanAllahil Azeem",
+    "translation": "আল্লাহ পবিত্র ও তাঁর প্রশংসাসহ, মহান আল্লাহ পবিত্র",
+    "count_target": 100,
+    "description": "মিযানে ভারী, মুখে সহজ কিন্তু আল্লাহর কাছে প্রিয় বাক্য।"
+  },
+  {
+    "id": 22,
+    "name": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু লা শারিকা লাহ",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "transliteration": "La ilaha illallahu wahdahu la sharika lah",
+    "translation": "আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, তাঁর কোনো শরিক নেই",
+    "count_target": 100,
+    "description": "ইখলাসের সাথে পড়লে ১০টি নেকি মেলে।"
+  },
+  {
+    "id": 23,
+    "name": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু - পূর্ণ",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shayin qadir",
+    "translation": "আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, রাজত্ব তাঁর, প্রশংসা তাঁর এবং তিনি সবকিছুর উপর ক্ষমতাবান",
+    "count_target": 10,
+    "description": "সকাল-সন্ধ্যা ১০ বার পড়লে ১০০ নেকি মেলে।"
+  },
+  {
+    "id": 24,
+    "name": "সুবহানাল্লাহ ওয়ালহামদুলিল্লাহ ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+    "transliteration": "SubhanAllah wal-hamdulillah wa la ilaha illallah wallahu akbar",
+    "translation": "আল্লাহ পবিত্র, সমস্ত প্রশংসা আল্লাহর, আল্লাহ ছাড়া কোনো উপাস্য নেই এবং আল্লাহ সবচেয়ে বড়",
+    "count_target": 100,
+    "description": "চারটি কালিমা একসাথে পড়া অত্যন্ত ফযিলতপূর্ণ।"
+  },
+  {
+    "id": 25,
+    "name": "আস্তাগফিরুল্লাহাল আযীম",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+    "transliteration": "Astaghfirullahal Azeem",
+    "translation": "আমি মহান আল্লাহর কাছে ক্ষমা চাই",
+    "count_target": 100,
+    "description": "গুনাহ থেকে তাওবা ও ক্ষমা প্রার্থনার জন্য।"
+  },
+  {
+    "id": 26,
+    "name": "আস্তাগফিরুল্লাহা ওয়া আতূবু ইলাইহি",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "transliteration": "Astaghfirullaha wa atubu ilayh",
+    "translation": "আমি আল্লাহর কাছে ক্ষমা চাই এবং তাঁর দিকে তাওবা করি",
+    "count_target": 100,
+    "description": "নবীজি দিনে ১০০ বার এই ইস্তেগফার পড়তেন।"
+  },
+  {
+    "id": 27,
+    "name": "রাব্বিগফির লি",
+    "arabic": "رَبِّ اغْفِرْ لِي",
+    "transliteration": "Rabbighfir li",
+    "translation": "হে আমার রব! আমাকে ক্ষমা করুন",
+    "count_target": 100,
+    "description": "ছোট ও সংক্ষিপ্ত ক্ষমা প্রার্থনার যিকির।"
+  },
+  {
+    "id": 28,
+    "name": "আল্লাহুম্মাগফির লি",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي",
+    "transliteration": "Allahummaghfir li",
+    "translation": "হে আল্লাহ! আমাকে ক্ষমা করুন",
+    "count_target": 100,
+    "description": "ক্ষমা প্রার্থনার জন্য বহুল প্রচলিত যিকির।"
+  },
+  {
+    "id": 29,
+    "name": "আল্লাহুম্মা ইন্নাকা আফুউউন তুহিব্বুল আফওয়া",
+    "arabic": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+    "transliteration": "Allahumma innaka afuwwun tuhibbul afwa fa'fu anni",
+    "translation": "হে আল্লাহ! তুমি ক্ষমাশীল, ক্ষমা করতে ভালোবাসো, তাই আমাকে ক্ষমা করো",
+    "count_target": 7,
+    "description": "লাইলাতুল কদরে পড়ার বিশেষ দোয়া।"
+  },
+  {
+    "id": 30,
+    "name": "সাইয়্যিদুল ইস্তেগফার",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ",
+    "transliteration": "Allahumma anta rabbi la ilaha illa ant khalaqtani wa ana abduk...",
+    "translation": "হে আল্লাহ! তুমিই আমার রব, তুমি ছাড়া কোনো ইলাহ নেই। তুমি আমাকে সৃষ্টি করেছ এবং আমি তোমার বান্দা",
+    "count_target": 1,
+    "description": "ইস্তেগফারের সর্দার। সকালে পড়লে সন্ধ্যার আগে মারা গেলে জান্নাতী।"
+  },
+  {
+    "id": 31,
+    "name": "আল্লাহুম্মা আন্তাস সালাম",
+    "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Allahumma antas salam wa minkas salam tabarakta ya dhal jalali wal-ikram",
+    "translation": "হে আল্লাহ! তুমিই শান্তি, তোমার কাছ থেকেই শান্তি আসে, তুমি বরকতময়",
+    "count_target": 1,
+    "description": "সালাম ফেরানোর পরে পড়তে হয়।"
+  },
+  {
+    "id": 32,
+    "name": "আয়াতুল কুরসি",
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ",
+    "transliteration": "Allahu la ilaha illa huwal hayyul qayyum la ta'khudhuhu sinatun wa la nawm...",
+    "translation": "আল্লাহ, তিনি ছাড়া কোনো উপাস্য নেই, তিনি চিরঞ্জীব, সর্বসত্তার ধারক, তাঁকে তন্দ্রা ও নিদ্রা স্পর্শ করে না",
+    "count_target": 1,
+    "description": "প্রতিটি ফরজ নামাজের পরে পড়লে জান্নাতের পথ সুগম হয়।"
+  },
+  {
+    "id": 33,
+    "name": "সূরা ইখলাস",
+    "arabic": "قُلْ هُوَ اللَّهُ أَحَدٌ اللَّهُ الصَّمَدُ لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ",
+    "transliteration": "Qul huwallahu ahad Allahus samad lam yalid wa lam yulad wa lam yakun lahu kufuwan ahad",
+    "translation": "বলুন, তিনি আল্লাহ একক, আল্লাহ অমুখাপেক্ষী, তিনি জন্ম দেননি এবং জন্মিতও হননি",
+    "count_target": 3,
+    "description": "এক-তৃতীয়াংশ কুরআনের সমতুল্য। সকাল-সন্ধ্যা ৩ বার পড়তে হয়।"
+  },
+  {
+    "id": 34,
+    "name": "সূরা ফালাক",
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ مِن شَرِّ مَا خَلَقَ وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "transliteration": "Qul a'udhu bi rabbil falaq min sharri ma khalaq wa min sharri ghasiqin idha waqab...",
+    "translation": "বলুন, আমি আশ্রয় নিচ্ছি ঊষার পালনকর্তার, তিনি যা সৃষ্টি করেছেন তার অনিষ্ট থেকে",
+    "count_target": 3,
+    "description": "সকাল-সন্ধ্যা ৩ বার পড়লে সমস্ত অনিষ্ট থেকে রক্ষা পাওয়া যায়।"
+  },
+  {
+    "id": 35,
+    "name": "সূরা নাস",
+    "arabic": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ مَلِكِ النَّاسِ إِلَهِ النَّاسِ",
+    "transliteration": "Qul a'udhu bi rabbin nas malikin nas ilahin nas...",
+    "translation": "বলুন, আমি মানুষের পালনকর্তার আশ্রয় নিচ্ছি, মানুষের অধিপতির",
+    "count_target": 3,
+    "description": "সকাল-সন্ধ্যা ৩ বার পড়লে সমস্ত অনিষ্ট থেকে রক্ষা পাওয়া যায়।"
+  },
+  {
+    "id": 36,
+    "name": "দোয়া-ই-ইউনুস",
+    "arabic": "لَا إِلَهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ",
+    "transliteration": "La ilaha illa anta subhanaka inni kuntu minaz zalimin",
+    "translation": "তুমি ছাড়া কোনো উপাস্য নেই, তুমি পবিত্র, নিশ্চয়ই আমি জালিমদের অন্তর্ভুক্ত ছিলাম",
+    "count_target": 40,
+    "description": "হযরত ইউনুস (আ.)-এর দোয়া।"
+  },
+  {
+    "id": 37,
+    "name": "হাসবিয়াল্লাহু লা ইলাহা ইল্লা হু",
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+    "transliteration": "Hasbiyallahu la ilaha illa hu alayhii tawakkaltu wa huwa rabbul arshil azeem",
+    "translation": "আল্লাহই আমার জন্য যথেষ্ট, তিনি ছাড়া কোনো উপাস্য নেই, তাঁর উপরই ভরসা করেছি",
+    "count_target": 7,
+    "description": "সকাল-সন্ধ্যা ৭ বার পড়লে আল্লাহ যথেষ্ট হয়ে যান।"
+  },
+  {
+    "id": 38,
+    "name": "রাদিতু বিল্লাহি রাব্বান",
+    "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا",
+    "transliteration": "Radhitu billahi Rabban wa bil Islami dinan wa bi Muhammadin nabiyya",
+    "translation": "আমি সন্তুষ্ট আল্লাহকে রব হিসেবে, ইসলামকে দ্বীন হিসেবে এবং মুহাম্মাদকে নবী হিসেবে",
+    "count_target": 3,
+    "description": "আযানের পরে পড়তে হয়।"
+  },
+  {
+    "id": 39,
+    "name": "বিসমিল্লাহি তাওয়াক্কালতু আলাল্লাহ",
+    "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "Bismillahi tawakkaltu alallah wa la hawla wa la quwwata illa billah",
+    "translation": "আল্লাহর নামে, আল্লাহর উপর ভরসা করলাম এবং আল্লাহ ছাড়া কোনো শক্তি নেই",
+    "count_target": 1,
+    "description": "ঘর থেকে বের হওয়ার সময় পড়তে হয়।"
+  },
+  {
+    "id": 40,
+    "name": "রাব্বানা আতিনা মিন লাদুনকা রাহমাহ",
+    "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi' lana min amrina rashada",
+    "translation": "হে আমাদের রব! তোমার পক্ষ থেকে আমাদের রহমত দাও এবং আমাদের কাজে সঠিক পথ নির্ধারণ করে দাও",
+    "count_target": 3,
+    "description": "আসহাবে কাহফের দোয়া।"
+  },
+  {
+    "id": 41,
+    "name": "রাব্বি ইন্নি মাসানিয়াদ দুর",
+    "arabic": "رَبِّ إِنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+    "transliteration": "Rabbi inni massaniy adh-dhurru wa anta arhamur rahimin",
+    "translation": "হে আমার রব! আমি কষ্টে পড়েছি এবং তুমি তো সর্বোচ্চ দয়ালু",
+    "count_target": 7,
+    "description": "হযরত আইউব (আ.)-এর দোয়া, বিপদে পড়লে পড়তে হয়।"
+  },
+  {
+    "id": 42,
+    "name": "রাব্বানা হাবলানা মিন আযওয়াজিনা",
+    "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+    "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yun waj'alna lil muttaqina imama",
+    "translation": "হে আমাদের রব! আমাদের স্ত্রী ও সন্তানদের আমাদের চোখের শীতলতা দান করো",
+    "count_target": 3,
+    "description": "পরিবারের কল্যাণের জন্য কুরআনের দোয়া।"
+  },
+  {
+    "id": 43,
+    "name": "রাব্বিশরাহ লি সাদরি",
+    "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+    "transliteration": "Rabbish-rah li sadri wa yassir li amri",
+    "translation": "হে আমার রব! আমার বুক খুলে দাও এবং আমার কাজ সহজ করে দাও",
+    "count_target": 7,
+    "description": "হযরত মূসা (আ.)-এর দোয়া, কঠিন কাজের আগে পড়তে হয়।"
+  },
+  {
+    "id": 44,
+    "name": "রাব্বানা লা তুযিগ কুলুবানা",
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً",
+    "transliteration": "Rabbana la tuzigh qulubana ba'da idh hadaytana wa hab lana min ladunka rahmah",
+    "translation": "হে আমাদের রব! হেদায়াতের পর আমাদের অন্তরকে বিচ্যুত করো না এবং তোমার রহমত দান করো",
+    "count_target": 3,
+    "description": "ঈমান ও হেদায়াতে অটল থাকার দোয়া।"
+  },
+  {
+    "id": 45,
+    "name": "ইয়া মুকাল্লিবাল কুলুব",
+    "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "transliteration": "Ya muqallibal qulubi thabbit qalbi ala dinik",
+    "translation": "হে অন্তর পরিবর্তনকারী! আমার অন্তরকে তোমার দ্বীনের উপর অটল রাখো",
+    "count_target": 10,
+    "description": "হৃদয়কে ঈমানের উপর স্থির রাখার দোয়া।"
+  },
+  {
+    "id": 46,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল হুদা ওয়াত তুকা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+    "transliteration": "Allahumma inni as'alukal huda wat tuqa wal afafa wal ghina",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সৎপথ, তাকওয়া, পবিত্রতা এবং সচ্ছলতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সর্বোত্তম জীবন যাপনের জন্য নবীজির শেখানো দোয়া।"
+  },
+  {
+    "id": 47,
+    "name": "আল্লাহুম্মা আইন্নি আলা যিকরিকা ওয়া শুকরিকা",
+    "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+    "transliteration": "Allahumma a'inni ala dhikrika wa shukrika wa husni ibadatik",
+    "translation": "হে আল্লাহ! তোমার যিকির, কৃতজ্ঞতা প্রকাশ এবং উত্তম ইবাদতে আমাকে সাহায্য করো",
+    "count_target": 3,
+    "description": "প্রতিটি ফরজ নামাজের পরে পড়তে হয়।"
+  },
+  {
+    "id": 48,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল হাম্মি ওয়াল হাযান",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ وَالْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+    "transliteration": "Allahumma inni a'udhu bika minal hammi wal hazan wal ajzi wal kasal wal bukhli wal jubn wa dhala'id dayn wa ghalabatir rijal",
+    "translation": "হে আল্লাহ! আমি তোমার আশ্রয় চাই দুশ্চিন্তা, দুঃখ, অক্ষমতা, আলসেমি, কৃপণতা, কাপুরুষতা, ঋণের বোঝা ও মানুষের দমন থেকে",
+    "count_target": 7,
+    "description": "আটটি খারাপ বিষয় থেকে আশ্রয় প্রার্থনার দোয়া।"
+  },
+  {
+    "id": 49,
+    "name": "আল্লাহুম্মা আফিনি ফি বাদানি",
+    "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي اللَّهُمَّ عَافِنِي فِي سَمْعِي اللَّهُمَّ عَافِنِي فِي بَصَرِي",
+    "transliteration": "Allahumma afini fi badani Allahumma afini fi sam'i Allahumma afini fi basari",
+    "translation": "হে আল্লাহ! আমার শরীরে, শ্রবণশক্তিতে ও দৃষ্টিশক্তিতে সুস্থতা দাও",
+    "count_target": 3,
+    "description": "শারীরিক সুস্থতার জন্য সকাল-সন্ধ্যার দোয়া।"
+  },
+  {
+    "id": 50,
+    "name": "সুবহানাল্লাহি ওয়া বিহামদিহি আদাদা খালকিহি",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+    "transliteration": "SubhanAllahi wa bihamdih adada khalqihi wa ridha nafsihi wa zinata arshihi wa midada kalimatihi",
+    "translation": "আল্লাহ পবিত্র তাঁর সৃষ্টির সংখ্যা, সন্তুষ্টি, আরশের ওজন এবং বাণীর কালি পরিমাণ",
+    "count_target": 3,
+    "description": "ফজরের পর পড়তে হয়, অসাধারণ ফযিলতপূর্ণ যিকির।"
+  },
+  {
+    "id": 51,
+    "name": "রাব্বানা লা তুআখিযনা",
+    "arabic": "رَبَّنَا لَا تُؤَاخِذْنَا إِن نَّسِينَا أَوْ أَخْطَأْنَا",
+    "transliteration": "Rabbana la tu'akhidhna in nasina aw akhta'na",
+    "translation": "হে আমাদের রব! আমরা যদি ভুলে যাই বা ভুল করি তবে আমাদের পাকড়াও করো না",
+    "count_target": 3,
+    "description": "সূরা বাকারার শেষ আয়াতের দোয়া।"
+  },
+  {
+    "id": 52,
+    "name": "রাব্বানা জালামনা আনফুসানা",
+    "arabic": "رَبَّنَا ظَلَمْنَا أَنفُسَنَا وَإِن لَّمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+    "transliteration": "Rabbana dhalamna anfusana wa in lam taghfir lana wa tarhamna lanakuunanna minal khasirin",
+    "translation": "হে আমাদের রব! আমরা নিজেদের উপর অত্যাচার করেছি, ক্ষমা না করলে আমরা ক্ষতিগ্রস্ত হব",
+    "count_target": 3,
+    "description": "হযরত আদম ও হাওয়া (আ.)-এর তাওবার দোয়া।"
+  },
+  {
+    "id": 53,
+    "name": "রাব্বানা আফরিগ আলাইনা সাবরান",
+    "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+    "transliteration": "Rabbana afrigh alayna sabran wa tawaffana muslimin",
+    "translation": "হে আমাদের রব! আমাদের উপর ধৈর্য ঢেলে দাও এবং আমাদের মুসলিম হিসেবে মৃত্যু দাও",
+    "count_target": 3,
+    "description": "ধৈর্য ও ইসলামের উপর মৃত্যুর দোয়া।"
+  },
+  {
+    "id": 54,
+    "name": "রাব্বানা তাকাব্বাল মিন্না",
+    "arabic": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنتَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Rabbana taqabbal minna innaka antas sami'ul aleem",
+    "translation": "হে আমাদের রব! আমাদের থেকে কবুল করো, নিশ্চয়ই তুমি সর্বশ্রোতা সর্বজ্ঞ",
+    "count_target": 3,
+    "description": "হযরত ইবরাহীম ও ইসমাইল (আ.)-এর দোয়া।"
+  },
+  {
+    "id": 55,
+    "name": "রাব্বানা আমান্না ফাগফির লানা",
+    "arabic": "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنتَ خَيْرُ الرَّاحِمِينَ",
+    "transliteration": "Rabbana amanna faghfir lana warhamna wa anta khayrur rahimin",
+    "translation": "হে আমাদের রব! আমরা ঈমান আনলাম, আমাদের ক্ষমা করো এবং দয়া করো",
+    "count_target": 3,
+    "description": "ঈমান ও ক্ষমার দোয়া।"
+  },
+  {
+    "id": 56,
+    "name": "রাব্বি হাবলি মিন লাদুনকা যুররিয়্যাতান",
+    "arabic": "رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+    "transliteration": "Rabbi hab li min ladunka dhurriyyatan tayyibatan innaka sami'ud du'a",
+    "translation": "হে আমার রব! আমাকে তোমার পক্ষ থেকে পুণ্যবান সন্তান দাও",
+    "count_target": 7,
+    "description": "হযরত যাকারিয়া (আ.)-এর নেক সন্তানের দোয়া।"
+  },
+  {
+    "id": 57,
+    "name": "রাব্বানা লা তাজআল ফিতনাতান লিল কাফিরীন",
+    "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا",
+    "transliteration": "Rabbana la taj'alna fitnatan lilladhina kafaru waghfir lana rabbana",
+    "translation": "হে আমাদের রব! আমাদের কাফিরদের জন্য ফিতনায় পরিণত করো না",
+    "count_target": 3,
+    "description": "ফিতনা থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 58,
+    "name": "আল্লাহুম্মাকফিনি বিহালালিকা",
+    "arabic": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+    "transliteration": "Allahummakfini bihalaalika an haramika wa aghnini bifadhlika amman siwak",
+    "translation": "হে আল্লাহ! তোমার হালাল রিজিক দিয়ে হারাম থেকে দূরে রাখো এবং তোমার অনুগ্রহ দিয়ে মুখাপেক্ষিতামুক্ত করো",
+    "count_target": 3,
+    "description": "হালাল রিজিক ও মুখাপেক্ষিতামুক্তির দোয়া।"
+  },
+  {
+    "id": 59,
+    "name": "আল্লাহুম্মা আসলিহ লি দ্বীনি",
+    "arabic": "اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي",
+    "transliteration": "Allahumma aslih li dini alladhi huwa ismatu amri wa aslih li dunyaya",
+    "translation": "হে আল্লাহ! আমার দ্বীনকে সংশোধন করো যা আমার কাজের রক্ষক এবং আমার দুনিয়াকে সংশোধন করো",
+    "count_target": 1,
+    "description": "দ্বীন ও দুনিয়া উভয়ের কল্যাণ চাওয়ার দোয়া।"
+  },
+  {
+    "id": 60,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল জান্নাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ",
+    "transliteration": "Allahumma inni as'alukal jannah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে জান্নাত চাই",
+    "count_target": 3,
+    "description": "জান্নাত কামনার সংক্ষিপ্ত দোয়া।"
+  },
+  {
+    "id": 61,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনান নার",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ النَّارِ",
+    "transliteration": "Allahumma inni a'udhu bika minan nar",
+    "translation": "হে আল্লাহ! আমি জাহান্নাম থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "জাহান্নাম থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 62,
+    "name": "আল্লাহুম্মা আজিরনি মিনান নার",
+    "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "transliteration": "Allahumma ajirni minan nar",
+    "translation": "হে আল্লাহ! আমাকে জাহান্নাম থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "সকাল-সন্ধ্যা ৭ বার পড়লে জাহান্নাম থেকে আশ্রয়।"
+  },
+  {
+    "id": 63,
+    "name": "আল্লাহুম্মা আদখিলনিল জান্নাহ",
+    "arabic": "اللَّهُمَّ أَدْخِلْنِي الْجَنَّةَ",
+    "transliteration": "Allahumma adkhilnil jannah",
+    "translation": "হে আল্লাহ! আমাকে জান্নাতে প্রবেশ করাও",
+    "count_target": 3,
+    "description": "জান্নাতে প্রবেশের দোয়া।"
+  },
+  {
+    "id": 64,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল ফিরদাউসাল আলা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْفِرْدَوْسَ الْأَعْلَى",
+    "transliteration": "Allahumma inni as'alukal firdawsal a'la",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সর্বোচ্চ জান্নাত ফিরদাউস প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সর্বোচ্চ জান্নাতের দোয়া।"
+  },
+  {
+    "id": 65,
+    "name": "লাব্বাইকা আল্লাহুম্মা লাব্বাইক",
+    "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ لَا شَرِيكَ لَكَ",
+    "transliteration": "Labbayk Allahumma labbayk labbayk la sharika laka labbayk innal hamda wan ni'mata laka wal mulk la sharika lak",
+    "translation": "হাজির হে আল্লাহ! হাজির, তোমার কোনো শরিক নেই",
+    "count_target": 1,
+    "description": "হজ ও উমরার তালবিয়া।"
+  },
+  {
+    "id": 66,
+    "name": "তাসবীহে ফাতিমা",
+    "arabic": "سُبْحَانَ اللَّهِ ٣٣ وَالْحَمْدُ لِلَّهِ ٣٣ وَاللَّهُ أَكْبَرُ ٣٤",
+    "transliteration": "SubhanAllah 33x, Alhamdulillah 33x, Allahu Akbar 34x",
+    "translation": "আল্লাহ পবিত্র ৩৩ বার, সমস্ত প্রশংসা আল্লাহর ৩৩ বার, আল্লাহ সর্বশ্রেষ্ঠ ৩৪ বার",
+    "count_target": 100,
+    "description": "তাসবীহে ফাতিমা - নামাজের পরে পড়তে হয়।"
+  },
+  {
+    "id": 67,
+    "name": "আল্লাহুম্মা লা মানিআ লিমা আতাইত",
+    "arabic": "اللَّهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ وَلَا مُعْطِيَ لِمَا مَنَعْتَ وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْكَ الْجَدُّ",
+    "transliteration": "Allahumma la mani'a lima a'tayta wa la mu'tiya lima mana'ta wa la yanfa'u dhal jaddi minkal jadd",
+    "translation": "হে আল্লাহ! তুমি যা দাও তা কেউ রোধ করতে পারে না, তুমি যা রোধ করো তা কেউ দিতে পারে না",
+    "count_target": 1,
+    "description": "ফরজ নামাজের পরে পড়তে হয়।"
+  },
+  {
+    "id": 68,
+    "name": "ইহদিনাস সিরাতাল মুস্তাকিম",
+    "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ",
+    "transliteration": "Ihdinas siratal mustaqim siratal ladhina an'amta alayhim",
+    "translation": "আমাদের সরল পথ দেখাও, তাদের পথ যাদের উপর তুমি নেয়ামত দিয়েছ",
+    "count_target": 17,
+    "description": "সূরা ফাতিহার দোয়া, প্রতিদিন ১৭ রাকাতে পড়তে হয়।"
+  },
+  {
+    "id": 69,
+    "name": "আল্লাহুম্মা রাব্বান নাস আযহিবিল বাস",
+    "arabic": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَأْسَ وَاشْفِ أَنْتَ الشَّافِي",
+    "transliteration": "Allahumma rabban nasi adh-hibil ba'sa washfi antal shafi",
+    "translation": "হে আল্লাহ! মানুষের রব, কষ্ট দূর করো এবং আরোগ্য দাও, তুমিই আরোগ্যদাতা",
+    "count_target": 3,
+    "description": "রোগ নিরাময়ের বিশেষ দোয়া।"
+  },
+  {
+    "id": 70,
+    "name": "বিসমিল্লাহিল্লাযি লা ইয়াদুররু",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillahilladhi la yadurru ma'a ismihi shay'un fil ardhi wa la fis sama'i wa huwas sami'ul alim",
+    "translation": "আল্লাহর নামে যার নামের সাথে আসমান-জমিনে কোনো কিছুই ক্ষতি করতে পারে না",
+    "count_target": 3,
+    "description": "সকাল-সন্ধ্যা ৩ বার পড়লে কোনো কিছু ক্ষতি করতে পারে না।"
+  },
+  {
+    "id": 71,
+    "name": "আউযু বিকালিমাতিল্লাহিত তাম্মাতি",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+    "transliteration": "A'udhu bikalimatillahit tammati min sharri ma khalaq",
+    "translation": "আমি আল্লাহর পরিপূর্ণ বাণীসমূহের মাধ্যমে তাঁর সৃষ্টির সকল অনিষ্ট থেকে আশ্রয় চাই",
+    "count_target": 3,
+    "description": "সন্ধ্যায় ৩ বার পড়লে সকল অনিষ্ট থেকে সুরক্ষা।"
+  },
+  {
+    "id": 72,
+    "name": "আউযু বিকালিমাতিল্লাহিত তাম্মাতি মিন কুল্লি শায়তান",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+    "transliteration": "A'udhu bikalimatillahit tammati min kulli shaitanin wa hammatin wa min kulli aynin lammah",
+    "translation": "আমি আল্লাহর পূর্ণ বাণীর মাধ্যমে প্রতিটি শয়তান, বিষাক্ত প্রাণী ও ক্ষতিকর নজর থেকে আশ্রয় চাই",
+    "count_target": 3,
+    "description": "নবীজি তাঁর নাতিদের এই দোয়া পড়ে দিতেন।"
+  },
+  {
+    "id": 73,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা রিদাকা ওয়াল জান্নাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ",
+    "transliteration": "Allahumma inni as'aluka ridhaaka wal jannah",
+    "translation": "হে আল্লাহ! আমি তোমার সন্তুষ্টি ও জান্নাত প্রার্থনা করি",
+    "count_target": 3,
+    "description": "আল্লাহর সন্তুষ্টি ও জান্নাতের দোয়া।"
+  },
+  {
+    "id": 74,
+    "name": "ইয়া হাইয়্যু ইয়া কাইয়্যুম",
+    "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+    "transliteration": "Ya Hayyu ya Qayyum birahmatika astaghith",
+    "translation": "হে চিরঞ্জীব! হে সর্বসত্তার ধারক! তোমার রহমতের মাধ্যমে তোমার কাছে সাহায্য চাই",
+    "count_target": 7,
+    "description": "বিপদে আল্লাহর দুটি বিশেষ নামে দোয়া।"
+  },
+  {
+    "id": 75,
+    "name": "ইয়া যাল জালালি ওয়াল ইকরাম",
+    "arabic": "يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Ya Dhal Jalali wal Ikram",
+    "translation": "হে মহিমা ও সম্মানের অধিকারী",
+    "count_target": 100,
+    "description": "আল্লাহর বিশেষ নামে যিকির।"
+  },
+  {
+    "id": 76,
+    "name": "ইয়া লাতীফ",
+    "arabic": "يَا لَطِيفُ",
+    "transliteration": "Ya Latif",
+    "translation": "হে সূক্ষ্মদর্শী ও কৃপালু",
+    "count_target": 129,
+    "description": "কঠিন পরিস্থিতিতে আল্লাহর আল-লাতীফ নামের যিকির।"
+  },
+  {
+    "id": 77,
+    "name": "ইয়া রাযযাক",
+    "arabic": "يَا رَزَّاقُ",
+    "transliteration": "Ya Razzaq",
+    "translation": "হে রিজিকদাতা",
+    "count_target": 100,
+    "description": "আল্লাহর আর-রাযযাক নামের যিকির, রিজিক বৃদ্ধির জন্য।"
+  },
+  {
+    "id": 78,
+    "name": "ইয়া ওয়াহহাব",
+    "arabic": "يَا وَهَّابُ",
+    "transliteration": "Ya Wahhab",
+    "translation": "হে সর্বোচ্চ দানশীল",
+    "count_target": 100,
+    "description": "আল্লাহর আল-ওয়াহহাব নামের যিকির।"
+  },
+  {
+    "id": 79,
+    "name": "ইয়া মুজীব",
+    "arabic": "يَا مُجِيبُ",
+    "transliteration": "Ya Mujib",
+    "translation": "হে দোয়া কবুলকারী",
+    "count_target": 100,
+    "description": "আল্লাহর আল-মুজীব নামের যিকির।"
+  },
+  {
+    "id": 80,
+    "name": "ইয়া গাফফার",
+    "arabic": "يَا غَفَّارُ",
+    "transliteration": "Ya Ghaffar",
+    "translation": "হে বারবার ক্ষমাকারী",
+    "count_target": 100,
+    "description": "আল্লাহর আল-গাফফার নামের যিকির।"
+  },
+  {
+    "id": 81,
+    "name": "ইয়া তাওয়্যাব",
+    "arabic": "يَا تَوَّابُ",
+    "transliteration": "Ya Tawwab",
+    "translation": "হে বারবার তাওবা কবুলকারী",
+    "count_target": 100,
+    "description": "আল্লাহর আত-তাওয়্যাব নামের যিকির।"
+  },
+  {
+    "id": 82,
+    "name": "ইয়া শাফি",
+    "arabic": "يَا شَافِي",
+    "transliteration": "Ya Shafi",
+    "translation": "হে আরোগ্যদানকারী",
+    "count_target": 7,
+    "description": "রোগ নিরাময়ের জন্য আল্লাহর নামে যিকির।"
+  },
+  {
+    "id": 83,
+    "name": "ইয়া কাফী",
+    "arabic": "يَا كَافِي",
+    "transliteration": "Ya Kafi",
+    "translation": "হে যথেষ্টকারী",
+    "count_target": 7,
+    "description": "আল্লাহ যথেষ্ট এ স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 84,
+    "name": "ইয়া হাফিয",
+    "arabic": "يَا حَافِظُ",
+    "transliteration": "Ya Hafiz",
+    "translation": "হে সংরক্ষণকারী ও রক্ষাকারী",
+    "count_target": 16,
+    "description": "আল্লাহর আল-হাফিয নামের যিকির, নিরাপত্তার জন্য।"
+  },
+  {
+    "id": 85,
+    "name": "ইয়া সামিউ ইয়া বাসির",
+    "arabic": "يَا سَمِيعُ يَا بَصِيرُ",
+    "transliteration": "Ya Samiu ya Basir",
+    "translation": "হে সর্বশ্রোতা! হে সর্বদ্রষ্টা!",
+    "count_target": 100,
+    "description": "আল্লাহর শ্রবণ ও দর্শন শক্তির নামের যিকির।"
+  },
+  {
+    "id": 86,
+    "name": "ইয়া আলীমু ইয়া খাবীর",
+    "arabic": "يَا عَلِيمُ يَا خَبِيرُ",
+    "transliteration": "Ya Alimu ya Khabir",
+    "translation": "হে সর্বজ্ঞ! হে সম্যক অবগত!",
+    "count_target": 100,
+    "description": "আল্লাহর জ্ঞান সংক্রান্ত নামের যিকির।"
+  },
+  {
+    "id": 87,
+    "name": "ইয়া হাকীমু ইয়া লাতীফ",
+    "arabic": "يَا حَكِيمُ يَا لَطِيفُ",
+    "transliteration": "Ya Hakimu ya Latif",
+    "translation": "হে প্রজ্ঞাময়! হে সূক্ষ্মদর্শী!",
+    "count_target": 100,
+    "description": "আল্লাহর প্রজ্ঞা ও সূক্ষ্মদর্শিতার নামের যিকির।"
+  },
+  {
+    "id": 88,
+    "name": "ইয়া আওয়ালু ইয়া আখিরু ইয়া যাহিরু ইয়া বাতিন",
+    "arabic": "يَا أَوَّلُ يَا آخِرُ يَا ظَاهِرُ يَا بَاطِنُ",
+    "transliteration": "Ya Awwalu ya Akhiru ya Zahiru ya Batin",
+    "translation": "হে প্রথম! হে শেষ! হে প্রকাশ্য! হে অপ্রকাশ্য!",
+    "count_target": 33,
+    "description": "আল্লাহর চারটি বিশেষ নামে যিকির।"
+  },
+  {
+    "id": 89,
+    "name": "ইয়া আল্লাহু ইয়া রাহমানু ইয়া রাহীম",
+    "arabic": "يَا اللَّهُ يَا رَحْمَانُ يَا رَحِيمُ",
+    "transliteration": "Ya Allahu ya Rahmanu ya Rahim",
+    "translation": "হে আল্লাহ! হে রহমান! হে রহীম!",
+    "count_target": 100,
+    "description": "আল্লাহর সুন্দর নামগুলো দিয়ে ডাকা।"
+  },
+  {
+    "id": 90,
+    "name": "ইয়া ওয়াদুদ",
+    "arabic": "يَا وَدُودُ",
+    "transliteration": "Ya Wadud",
+    "translation": "হে প্রেমময়",
+    "count_target": 100,
+    "description": "আল্লাহর আল-ওয়াদুদ নামের যিকির।"
+  },
+  {
+    "id": 91,
+    "name": "ইয়া গনিয়্যু ইয়া মুগনি",
+    "arabic": "يَا غَنِيُّ يَا مُغْنِي",
+    "transliteration": "Ya Ghaniyyu ya Mughni",
+    "translation": "হে অমুখাপেক্ষী! হে অভাবমুক্তকারী!",
+    "count_target": 100,
+    "description": "আর্থিক সচ্ছলতা ও মুখাপেক্ষিতা দূরের জন্য।"
+  },
+  {
+    "id": 92,
+    "name": "ইয়া খালিকু ইয়া বারিউ ইয়া মুসাউয়ির",
+    "arabic": "يَا خَالِقُ يَا بَارِئُ يَا مُصَوِّرُ",
+    "transliteration": "Ya Khaliqu ya Bariu ya Musawwir",
+    "translation": "হে সৃষ্টিকর্তা! হে উদ্ভাবনকর্তা! হে আকৃতিদাতা!",
+    "count_target": 33,
+    "description": "আল্লাহর সৃষ্টিকর্তা সম্পর্কিত নামে যিকির।"
+  },
+  {
+    "id": 93,
+    "name": "ইয়া কারীমু ইয়া রাহীম",
+    "arabic": "يَا كَرِيمُ يَا رَحِيمُ",
+    "transliteration": "Ya Karimu ya Rahim",
+    "translation": "হে উদার! হে দয়ালু!",
+    "count_target": 100,
+    "description": "আল্লাহর দয়া ও উদারতার নামের যিকির।"
+  },
+  {
+    "id": 94,
+    "name": "ইয়া জামিলু ইয়া জালিল",
+    "arabic": "يَا جَمِيلُ يَا جَلِيلُ",
+    "transliteration": "Ya Jamilu ya Jalil",
+    "translation": "হে সুন্দর! হে মহিমাময়!",
+    "count_target": 33,
+    "description": "আল্লাহর সৌন্দর্য ও মহিমার নামে যিকির।"
+  },
+  {
+    "id": 95,
+    "name": "ইয়া মুকাদ্দিমু ইয়া মুআখখির",
+    "arabic": "يَا مُقَدِّمُ يَا مُؤَخِّرُ",
+    "transliteration": "Ya Muqaddimu ya Mu'akhkhir",
+    "translation": "হে অগ্রগামীকারী! হে পিছিয়ে দেওয়ার মালিক!",
+    "count_target": 100,
+    "description": "আল্লাহর দুটি সুন্দর নামের যিকির।"
+  },
+  {
+    "id": 96,
+    "name": "ইয়া মুহাইমিন ইয়া মুতাআলি",
+    "arabic": "يَا مُهَيْمِنُ يَا مُتَعَالِي",
+    "transliteration": "Ya Muhayminu ya Muta'ali",
+    "translation": "হে তত্ত্বাবধায়ক! হে সর্বোচ্চ!",
+    "count_target": 33,
+    "description": "আল্লাহর দুটি বিশেষ নামের যিকির।"
+  },
+  {
+    "id": 97,
+    "name": "ইয়া আদলু ইয়া হাকাম",
+    "arabic": "يَا عَدْلُ يَا حَكَمُ",
+    "transliteration": "Ya Adlu ya Hakam",
+    "translation": "হে ন্যায়পরায়ণ! হে বিচারক!",
+    "count_target": 33,
+    "description": "আল্লাহর ন্যায়বিচার সংক্রান্ত নামের যিকির।"
+  },
+  {
+    "id": 98,
+    "name": "ইয়া কাবীদু ইয়া বাসিত",
+    "arabic": "يَا قَابِضُ يَا بَاسِطُ",
+    "transliteration": "Ya Qabidhuu ya Basit",
+    "translation": "হে সংকোচকারী! হে প্রশস্তকারী!",
+    "count_target": 33,
+    "description": "আল্লাহর দুটি পরিপূরক নামের যিকির।"
+  },
+  {
+    "id": 99,
+    "name": "ইয়া মুইজু ইয়া মুযিল",
+    "arabic": "يَا مُعِزُّ يَا مُذِلُّ",
+    "transliteration": "Ya Mu'izzu ya Mudhil",
+    "translation": "হে সম্মানদাতা! হে অপমানকারী!",
+    "count_target": 33,
+    "description": "আল্লাহর ইচ্ছায় সম্মান ও অপমানের মালিকের যিকির।"
+  },
+  {
+    "id": 100,
+    "name": "আল্লাহুম্মা সাল্লি আলা মুহাম্মাদিন ওয়া আলা আলি মুহাম্মাদ",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ",
+    "transliteration": "Allahumma salli ala Muhammadin wa ala ali Muhammad kama sallayta ala Ibrahim",
+    "translation": "হে আল্লাহ! মুহাম্মাদ ও তাঁর পরিবারের উপর রহমত বর্ষণ করো যেমন ইবরাহীমের উপর করেছ",
+    "count_target": 10,
+    "description": "দরুদে ইবরাহীমি।"
+  },
+  {
+    "id": 101,
+    "name": "আল্লাহুম্মা বারিক আলা মুহাম্মাদ",
+    "arabic": "اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ",
+    "transliteration": "Allahumma barik ala Muhammad wa ala ali Muhammad kama barakta ala Ibrahim",
+    "translation": "হে আল্লাহ! মুহাম্মাদ ও তাঁর পরিবারের উপর বরকত দান করো যেমন ইবরাহীমের উপর দিয়েছ",
+    "count_target": 10,
+    "description": "নামাজে দরুদে ইবরাহীমির দ্বিতীয় অংশ।"
+  },
+  {
+    "id": 102,
+    "name": "আস-সালামু আলাইকুম",
+    "arabic": "السَّلَامُ عَلَيْكُمْ",
+    "transliteration": "As-salamu alaykum",
+    "translation": "তোমাদের উপর শান্তি বর্ষিত হোক",
+    "count_target": 1,
+    "description": "মুসলিম ভাইকে সালাম দেওয়ার সুন্নত।"
+  },
+  {
+    "id": 103,
+    "name": "বারাকাল্লাহু ফিক",
+    "arabic": "بَارَكَ اللَّهُ فِيكَ",
+    "transliteration": "Barakallahu fik",
+    "translation": "আল্লাহ তোমার মধ্যে বরকত দিন",
+    "count_target": 1,
+    "description": "কারো প্রতি বরকতের দোয়া।"
+  },
+  {
+    "id": 104,
+    "name": "শাফাকাল্লাহু",
+    "arabic": "شَفَاكَ اللَّهُ",
+    "transliteration": "Shafakallahu",
+    "translation": "আল্লাহ তোমাকে সুস্থ করুন",
+    "count_target": 1,
+    "description": "অসুস্থ ব্যক্তির জন্য আরোগ্যের দোয়া।"
+  },
+  {
+    "id": 105,
+    "name": "আল্লাহুম্মা বারিক লানা ফি আহলিনা",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي أَهْلِنَا",
+    "transliteration": "Allahumma barik lana fi ahliná",
+    "translation": "হে আল্লাহ! আমাদের পরিবারে বরকত দাও",
+    "count_target": 3,
+    "description": "পরিবারের বরকতের জন্য দোয়া।"
+  },
+  {
+    "id": 106,
+    "name": "তাবারাকাল্লাহু আহসানুল খালিকীন",
+    "arabic": "تَبَارَكَ اللَّهُ أَحْسَنُ الْخَالِقِينَ",
+    "transliteration": "Tabarakallahu ahsanul khaliqin",
+    "translation": "আল্লাহ বরকতময়, তিনি সর্বোত্তম স্রষ্টা",
+    "count_target": 3,
+    "description": "সৃষ্টিকর্তা হিসেবে আল্লাহর প্রশংসার যিকির।"
+  },
+  {
+    "id": 107,
+    "name": "আস্বাহনা ওয়া আস্বাহাল মুলকু লিল্লাহ",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+    "transliteration": "Asbahna wa asbahal mulku lillahi walhamdulillah",
+    "translation": "আমরা সকালে উপনীত হয়েছি এবং রাজত্ব আল্লাহর, সমস্ত প্রশংসা আল্লাহর",
+    "count_target": 1,
+    "description": "সকালের যিকির।"
+  },
+  {
+    "id": 108,
+    "name": "আমসাইনা ওয়া আমসাল মুলকু লিল্লাহ",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ",
+    "transliteration": "Amsayna wa amsal mulku lillahi walhamdulillah",
+    "translation": "আমরা সন্ধ্যায় উপনীত হয়েছি এবং রাজত্ব আল্লাহর, সমস্ত প্রশংসা আল্লাহর",
+    "count_target": 1,
+    "description": "সন্ধ্যার যিকির।"
+  },
+  {
+    "id": 109,
+    "name": "আল্লাহুম্মা বিকা আস্বাহনা",
+    "arabic": "اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+    "transliteration": "Allahumma bika asbahna wa bika amsayna wa bika nahya wa bika namutu wa ilaykan nushur",
+    "translation": "হে আল্লাহ! তোমার সাথে সকালে উপনীত, তোমার দ্বারা বাঁচি, তোমার দ্বারা মরি এবং তোমার দিকেই পুনরুত্থান",
+    "count_target": 1,
+    "description": "সকালের বিশেষ যিকির।"
+  },
+  {
+    "id": 110,
+    "name": "আল্লাহুম্মা বিকা আমসাইনা",
+    "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+    "transliteration": "Allahumma bika amsayna wa bika asbahna wa bika nahya wa bika namutu wa ilaykal masir",
+    "translation": "হে আল্লাহ! তোমার সাথে সন্ধ্যায় উপনীত, তোমার দ্বারা বাঁচি, তোমার দ্বারা মরি এবং তোমার দিকেই প্রত্যাবর্তন",
+    "count_target": 1,
+    "description": "সন্ধ্যার বিশেষ যিকির।"
+  },
+  {
+    "id": 111,
+    "name": "বিসমিকা রাব্বি ওয়াদাতু জানবি",
+    "arabic": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي وَبِكَ أَرْفَعُهُ",
+    "transliteration": "Bismika rabbi wada'tu janbi wa bika arfa'uhu...",
+    "translation": "তোমার নামে হে রব! শুয়ে পড়লাম এবং তোমার নামেই উঠব",
+    "count_target": 1,
+    "description": "ঘুমের বিশেষ দোয়া।"
+  },
+  {
+    "id": 112,
+    "name": "আল্লাহুম্মা কিনি আযাবাকা",
+    "arabic": "اللَّهُمَّ قِنِي عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ",
+    "transliteration": "Allahumma qini adhabaka yawma tab'athu ibadak",
+    "translation": "হে আল্লাহ! যেদিন তুমি তোমার বান্দাদের পুনরুত্থিত করবে সেদিনের আযাব থেকে আমাকে রক্ষা করো",
+    "count_target": 3,
+    "description": "ঘুমের আগে পড়তে হয়।"
+  },
+  {
+    "id": 113,
+    "name": "আল্লাহুম্মা মা আসবাহা বি মিন নিয়মাতিন",
+    "arabic": "اللَّهُمَّ مَا أَصْبَحَ بِي مِنْ نِعْمَةٍ فَمِنْكَ وَحْدَكَ لَا شَرِيكَ لَكَ فَلَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+    "transliteration": "Allahumma ma asbaha bi min ni'matin faminaka wahdaka la sharika laka falakal hamdu wa lakash shukru",
+    "translation": "হে আল্লাহ! সকালে আমার কাছে যে নেয়ামত আছে তা শুধু তোমার পক্ষ থেকে, তোমারই প্রশংসা ও কৃতজ্ঞতা",
+    "count_target": 1,
+    "description": "সকালে পড়তে হয়, সকল নেয়ামতের শুকরিয়ার দোয়া।"
+  },
+  {
+    "id": 114,
+    "name": "সুবহানাল্লাহি মিলআল মিযান",
+    "arabic": "سُبْحَانَ اللَّهِ مِلْءَ الْمِيزَانِ وَمُنْتَهَى الْعِلْمِ وَمَبْلَغَ الرِّضَا وَزِنَةَ الْعَرْشِ",
+    "transliteration": "SubhanAllahi mil'al mizan wa muntahal ilm wa mablaghar ridha wa zinatal arsh",
+    "translation": "আল্লাহ পবিত্র মিযান পরিপূর্ণ, জ্ঞানের শেষ সীমা পর্যন্ত এবং আরশের ওজন পর্যন্ত",
+    "count_target": 3,
+    "description": "তাসবীহের সর্বোচ্চ মাত্রার প্রকাশ।"
+  },
+  {
+    "id": 115,
+    "name": "আল্লাহুম্মাগফির লি ওয়ালিওয়ালিদাই",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِي وَلِوَالِدَيَّ وَارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "transliteration": "Allahummaghfir li wa liwaalidayya warhamhuma kama rabbayani saghira",
+    "translation": "হে আল্লাহ! আমাকে ও আমার পিতামাতাকে ক্ষমা করো এবং তাদের উপর দয়া করো",
+    "count_target": 3,
+    "description": "পিতামাতার জন্য ক্ষমা ও রহমতের দোয়া।"
+  },
+  {
+    "id": 116,
+    "name": "রাব্বির হামহুমা কামা রাব্বায়ানি",
+    "arabic": "رَبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+    "transliteration": "Rabbir hamhuma kama rabbayani saghira",
+    "translation": "হে আমার রব! তাদের উপর দয়া করো যেমন তারা শিশুকালে আমাকে লালন-পালন করেছেন",
+    "count_target": 3,
+    "description": "পিতামাতার জন্য রহমতের কুরআনি দোয়া।"
+  },
+  {
+    "id": 117,
+    "name": "আল্লাহুম্মাগফির লিল মুমিনীনা ওয়াল মুমিনাত",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ",
+    "transliteration": "Allahummaghfir lil mu'minina wal mu'minat",
+    "translation": "হে আল্লাহ! সকল মুমিন পুরুষ ও নারীদের ক্ষমা করো",
+    "count_target": 3,
+    "description": "সকল মুমিনদের জন্য ক্ষমার দোয়া।"
+  },
+  {
+    "id": 118,
+    "name": "আল্লাহুম্মা আনসুরিল ইসলামা ওয়াল মুসলিমীন",
+    "arabic": "اللَّهُمَّ انْصُرِ الْإِسْلَامَ وَالْمُسْلِمِينَ",
+    "transliteration": "Allahumma ansurril Islam wal muslimin",
+    "translation": "হে আল্লাহ! ইসলাম ও মুসলমানদের সাহায্য করো",
+    "count_target": 3,
+    "description": "ইসলাম ও মুসলমানদের সাহায্যের দোয়া।"
+  },
+  {
+    "id": 119,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা ইলমান নাফিআন",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+    "transliteration": "Allahumma inni as'aluka ilman nafi'an wa rizqan tayyiban wa amalan mutaqabbalan",
+    "translation": "হে আল্লাহ! আমি উপকারী জ্ঞান, পবিত্র রিজিক এবং কবুলযোগ্য আমল প্রার্থনা করি",
+    "count_target": 1,
+    "description": "ফজরের নামাজের পর পড়তে হয়।"
+  },
+  {
+    "id": 120,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন ইলমিন লা ইয়ানফাউ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ",
+    "transliteration": "Allahumma inni a'udhu bika min ilmin la yanfa'",
+    "translation": "হে আল্লাহ! আমি অনুপকারী জ্ঞান থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "অনুপকারী জ্ঞান থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 121,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন কালবিন লা ইয়াখশাউ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ قَلْبٍ لَا يَخْشَعُ",
+    "transliteration": "Allahumma inni a'udhu bika min qalbin la yakhsha'",
+    "translation": "হে আল্লাহ! আমি এমন অন্তর থেকে তোমার আশ্রয় চাই যা বিনম্র হয় না",
+    "count_target": 3,
+    "description": "কঠোর হৃদয় থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 122,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন দুআইন লা ইউসমাউ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ دُعَاءٍ لَا يُسْمَعُ",
+    "transliteration": "Allahumma inni a'udhu bika min du'a'in la yusma'",
+    "translation": "হে আল্লাহ! আমি এমন দোয়া থেকে তোমার আশ্রয় চাই যা কবুল হয় না",
+    "count_target": 3,
+    "description": "প্রত্যাখ্যাত দোয়া থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 123,
+    "name": "আল্লাহুম্মাগফির লিমাইয়্যিতিনা",
+    "arabic": "اللَّهُمَّ اغْفِرْ لِمَيِّتِنَا وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ",
+    "transliteration": "Allahummaghfir limayyitina warhamhu wa afihi wa'fu anhu",
+    "translation": "হে আল্লাহ! আমাদের মৃতকে ক্ষমা করো, দয়া করো, সুস্থতা দাও এবং মাফ করো",
+    "count_target": 3,
+    "description": "জানাযার নামাজের দোয়া।"
+  },
+  {
+    "id": 124,
+    "name": "আল্লাহুম্মা আদখিলহুল জান্নাহ",
+    "arabic": "اللَّهُمَّ أَدْخِلْهُ الْجَنَّةَ وَأَجِرْهُ مِنَ الْقَبْرِ وَمِنْ عَذَابِ النَّارِ",
+    "transliteration": "Allahumma adkhilhul jannata wa ajirhu minal qabri wa min adhabin nar",
+    "translation": "হে আল্লাহ! তাকে জান্নাতে প্রবেশ করাও এবং কবরের ও জাহান্নামের আযাব থেকে রক্ষা করো",
+    "count_target": 3,
+    "description": "মৃতের জন্য জানাযার ব্যাপক দোয়া।"
+  },
+  {
+    "id": 125,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আযাবিল কাবর",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+    "transliteration": "Allahumma inni a'udhu bika min adhabul qabr",
+    "translation": "হে আল্লাহ! আমি কবরের আযাব থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "কবরের আযাব থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 126,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন ফিতনাতিল দাজ্জাল",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+    "transliteration": "Allahumma inni a'udhu bika min fitnatil masihid dajjal",
+    "translation": "হে আল্লাহ! আমি দাজ্জালের ফিতনা থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "দাজ্জালের ফিতনা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 127,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন ফিতনাতিল মাহিয়া ওয়াল মামাত",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+    "transliteration": "Allahumma inni a'udhu bika min fitnatil mahya wal mamat",
+    "translation": "হে আল্লাহ! আমি জীবন ও মৃত্যুর ফিতনা থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "জীবন ও মৃত্যুর পরীক্ষা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 128,
+    "name": "আল্লাহুম্মা তাওয়াফফানি মুসলিমান",
+    "arabic": "اللَّهُمَّ تَوَفَّنِي مُسْلِمًا وَأَحْيِنِي مُسْلِمًا",
+    "transliteration": "Allahumma tawaffani musliman wa ahyini musliman",
+    "translation": "হে আল্লাহ! আমাকে মুসলিম হিসেবে মৃত্যু দাও এবং মুসলিম হিসেবে বাঁচিয়ে রাখো",
+    "count_target": 3,
+    "description": "ইসলামের উপর মৃত্যুর দোয়া।"
+  },
+  {
+    "id": 129,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল হুসনাল খাতিমাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُسْنَ الْخَاتِمَةِ",
+    "transliteration": "Allahumma inni as'aluka husnal khatimah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সুন্দর পরিণতি প্রার্থনা করি",
+    "count_target": 7,
+    "description": "জীবনের শেষ পরিণতি ভালো হওয়ার দোয়া।"
+  },
+  {
+    "id": 130,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন সুইল খাতিমাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ سُوءِ الْخَاتِمَةِ",
+    "transliteration": "Allahumma inni a'udhu bika min su'il khatimah",
+    "translation": "হে আল্লাহ! আমি মন্দ পরিণতি থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "মন্দ পরিণতি থেকে আশ্রয় প্রার্থনার দোয়া।"
+  },
+  {
+    "id": 131,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাস সাবাতা ফিল আমর",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الثَّبَاتَ فِي الْأَمْرِ",
+    "transliteration": "Allahumma inni as'alukas thabata fil amr",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে কাজে দৃঢ়তা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "ইবাদত ও সৎ কাজে দৃঢ়তার দোয়া।"
+  },
+  {
+    "id": 132,
+    "name": "আল্লাহুম্মা মুসাহহিলাল উমুর",
+    "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+    "transliteration": "Allahumma la sahla illa ma ja'altahu sahlan wa anta taj'alul hazna idha shi'ta sahla",
+    "translation": "হে আল্লাহ! সহজ বলতে কিছু নেই তুমি যা সহজ করেছ তা ছাড়া, তুমি চাইলে কঠিনকেও সহজ করতে পারো",
+    "count_target": 3,
+    "description": "কঠিন কাজ সহজ করার দোয়া।"
+  },
+  {
+    "id": 133,
+    "name": "আল্লাহুম্মা নাওয়্যির কালবি বিনূরিক",
+    "arabic": "اللَّهُمَّ نَوِّرْ قَلْبِي بِنُورِكَ",
+    "transliteration": "Allahumma nawwir qalbi binurik",
+    "translation": "হে আল্লাহ! আমার অন্তরকে তোমার নূর দিয়ে আলোকিত করো",
+    "count_target": 7,
+    "description": "অন্তরের নূর ও আলোর দোয়া।"
+  },
+  {
+    "id": 134,
+    "name": "আল্লাহুম্মা আজআল ফি কালবি নূরান",
+    "arabic": "اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا وَفِي بَصَرِي نُورًا وَفِي سَمْعِي نُورًا",
+    "transliteration": "Allahumma aj'al fi qalbi nuran wa fi basari nuran wa fi sam'i nuran",
+    "translation": "হে আল্লাহ! আমার অন্তরে, দৃষ্টিশক্তিতে ও শ্রবণশক্তিতে নূর রাখো",
+    "count_target": 3,
+    "description": "শারীরিক ও আত্মিক নূরের দোয়া।"
+  },
+  {
+    "id": 135,
+    "name": "আল্লাহুম্মা হাব্বিব ইলাইনাল ইমান",
+    "arabic": "اللَّهُمَّ حَبِّبْ إِلَيْنَا الْإِيمَانَ وَزَيِّنْهُ فِي قُلُوبِنَا",
+    "transliteration": "Allahumma habbib ilaynal imana wa zayyinhu fi qulubina",
+    "translation": "হে আল্লাহ! আমাদের কাছে ঈমানকে প্রিয় করো এবং আমাদের হৃদয়কে তা দিয়ে সুশোভিত করো",
+    "count_target": 3,
+    "description": "ঈমানের প্রতি ভালোবাসা বৃদ্ধির দোয়া।"
+  },
+  {
+    "id": 136,
+    "name": "আল্লাহুম্মা কার্রিহ ইলাইনাল কুফরা",
+    "arabic": "اللَّهُمَّ كَرِّهْ إِلَيْنَا الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ",
+    "transliteration": "Allahumma karrih ilaynal kufra wal fusuqa wal isyan",
+    "translation": "হে আল্লাহ! আমাদের কাছে কুফর, পাপাচার ও অবাধ্যতাকে অপ্রিয় করো",
+    "count_target": 3,
+    "description": "পাপ থেকে বিরত থাকার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 137,
+    "name": "আল্লাহুম্মা আতিনি হুসনাল খুলুক",
+    "arabic": "اللَّهُمَّ آتِنِي حُسْنَ الْخُلُقِ",
+    "transliteration": "Allahumma atini husnal khuluq",
+    "translation": "হে আল্লাহ! আমাকে উত্তম চরিত্র দাও",
+    "count_target": 7,
+    "description": "উত্তম চরিত্রের জন্য দোয়া।"
+  },
+  {
+    "id": 138,
+    "name": "আল্লাহুম্মা আহসিন খুলুকি",
+    "arabic": "اللَّهُمَّ أَحْسِنْ خُلُقِي كَمَا أَحْسَنْتَ خَلْقِي",
+    "transliteration": "Allahumma ahsin khuluqi kama ahsanta khalqi",
+    "translation": "হে আল্লাহ! আমার চরিত্র সুন্দর করো যেমন আমার সৃষ্টি সুন্দর করেছ",
+    "count_target": 3,
+    "description": "উত্তম চরিত্রের দোয়া।"
+  },
+  {
+    "id": 139,
+    "name": "আল্লাহুম্মাজআলনি সাবুরান",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي صَبُورًا",
+    "transliteration": "Allahumma ij'alni saburan",
+    "translation": "হে আল্লাহ! আমাকে ধৈর্যশীল বানাও",
+    "count_target": 7,
+    "description": "ধৈর্যশীলতার জন্য দোয়া।"
+  },
+  {
+    "id": 140,
+    "name": "আল্লাহুম্মাজআলনি শাকুরান",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي شَكُورًا",
+    "transliteration": "Allahumma ij'alni shakuran",
+    "translation": "হে আল্লাহ! আমাকে কৃতজ্ঞ বানাও",
+    "count_target": 7,
+    "description": "কৃতজ্ঞতার জন্য দোয়া।"
+  },
+  {
+    "id": 141,
+    "name": "আল্লাহুম্মাজআলনি মিনাল মুত্তাকীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَّقِينَ",
+    "transliteration": "Allahumma ij'alni minal muttaqin",
+    "translation": "হে আল্লাহ! আমাকে মুত্তাকীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "তাকওয়া অর্জনের দোয়া।"
+  },
+  {
+    "id": 142,
+    "name": "আল্লাহুম্মাজআলনি মিনাস সালিহীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّالِحِينَ",
+    "transliteration": "Allahumma ij'alni minas salihin",
+    "translation": "হে আল্লাহ! আমাকে সৎকর্মশীলদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "নেককার হওয়ার দোয়া।"
+  },
+  {
+    "id": 143,
+    "name": "আল্লাহুম্মাজআলনি মিনাল মুখলিসীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُخْلِصِينَ",
+    "transliteration": "Allahumma ij'alni minal mukhlisin",
+    "translation": "হে আল্লাহ! আমাকে ইখলাসবান বান্দাদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইখলাস অর্জনের দোয়া।"
+  },
+  {
+    "id": 144,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হুব্বাক",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ وَحُبَّ عَمَلٍ يُقَرِّبُ إِلَى حُبِّكَ",
+    "transliteration": "Allahumma inni as'aluka hubbaka wa hubba man yuhibbuka wa hubba amalin yuqarribu ila hubbik",
+    "translation": "হে আল্লাহ! আমি তোমার ভালোবাসা, তোমাকে ভালোবাসে তাদের ভালোবাসা ও তা কাছে নিয়ে যাওয়া আমলের ভালোবাসা চাই",
+    "count_target": 3,
+    "description": "নবীজির শেখানো ভালোবাসার ব্যাপক দোয়া।"
+  },
+  {
+    "id": 145,
+    "name": "আল্লাহুম্মা আরযুকনা হুব্বাক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُبَّكَ",
+    "transliteration": "Allahumma arzuqna hubbak",
+    "translation": "হে আল্লাহ! আমাদের তোমার ভালোবাসা রিজিক হিসেবে দাও",
+    "count_target": 7,
+    "description": "আল্লাহর ভালোবাসা লাভের দোয়া।"
+  },
+  {
+    "id": 146,
+    "name": "আল্লাহুম্মা আজআল মাহাব্বাতাকা আহাব্বা",
+    "arabic": "اللَّهُمَّ اجْعَلْ مَحَبَّتَكَ أَحَبَّ إِلَيَّ مِنْ كُلِّ شَيْءٍ",
+    "transliteration": "Allahumma ij'al mahabbataka ahabba ilayya min kulli shay",
+    "translation": "হে আল্লাহ! তোমার ভালোবাসাকে আমার কাছে সবচেয়ে প্রিয় করো",
+    "count_target": 7,
+    "description": "আল্লাহর ভালোবাসাকে সর্বোচ্চ করার দোয়া।"
+  },
+  {
+    "id": 147,
+    "name": "আল্লাহুম্মা আজআল খাশিয়াতাকা তাহুলু",
+    "arabic": "اللَّهُمَّ اجْعَلْ خَشْيَتَكَ تَحُولُ بَيْنِي وَبَيْنَ مَعَاصِيكَ",
+    "transliteration": "Allahumma ij'al khashyataka tahulu bayni wa bayna ma'asik",
+    "translation": "হে আল্লাহ! তোমার ভয়কে আমার ও আমার পাপের মাঝে প্রতিবন্ধক বানিয়ে দাও",
+    "count_target": 3,
+    "description": "আল্লাহর ভয় দিয়ে পাপ থেকে দূরে থাকার দোয়া।"
+  },
+  {
+    "id": 148,
+    "name": "আল্লাহুম্মা থাব্বিত কাদামাই",
+    "arabic": "اللَّهُمَّ ثَبِّتْ قَدَمَيَّ عَلَى الصِّرَاطِ الْمُسْتَقِيمِ",
+    "transliteration": "Allahumma thabbit qadamayya alas siratal mustaqim",
+    "translation": "হে আল্লাহ! আমার পদদ্বয়কে সরল পথে অটল রাখো",
+    "count_target": 7,
+    "description": "সরল পথে অটল থাকার দোয়া।"
+  },
+  {
+    "id": 149,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল ইয়াকীন",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْيَقِينَ",
+    "transliteration": "Allahumma inni as'alukal yaqin",
+    "translation": "হে আল্লাহ! আমি পরিপূর্ণ বিশ্বাস প্রার্থনা করি",
+    "count_target": 7,
+    "description": "ইয়াকীনের দোয়া।"
+  },
+  {
+    "id": 150,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল ইয়াকীনা ওয়াল আফিয়াহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْيَقِينَ وَالْعَافِيَةَ",
+    "transliteration": "Allahumma inni as'alukal yaqina wal afiyah",
+    "translation": "হে আল্লাহ! আমি পরিপূর্ণ বিশ্বাস ও সুস্থতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "ইয়াকীন ও সুস্থতার দোয়া।"
+  },
+  {
+    "id": 151,
+    "name": "আল্লাহুম্মা আজআল কুরআনা রাবিআ কালবি",
+    "arabic": "اللَّهُمَّ اجْعَلِ الْقُرْآنَ رَبِيعَ قَلْبِي",
+    "transliteration": "Allahumma ij'alil Qurana rabi'a qalbi",
+    "translation": "হে আল্লাহ! কুরআনকে আমার হৃদয়ের বসন্ত বানাও",
+    "count_target": 3,
+    "description": "কুরআনের প্রতি ভালোবাসা বৃদ্ধির দোয়া।"
+  },
+  {
+    "id": 152,
+    "name": "আল্লাহুম্মা আজআল কুরআনা হুজ্জাতান লানা",
+    "arabic": "اللَّهُمَّ اجْعَلِ الْقُرْآنَ حُجَّةً لَنَا لَا عَلَيْنَا",
+    "transliteration": "Allahumma ij'alil Qurana hujjatan lana la alayna",
+    "translation": "হে আল্লাহ! কুরআনকে আমাদের পক্ষে দলিল বানাও, বিপক্ষে নয়",
+    "count_target": 3,
+    "description": "কিয়ামতে কুরআন পক্ষে থাকার দোয়া।"
+  },
+  {
+    "id": 153,
+    "name": "আল্লাহুম্মা আফতাহলি আবওয়াবা রাহমাতিক",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "transliteration": "Allahumma aftahli abwaba rahmatik",
+    "translation": "হে আল্লাহ! আমার জন্য তোমার রহমতের দরজা খুলে দাও",
+    "count_target": 1,
+    "description": "মসজিদে প্রবেশের সময় পড়তে হয়।"
+  },
+  {
+    "id": 154,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা মিন ফাযলিক",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+    "transliteration": "Allahumma inni as'aluka min fadhlika",
+    "translation": "হে আল্লাহ! আমি তোমার অনুগ্রহ থেকে চাই",
+    "count_target": 1,
+    "description": "মসজিদ থেকে বের হওয়ার সময় পড়তে হয়।"
+  },
+  {
+    "id": 155,
+    "name": "আল্লাহুম্মা ওয়াফ্ফিকনা লিমা তুহিব্বু ওয়া তারদা",
+    "arabic": "اللَّهُمَّ وَفِّقْنَا لِمَا تُحِبُّ وَتَرْضَى",
+    "transliteration": "Allahumma waffiqna lima tuhibbu wa tarda",
+    "translation": "হে আল্লাহ! তুমি যা পছন্দ করো ও সন্তুষ্ট হও সেদিকে আমাদের পরিচালিত করো",
+    "count_target": 3,
+    "description": "আল্লাহর পছন্দের কাজে তাওফিকের দোয়া।"
+  },
+  {
+    "id": 156,
+    "name": "আলা বিযিকরিল্লাহি তাত্মাইন্নুল কুলুব",
+    "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+    "transliteration": "Ala bidhikrillahi tatma'innal qulub",
+    "translation": "জেনে রাখো, আল্লাহর যিকর দ্বারাই অন্তর প্রশান্ত হয়",
+    "count_target": 7,
+    "description": "আল্লাহর যিকরে প্রশান্তির কুরআনি ঘোষণা।"
+  },
+  {
+    "id": 157,
+    "name": "আল্লাহুম্মা আজআল যিকরাকা উনসি",
+    "arabic": "اللَّهُمَّ اجْعَلْ ذِكْرَكَ أُنْسِي",
+    "transliteration": "Allahumma ij'al dhikraka unsi",
+    "translation": "হে আল্লাহ! তোমার যিকরকে আমার আনন্দের উৎস বানাও",
+    "count_target": 7,
+    "description": "যিকরে আনন্দ খোঁজার দোয়া।"
+  },
+  {
+    "id": 158,
+    "name": "আল্লাহুম্মা আরযুকনা অন আযকুরাকা কাসিরান",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي أَنْ أَذْكُرَكَ ذِكْرًا كَثِيرًا",
+    "transliteration": "Allahumma arzuqni an adhkuraka dhikran kathiran",
+    "translation": "হে আল্লাহ! আমাকে বেশি বেশি তোমার যিকর করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "বেশি যিকর করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 159,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল যাকিরীনাল্লাহা কাসিরান",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الذَّاكِرِينَ اللَّهَ كَثِيرًا",
+    "transliteration": "Allahumma ij'alni minadh dhakiriinallaha kathira",
+    "translation": "হে আল্লাহ! আমাকে বেশি যিকরকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "বেশি যিকরকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 160,
+    "name": "আল্লাহুম্মা লা তাজআলনি মিনাল গাফিলীন",
+    "arabic": "اللَّهُمَّ لَا تَجْعَلْنِي مِنَ الْغَافِلِينَ",
+    "transliteration": "Allahumma la taj'alni minal ghafilin",
+    "translation": "হে আল্লাহ! আমাকে গাফিলদের অন্তর্ভুক্ত করো না",
+    "count_target": 7,
+    "description": "আল্লাহর স্মরণ থেকে গাফিল না হওয়ার দোয়া।"
+  },
+  {
+    "id": 161,
+    "name": "আল্লাহুম্মা আরযুকনা খুশুআন ফিস সালাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي خُشُوعًا فِي الصَّلَاةِ",
+    "transliteration": "Allahumma arzuqni khushu'an fis salah",
+    "translation": "হে আল্লাহ! নামাজে বিনয় ও একাগ্রতার তাওফিক দাও",
+    "count_target": 3,
+    "description": "নামাজে খুশু ও একাগ্রতার দোয়া।"
+  },
+  {
+    "id": 162,
+    "name": "আল্লাহুম্মা তাকাব্বাল মিন্নি সালাতি ওয়া সিয়ামি",
+    "arabic": "اللَّهُمَّ تَقَبَّلْ مِنِّي صَلَاتِي وَصِيَامِي",
+    "transliteration": "Allahumma taqabbal minni salati wa siyami",
+    "translation": "হে আল্লাহ! আমার নামাজ ও রোজা কবুল করো",
+    "count_target": 3,
+    "description": "নামাজ ও রোজা কবুলের দোয়া।"
+  },
+  {
+    "id": 163,
+    "name": "আল্লাহুম্মা আকসিরনি মিনাল ইস্তিগফার",
+    "arabic": "اللَّهُمَّ أَكْثِرْنِي مِنَ الِاسْتِغْفَارِ",
+    "transliteration": "Allahumma akthirni minal istighfar",
+    "translation": "হে আল্লাহ! আমাকে বেশি ইস্তেগফার করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "বেশি ইস্তেগফারের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 164,
+    "name": "আল্লাহুম্মা আকসিরনি মিনাস সালাতি আলান নাবি",
+    "arabic": "اللَّهُمَّ أَكْثِرْنِي مِنَ الصَّلَاةِ عَلَى النَّبِيِّ",
+    "transliteration": "Allahumma akthirni minas salati alan nabi",
+    "translation": "হে আল্লাহ! আমাকে নবীজির উপর বেশি দরুদ পাঠানোর তাওফিক দাও",
+    "count_target": 3,
+    "description": "বেশি দরুদ পাঠানোর তাওফিকের দোয়া।"
+  },
+  {
+    "id": 165,
+    "name": "আল্লাহুম্মা আল্লিফ বাইনা কুলুবিল মুসলিমীন",
+    "arabic": "اللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِ الْمُسْلِمِينَ",
+    "transliteration": "Allahumma allif bayna quluubil muslimin",
+    "translation": "হে আল্লাহ! মুসলমানদের হৃদয়গুলোকে একত্রিত করো",
+    "count_target": 3,
+    "description": "মুসলিম উম্মাহর ঐক্যের দোয়া।"
+  },
+  {
+    "id": 166,
+    "name": "আল্লাহুম্মা ফার্রিজ আন্নি কুল্লা হাম্মিন",
+    "arabic": "اللَّهُمَّ فَرِّجْ عَنِّي كُلَّ هَمٍّ وَغَمٍّ",
+    "transliteration": "Allahumma farrij anni kulla hammin wa ghammin",
+    "translation": "হে আল্লাহ! আমার সকল দুশ্চিন্তা ও দুঃখ দূর করো",
+    "count_target": 7,
+    "description": "সকল দুশ্চিন্তা ও কষ্ট দূরের দোয়া।"
+  },
+  {
+    "id": 167,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ওয়াসওয়াস",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْوَسْوَاسِ",
+    "transliteration": "Allahumma inni a'udhu bika minal waswas",
+    "translation": "হে আল্লাহ! আমি কুমন্ত্রণা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "শয়তানের কুমন্ত্রণা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 168,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন শাররি নাফসি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي",
+    "transliteration": "Allahumma inni a'udhu bika min sharri nafsi",
+    "translation": "হে আল্লাহ! আমি আমার নফসের অনিষ্ট থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "নফসের কুপ্রবৃত্তি থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 169,
+    "name": "আল্লাহুম্মা রাব্বি আসলাহ কালবি ওয়া লিসানি",
+    "arabic": "اللَّهُمَّ رَبِّي أَصْلِحْ قَلْبِي وَلِسَانِي",
+    "transliteration": "Allahumma rabbi aslih qalbi wa lisani",
+    "translation": "হে আল্লাহ! আমার হৃদয় ও জিভ সংশোধন করো",
+    "count_target": 7,
+    "description": "হৃদয় ও কথার সংশোধনের দোয়া।"
+  },
+  {
+    "id": 170,
+    "name": "আল্লাহুম্মা আহফায লিসানি মিনাল কাযিব",
+    "arabic": "اللَّهُمَّ احْفَظْ لِسَانِي مِنَ الْكَذِبِ",
+    "transliteration": "Allahumma ahfaz lisani minal kadhib",
+    "translation": "হে আল্লাহ! আমার জিভকে মিথ্যা থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "মিথ্যা থেকে জিভ রক্ষার দোয়া।"
+  },
+  {
+    "id": 171,
+    "name": "আল্লাহুম্মা আহফায লিসানি মিনাল গিবাহ",
+    "arabic": "اللَّهُمَّ احْفَظْ لِسَانِي مِنَ الْغِيبَةِ",
+    "transliteration": "Allahumma ahfaz lisani minal ghibah",
+    "translation": "হে আল্লাহ! আমার জিভকে গীবত থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "গীবত থেকে বিরত থাকার দোয়া।"
+  },
+  {
+    "id": 172,
+    "name": "আল্লাহুম্মা আহফায বাসারি মিনাল হারাম",
+    "arabic": "اللَّهُمَّ احْفَظْ بَصَرِي مِنَ الْحَرَامِ",
+    "transliteration": "Allahumma ahfaz basari minal haram",
+    "translation": "হে আল্লাহ! আমার চোখকে হারাম থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "চোখকে হারাম থেকে রক্ষার দোয়া।"
+  },
+  {
+    "id": 173,
+    "name": "আল্লাহুম্মা আহফায ফারজি মিনাল হারাম",
+    "arabic": "اللَّهُمَّ احْفَظْ فَرْجِي مِنَ الْحَرَامِ",
+    "transliteration": "Allahumma ahfaz farji minal haram",
+    "translation": "হে আল্লাহ! আমার লজ্জাস্থানকে হারাম থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "পবিত্রতা রক্ষার দোয়া।"
+  },
+  {
+    "id": 174,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা রিযকান ওয়াসিআন",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رِزْقًا وَاسِعًا حَلَالًا طَيِّبًا",
+    "transliteration": "Allahumma inni as'aluka rizqan wasi'an halalan tayyiban",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে প্রশস্ত, হালাল ও পবিত্র রিজিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "প্রশস্ত হালাল রিজিকের দোয়া।"
+  },
+  {
+    "id": 175,
+    "name": "আল্লাহুম্মা আকযি আন্নাদ দাইন",
+    "arabic": "اللَّهُمَّ اقْضِ عَنِّي الدَّيْنَ",
+    "transliteration": "Allahumma aqdi annad dayn",
+    "translation": "হে আল্লাহ! আমার ঋণ পরিশোধ করে দাও",
+    "count_target": 3,
+    "description": "ঋণ পরিশোধের জন্য দোয়া।"
+  },
+  {
+    "id": 176,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল আইনি ওয়াল হাসাদ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَيْنِ وَالْحَسَدِ",
+    "transliteration": "Allahumma inni a'udhu bika minal ayni wal hasad",
+    "translation": "হে আল্লাহ! আমি কুনজর ও হিংসা থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "নজর লাগা ও হিংসা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 177,
+    "name": "আল্লাহুম্মা আশফিনি শিফাআন লা ইউগাদিরু সাকামা",
+    "arabic": "اللَّهُمَّ اشْفِنِي شِفَاءً لَا يُغَادِرُ سَقَمًا",
+    "transliteration": "Allahumma ashfini shifa'an la yughadiru saqama",
+    "translation": "হে আল্লাহ! আমাকে এমন আরোগ্য দাও যা কোনো রোগ অবশিষ্ট রাখে না",
+    "count_target": 3,
+    "description": "পূর্ণ আরোগ্যের দোয়া।"
+  },
+  {
+    "id": 178,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল কিবর",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكِبْرِ",
+    "transliteration": "Allahumma inni a'udhu bika minal kibr",
+    "translation": "হে আল্লাহ! আমি অহংকার থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "অহংকার থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 179,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল হাসাদ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْحَسَدِ",
+    "transliteration": "Allahumma inni a'udhu bika minal hasad",
+    "translation": "হে আল্লাহ! আমি হিংসা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "হিংসা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 180,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনার রিয়াই",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الرِّيَاءِ وَالسُّمْعَةِ",
+    "transliteration": "Allahumma inni a'udhu bika minar riya'i was sum'ah",
+    "translation": "হে আল্লাহ! আমি রিয়া ও সুনাম অর্জনের জন্য আমল করা থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "লোকদেখানো আমল থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 181,
+    "name": "আল্লাহুম্মা খাল্লিস কালবি মিনার রিয়া",
+    "arabic": "اللَّهُمَّ خَلِّصْ قَلْبِي مِنَ الرِّيَاءِ",
+    "transliteration": "Allahumma khallisi qalbi minar riya",
+    "translation": "হে আল্লাহ! আমার অন্তরকে রিয়া থেকে মুক্ত করো",
+    "count_target": 7,
+    "description": "লোকদেখানো স্বভাব থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 182,
+    "name": "আল্লাহুম্মা আলহামনি আত-তাওয়াদু",
+    "arabic": "اللَّهُمَّ أَلْهِمْنِي التَّوَاضُعَ",
+    "transliteration": "Allahumma alhimni at-tawadhu",
+    "translation": "হে আল্লাহ! আমাকে বিনয়ের অনুপ্রেরণা দাও",
+    "count_target": 7,
+    "description": "বিনয় অর্জনের দোয়া।"
+  },
+  {
+    "id": 183,
+    "name": "আল্লাহুম্মা আজআলনি মিনাস সাবিকীনা বিল খাইরাত",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ السَّابِقِينَ بِالْخَيْرَاتِ",
+    "transliteration": "Allahumma ij'alni minas sabiqina bil khayrat",
+    "translation": "হে আল্লাহ! আমাকে কল্যাণে অগ্রগামীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "কল্যাণে অগ্রগামী হওয়ার দোয়া।"
+  },
+  {
+    "id": 184,
+    "name": "আল্লাহুম্মা আসলিহ উলাতা উমুরিনা",
+    "arabic": "اللَّهُمَّ أَصْلِحْ وُلَاةَ أُمُورِنَا",
+    "transliteration": "Allahumma aslih wulata umuurina",
+    "translation": "হে আল্লাহ! আমাদের শাসকদের সংশোধন করো",
+    "count_target": 3,
+    "description": "ন্যায়পরায়ণ শাসনের জন্য দোয়া।"
+  },
+  {
+    "id": 185,
+    "name": "আল্লাহুম্মা লা তাজআলিদ দুনিয়া আকবারা হাম্মিনা",
+    "arabic": "اللَّهُمَّ لَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا",
+    "transliteration": "Allahumma la taj'alid dunya akbara hammina",
+    "translation": "হে আল্লাহ! দুনিয়াকে আমাদের সবচেয়ে বড় চিন্তা বানিও না",
+    "count_target": 3,
+    "description": "দুনিয়ার প্রতি অতিরিক্ত মোহ থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 186,
+    "name": "যাহাবায যামাউ ওয়াবতাল্লাতিল উরুক",
+    "arabic": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الْأَجْرُ إِنْ شَاءَ اللَّهُ",
+    "transliteration": "Dhahabad dhama'u wabtallatil uruqu wa thabatal ajru in sha Allah",
+    "translation": "পিপাসা মিটে গেছে, শিরা-উপশিরা সিক্ত হয়েছে এবং ইনশাআল্লাহ সওয়াব নির্ধারিত হয়েছে",
+    "count_target": 1,
+    "description": "ইফতারের পরে পড়তে হয়।"
+  },
+  {
+    "id": 187,
+    "name": "আল্লাহুম্মা লাকা সুমতু",
+    "arabic": "اللَّهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَى رِزْقِكَ أَفْطَرْتُ",
+    "transliteration": "Allahumma laka sumtu wa bika amantu wa alayka tawakkaltu wa ala rizqika aftartu",
+    "translation": "হে আল্লাহ! তোমার জন্য রোজা রেখেছি, তোমার উপর ঈমান এনেছি এবং তোমার রিজিক দিয়ে ইফতার করেছি",
+    "count_target": 1,
+    "description": "ইফতারের আগে পড়তে হয়।"
+  },
+  {
+    "id": 188,
+    "name": "আল্লাহুম্মা বাল্লিগনা রামাদান",
+    "arabic": "اللَّهُمَّ بَلِّغْنَا رَمَضَانَ",
+    "transliteration": "Allahumma ballighna Ramadan",
+    "translation": "হে আল্লাহ! আমাদের রমজান পর্যন্ত পৌঁছে দাও",
+    "count_target": 3,
+    "description": "রমজান মাসের আগমনের জন্য দোয়া।"
+  },
+  {
+    "id": 189,
+    "name": "আল্লাহুম্মা আরযুকনা রু'ইয়াতাক ফিল জান্নাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا رُؤْيَتَكَ فِي الْجَنَّةِ",
+    "transliteration": "Allahumma arzuqna ru'yataka fil jannah",
+    "translation": "হে আল্লাহ! জান্নাতে তোমাকে দর্শনের তাওফিক দাও",
+    "count_target": 3,
+    "description": "জান্নাতে আল্লাহকে দর্শনের সর্বোচ্চ পুরস্কারের দোয়া।"
+  },
+  {
+    "id": 190,
+    "name": "আল্লাহুম্মা আরযুকনাস সুহবাতান নাবিইয়ি ফিল জান্নাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا صُحْبَةَ النَّبِيِّ فِي الْجَنَّةِ",
+    "transliteration": "Allahumma arzuqnas suḥbatan nabiyyi fil jannah",
+    "translation": "হে আল্লাহ! জান্নাতে নবীজির সাহচর্য আমাদের রিজিক হিসেবে দাও",
+    "count_target": 3,
+    "description": "জান্নাতে নবীজির সাথে থাকার দোয়া।"
+  },
+  {
+    "id": 191,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা সাবরান জামিলান",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ صَبْرًا جَمِيلًا",
+    "transliteration": "Allahumma inni as'aluka sabran jamilan",
+    "translation": "হে আল্লাহ! আমি সুন্দর ধৈর্য প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সুন্দর ধৈর্যের দোয়া।"
+  },
+  {
+    "id": 192,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল ফারাজাল কারিব",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْفَرَجَ الْقَرِيبَ",
+    "transliteration": "Allahumma inni as'aluka al faraja al qarib",
+    "translation": "হে আল্লাহ! আমি নিকটবর্তী মুক্তি প্রার্থনা করি",
+    "count_target": 7,
+    "description": "দ্রুত মুক্তির দোয়া।"
+  },
+  {
+    "id": 193,
+    "name": "আল্লাহুম্মা ইন্নি তাওয়াক্কালতু আলাইকা",
+    "arabic": "اللَّهُمَّ إِنِّي تَوَكَّلْتُ عَلَيْكَ وَفَوَّضْتُ أَمْرِي إِلَيْكَ",
+    "transliteration": "Allahumma inni tawakkaltu alayka wa fawwadhtu amri ilayk",
+    "translation": "হে আল্লাহ! আমি তোমার উপর ভরসা করলাম এবং আমার সব বিষয় তোমার কাছে সোপর্দ করলাম",
+    "count_target": 3,
+    "description": "তাওয়াক্কুল ও তাফওয়ীদের যিকির।"
+  },
+  {
+    "id": 194,
+    "name": "আল্লাহুম্মা লা তাকিলনি ইলা নাফসি",
+    "arabic": "اللَّهُمَّ لَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+    "transliteration": "Allahumma la takilni ila nafsi tarfata ain",
+    "translation": "হে আল্লাহ! এক মুহূর্তের জন্যও আমাকে আমার নফসের উপর ছেড়ে দিও না",
+    "count_target": 3,
+    "description": "সর্বদা আল্লাহর সাহায্যের উপর নির্ভরতার দোয়া।"
+  },
+  {
+    "id": 195,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল খাইরা কুল্লাহু",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْخَيْرَ كُلَّهُ عَاجِلَهُ وَآجِلَهُ",
+    "transliteration": "Allahumma inni as'alukal khayra kullahu ajilahu wa ajilah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সমস্ত কল্যাণ প্রার্থনা করি, তা আজকের হোক বা পরের",
+    "count_target": 3,
+    "description": "সর্বাত্মক কল্যাণের দোয়া।"
+  },
+  {
+    "id": 196,
+    "name": "আল্লাহুম্মা আউযু বিকা মিনাশ শারি কুল্লিহি",
+    "arabic": "اللَّهُمَّ وَأَعُوذُ بِكَ مِنَ الشَّرِّ كُلِّهِ عَاجِلِهِ وَآجِلِهِ",
+    "transliteration": "Allahumma wa a'udhu bika minash sharri kullihi ajilihi wa ajilih",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সমস্ত অনিষ্ট থেকে আশ্রয় চাই, তা আজকের হোক বা পরের",
+    "count_target": 3,
+    "description": "সর্বাত্মক অনিষ্ট থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 197,
+    "name": "আল্লাহুম্মা আনতা থিকাতি ওয়া আনতা রাজাই",
+    "arabic": "اللَّهُمَّ أَنْتَ ثِقَتِي وَأَنْتَ رَجَائِي",
+    "transliteration": "Allahumma anta thiqati wa anta raja'i",
+    "translation": "হে আল্লাহ! তুমিই আমার ভরসা এবং তুমিই আমার আশা",
+    "count_target": 7,
+    "description": "আল্লাহর উপর পরিপূর্ণ ভরসার যিকির।"
+  },
+  {
+    "id": 198,
+    "name": "আল্লাহুম্মা আনতা মাওলায়া লা ইলাহা ইল্লা আন্ত",
+    "arabic": "اللَّهُمَّ أَنْتَ مَوْلَايَ لَا إِلَهَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma anta mawlaya la ilaha illa ant",
+    "translation": "হে আল্লাহ! তুমিই আমার মাওলা, তুমি ছাড়া কোনো উপাস্য নেই",
+    "count_target": 100,
+    "description": "আল্লাহকে একমাত্র অভিভাবক হিসেবে মানার যিকির।"
+  },
+  {
+    "id": 199,
+    "name": "আল্লাহুম্মা আনতা হাসবি ওয়া নিয়মাল ওয়াকীল",
+    "arabic": "اللَّهُمَّ أَنْتَ حَسْبِي وَنِعْمَ الْوَكِيلُ",
+    "transliteration": "Allahumma anta hasbi wa ni'mal wakil",
+    "translation": "হে আল্লাহ! তুমিই আমার যথেষ্ট এবং তুমি কতই না উত্তম অভিভাবক",
+    "count_target": 7,
+    "description": "আল্লাহর উপর সম্পূর্ণ নির্ভরতার যিকির।"
+  },
+  {
+    "id": 200,
+    "name": "আল্লাহুম্মা আনতা ওয়ালিইয়ি ফিদ দুনিয়া ওয়াল আখিরাহ",
+    "arabic": "اللَّهُمَّ أَنْتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma anta waliyyi fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! তুমিই দুনিয়া ও আখিরাতে আমার অভিভাবক",
+    "count_target": 7,
+    "description": "আল্লাহকে দুনিয়া ও আখিরাতের একমাত্র অভিভাবক মানার যিকির।"
+  },
+  {
+    "id": 201,
+    "name": "তাওয়াক্কালতু আলাল হাইয়িল্লাযি লা ইয়ামুত",
+    "arabic": "تَوَكَّلْتُ عَلَى الْحَيِّ الَّذِي لَا يَمُوتُ",
+    "transliteration": "Tawakkaltu alal Hayyilladhi la yamut",
+    "translation": "আমি সেই চিরঞ্জীবের উপর ভরসা করলাম যিনি কখনো মরেন না",
+    "count_target": 3,
+    "description": "আল্লাহর উপর পরিপূর্ণ তাওয়াক্কুলের যিকির।"
+  },
+  {
+    "id": 202,
+    "name": "সুবহানাকা লা উহসি সানাআন আলাইক",
+    "arabic": "سُبْحَانَكَ لَا أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+    "transliteration": "Subhanaka la uhsi thana'an alayka anta kama athnayta ala nafsik",
+    "translation": "তুমি পবিত্র, আমি তোমার প্রশংসা গণনা করতে পারব না, তুমি তেমনই যেমন নিজের প্রশংসা করেছ",
+    "count_target": 3,
+    "description": "আল্লাহর প্রশংসার সীমাহীনতার স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 203,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল মুআফাতা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْمُعَافَاةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma inni as'alukal muafata fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! আমি দুনিয়া ও আখিরাতে তোমার কাছে সুস্থতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতের সুস্থতার দোয়া।"
+  },
+  {
+    "id": 204,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুতাওয়াককিলীনা আলাইক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَكِّلِينَ عَلَيْكَ",
+    "transliteration": "Allahumma ij'alna minal mutawakkilina alayk",
+    "translation": "হে আল্লাহ! আমাদের তোমার উপর ভরসাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "তাওয়াক্কুলকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 205,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন শাররি ফিতনাতিল গিনা",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ فِتْنَةِ الْغِنَى وَشَرِّ فِتْنَةِ الْفَقْرِ",
+    "transliteration": "Allahumma inni a'udhu bika min sharri fitnatil ghina wa sharri fitnatil faqr",
+    "translation": "হে আল্লাহ! সম্পদের পরীক্ষার অনিষ্ট ও দারিদ্র্যের পরীক্ষার অনিষ্ট থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "সম্পদ ও দারিদ্র্যের পরীক্ষা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 206,
+    "name": "আল্লাহুম্মা ইকফিনি শাররা হাসাদিন",
+    "arabic": "اللَّهُمَّ اكْفِنِي شَرَّ حَاسِدٍ إِذَا حَسَدَ",
+    "transliteration": "Allahummakfini sharra hasidin idha hasad",
+    "translation": "হে আল্লাহ! যখন কেউ হিংসা করে তখন হিংসুকের অনিষ্ট থেকে আমাকে রক্ষা করো",
+    "count_target": 3,
+    "description": "হিংসুকের অনিষ্ট থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 207,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল গাদাব",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْغَضَبِ",
+    "transliteration": "Allahumma inni a'udhu bika minal ghadab",
+    "translation": "হে আল্লাহ! আমি ক্রোধ থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "অতিরিক্ত ক্রোধ থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 208,
+    "name": "রাব্বানা লা তুকাল্লিফুনা মা লা তাকাতা লানা",
+    "arabic": "رَبَّنَا لَا تُكَلِّفْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا",
+    "transliteration": "Rabbana la tukallifna ma la taqata lana bihi wa'fu anna waghfir lana warhamna",
+    "translation": "হে আমাদের রব! আমাদের উপর এমন বোঝা চাপিও না যা বহন করার সামর্থ্য নেই, মাফ করো, ক্ষমা করো এবং দয়া করো",
+    "count_target": 3,
+    "description": "সামর্থ্যের বাইরে বোঝা থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 209,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল আজযি ওয়াল কাসাল",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ",
+    "transliteration": "Allahumma inni a'udhu bika minal ajzi wal kasal",
+    "translation": "হে আল্লাহ! আমি অক্ষমতা ও আলসেমি থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "অলসতা ও অকার্যকারিতা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 210,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ফাকরি ওয়াল কিল্লাতি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ وَالْقِلَّةِ وَالذِّلَّةِ",
+    "transliteration": "Allahumma inni a'udhu bika minal faqri wal qillati wadh dhillah",
+    "translation": "হে আল্লাহ! আমি দারিদ্র্য, অভাব ও লাঞ্ছনা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "দারিদ্র্য ও অপমান থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 211,
+    "name": "আল্লাহুম্মা আহিনাল ইসলাম",
+    "arabic": "اللَّهُمَّ أَحْيِنَا عَلَى الْإِسْلَامِ وَأَمِتْنَا عَلَى الْإِيمَانِ",
+    "transliteration": "Allahumma ahyina alal Islam wa amitna alal iman",
+    "translation": "হে আল্লাহ! আমাদের ইসলামের উপর বাঁচিয়ে রাখো এবং ঈমানের উপর মৃত্যু দাও",
+    "count_target": 3,
+    "description": "ইসলামের উপর জীবন ও মৃত্যুর দোয়া।"
+  },
+  {
+    "id": 212,
+    "name": "আল্লাহুম্মা ইন্নি আতুবু ইলাইক",
+    "arabic": "اللَّهُمَّ إِنِّي أَتُوبُ إِلَيْكَ",
+    "transliteration": "Allahumma inni atubu ilayk",
+    "translation": "হে আল্লাহ! আমি তোমার দিকে তাওবা করছি",
+    "count_target": 100,
+    "description": "পাপ থেকে তাওবার যিকির।"
+  },
+  {
+    "id": 213,
+    "name": "রাব্বানা আতিনা ফিদ্দুনিয়া হাসানাহ - সংক্ষিপ্ত",
+    "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً",
+    "transliteration": "Rabbana atina fid dunya hasanah",
+    "translation": "হে আমাদের রব! আমাদের দুনিয়ায় কল্যাণ দাও",
+    "count_target": 3,
+    "description": "দুনিয়ার কল্যাণের সংক্ষিপ্ত দোয়া।"
+  },
+  {
+    "id": 214,
+    "name": "আল্লাহুম্মা কিনা আযাবান নার",
+    "arabic": "اللَّهُمَّ قِنَا عَذَابَ النَّارِ",
+    "transliteration": "Allahumma qina adhaaban nar",
+    "translation": "হে আল্লাহ! আমাদের জাহান্নামের আযাব থেকে রক্ষা করো",
+    "count_target": 3,
+    "description": "জাহান্নামের আযাব থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 215,
+    "name": "লা ইলাহা ইল্লাল্লাহু ওয়াহদাহু - নামাজ পরবর্তী",
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "La ilaha illallahu wahdahu la sharika lahu lahul mulku wa lahul hamdu wa huwa ala kulli shay'in qadir",
+    "translation": "আল্লাহ ছাড়া কোনো উপাস্য নেই, তিনি একক, রাজত্ব তাঁর, প্রশংসা তাঁর এবং তিনি সবকিছুর উপর ক্ষমতাবান",
+    "count_target": 10,
+    "description": "নামাজের পরে ১০ বার পড়লে বিশেষ সওয়াব।"
+  },
+  {
+    "id": 216,
+    "name": "আল্লাহুম্মা আহফায ইয়াদাই মিনাল হারাম",
+    "arabic": "اللَّهُمَّ احْفَظْ يَدَيَّ مِنَ الْحَرَامِ",
+    "transliteration": "Allahumma ahfaz yadayya minal haram",
+    "translation": "হে আল্লাহ! আমার হাত দুটিকে হারাম থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "হারাম কাজ থেকে হাত রক্ষার দোয়া।"
+  },
+  {
+    "id": 217,
+    "name": "আল্লাহুম্মা আরযুকনি তিলাওয়াতাল কুরআন",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي تِلَاوَةَ الْقُرْآنِ",
+    "transliteration": "Allahummar zuqni tilawatal Quran",
+    "translation": "হে আল্লাহ! আমাকে কুরআন তিলাওয়াতের তাওফিক দাও",
+    "count_target": 3,
+    "description": "কুরআন তিলাওয়াতের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 218,
+    "name": "শাহিদাল্লাহু আন্নাহু লা ইলাহা ইল্লা হু",
+    "arabic": "شَهِدَ اللَّهُ أَنَّهُ لَا إِلَهَ إِلَّا هُوَ وَالْمَلَائِكَةُ وَأُولُو الْعِلْمِ",
+    "transliteration": "Shahidallahu annahu la ilaha illa huwa wal mala'ikatu wa ulul ilm",
+    "translation": "আল্লাহ সাক্ষ্য দেন যে তিনি ছাড়া কোনো উপাস্য নেই, ফেরেশতা ও জ্ঞানীরাও",
+    "count_target": 3,
+    "description": "তাওহীদের সাক্ষ্যের আয়াতের যিকির।"
+  },
+  {
+    "id": 219,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হিদায়াতান ওয়া তুকান",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهِدَايَةَ وَالتُّقَى",
+    "transliteration": "Allahumma inni as'alukal hidayata wat tuqa",
+    "translation": "হে আল্লাহ! আমি হেদায়াত ও তাকওয়া প্রার্থনা করি",
+    "count_target": 7,
+    "description": "হেদায়াত ও তাকওয়ার দোয়া।"
+  },
+  {
+    "id": 220,
+    "name": "আল্লাহুম্মা আরযুকনাল হিকমাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْحِكْمَةَ",
+    "transliteration": "Allahumma arzuqnal hikmah",
+    "translation": "হে আল্লাহ! আমাদের হিকমত রিজিক হিসেবে দাও",
+    "count_target": 3,
+    "description": "জ্ঞান ও প্রজ্ঞার জন্য দোয়া।"
+  },
+  {
+    "id": 221,
+    "name": "আল্লাহুম্মা থাব্বিতনি আলাল ইমান",
+    "arabic": "اللَّهُمَّ ثَبِّتْنِي عَلَى الْإِيمَانِ",
+    "transliteration": "Allahumma thabbita ni alal iman",
+    "translation": "হে আল্লাহ! আমাকে ঈমানের উপর অটল রাখো",
+    "count_target": 7,
+    "description": "ঈমানের উপর দৃঢ় থাকার দোয়া।"
+  },
+  {
+    "id": 222,
+    "name": "আল্লাহুম্মা ইহদিনি ওয়া সাদ্দিদনি",
+    "arabic": "اللَّهُمَّ اهْدِنِي وَسَدِّدْنِي",
+    "transliteration": "Allahumma ihdinii wa saddidnii",
+    "translation": "হে আল্লাহ! আমাকে হেদায়াত দাও এবং সঠিক পথে রাখো",
+    "count_target": 3,
+    "description": "হেদায়াত ও সঠিক দিকনির্দেশনার দোয়া।"
+  },
+  {
+    "id": 223,
+    "name": "আল্লাহুম্মা আসলিহ কালবি",
+    "arabic": "اللَّهُمَّ أَصْلِحْ قَلْبِي",
+    "transliteration": "Allahumma aslih qalbi",
+    "translation": "হে আল্লাহ! আমার অন্তর সংশোধন করো",
+    "count_target": 7,
+    "description": "অন্তর পরিশুদ্ধির সংক্ষিপ্ত দোয়া।"
+  },
+  {
+    "id": 224,
+    "name": "আল্লাহুম্মা তাহহির কালবি মিনান নিফাক",
+    "arabic": "اللَّهُمَّ طَهِّرْ قَلْبِي مِنَ النِّفَاقِ",
+    "transliteration": "Allahumma tahhir qalbi minan nifaq",
+    "translation": "হে আল্লাহ! আমার অন্তরকে নিফাক থেকে পবিত্র করো",
+    "count_target": 7,
+    "description": "মুনাফিকি থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 225,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুহসিনীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُحْسِنِينَ",
+    "transliteration": "Allahumma ij'alni minal muhsinin",
+    "translation": "হে আল্লাহ! আমাকে ইহসানকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইহসানের স্তরে পৌঁছানোর দোয়া।"
+  },
+  {
+    "id": 226,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুতাওয়াককিলীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَوَكِّلِينَ",
+    "transliteration": "Allahumma ij'alni minal mutawakkilin",
+    "translation": "হে আল্লাহ! আমাকে তাওয়াক্কুলকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর উপর ভরসার জন্য দোয়া।"
+  },
+  {
+    "id": 227,
+    "name": "আল্লাহুম্মা আজআলনি মিনাত তাওয়্যাবীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ",
+    "transliteration": "Allahumma ij'alni minat tawwabin",
+    "translation": "হে আল্লাহ! আমাকে তাওবাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "তাওবাকারীদের মধ্যে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 228,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুতাহহিরীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+    "transliteration": "Allahumma ij'alni minal mutatahhirin",
+    "translation": "হে আল্লাহ! আমাকে পবিত্রতা অবলম্বনকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "পাক-পবিত্রতা অবলম্বনের দোয়া।"
+  },
+  {
+    "id": 229,
+    "name": "আল্লাহুম্মা হাব্বিব ইলাইনাস সুন্নাহ",
+    "arabic": "اللَّهُمَّ حَبِّبْ إِلَيْنَا السُّنَّةَ",
+    "transliteration": "Allahumma habbib ilaynuas sunnah",
+    "translation": "হে আল্লাহ! আমাদের কাছে সুন্নতকে প্রিয় করো",
+    "count_target": 3,
+    "description": "সুন্নতের প্রতি ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 230,
+    "name": "আল্লাহুম্মা কার্রিহ ইলাইনাল বিদআহ",
+    "arabic": "اللَّهُمَّ كَرِّهْ إِلَيْنَا الْبِدْعَةَ",
+    "transliteration": "Allahumma karrih ilaynal bid'ah",
+    "translation": "হে আল্লাহ! আমাদের কাছে বিদআতকে অপ্রিয় করো",
+    "count_target": 3,
+    "description": "বিদআত থেকে দূরে থাকার দোয়া।"
+  },
+  {
+    "id": 231,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুনিবীনা ইলাইক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُنِيبِينَ إِلَيْكَ",
+    "transliteration": "Allahumma ij'alna minal munibina ilayk",
+    "translation": "হে আল্লাহ! আমাদের তোমার দিকে প্রত্যাবর্তনকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "সর্বদা আল্লাহর দিকে ফিরে আসার দোয়া।"
+  },
+  {
+    "id": 232,
+    "name": "আল্লাহুম্মা লা তুহলিকনা বিমা ফাআলাস সুফাহাউ",
+    "arabic": "اللَّهُمَّ لَا تُهْلِكْنَا بِمَا فَعَلَ السُّفَهَاءُ مِنَّا",
+    "transliteration": "Allahumma la tuhliqna bima fa'alas sufaha'u minna",
+    "translation": "হে আল্লাহ! আমাদের নির্বোধদের কাজের কারণে আমাদের ধ্বংস করো না",
+    "count_target": 3,
+    "description": "মুসলিম উম্মাহর নির্বোধদের কাজের ক্ষতি থেকে রক্ষার দোয়া।"
+  },
+  {
+    "id": 233,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন শাররি হাওয়া নাফসি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ هَوَى نَفْسِي",
+    "transliteration": "Allahumma inni a'udhu bika min sharri hawa nafsi",
+    "translation": "হে আল্লাহ! আমি আমার নফসের কুপ্রবৃত্তির অনিষ্ট থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "কুপ্রবৃত্তি থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 234,
+    "name": "আল্লাহুম্মা আহফায লিসানি মিনাল নামিমাহ",
+    "arabic": "اللَّهُمَّ احْفَظْ لِسَانِي مِنَ النَّمِيمَةِ",
+    "transliteration": "Allahumma ahfaz lisani minal namimah",
+    "translation": "হে আল্লাহ! আমার জিভকে চোগলখুরি থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "চোগলখুরি থেকে বিরত থাকার দোয়া।"
+  },
+  {
+    "id": 235,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল জুযামি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُذَامِ وَالْبَرَصِ وَالْجُنُونِ",
+    "transliteration": "Allahumma inni a'udhu bika minal judhami wal barasi wal junun",
+    "translation": "হে আল্লাহ! আমি কুষ্ঠরোগ, শ্বেতী ও পাগলামি থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "ভয়াবহ রোগ থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 236,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল বুখলি ওয়াল জুবনি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ وَالْجُبْنِ",
+    "transliteration": "Allahumma inni a'udhu bika minal bukhli wal jubn",
+    "translation": "হে আল্লাহ! আমি কৃপণতা ও কাপুরুষতা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "কৃপণতা ও ভীরুতা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 237,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল গালাবাতিদ দাইনি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ",
+    "transliteration": "Allahumma inni a'udhu bika min ghalabatid dayn wa qahrir rijal",
+    "translation": "হে আল্লাহ! আমি ঋণের ভার ও মানুষের নিপীড়ন থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "ঋণের বোঝা ও মানুষের নিপীড়ন থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 238,
+    "name": "আল্লাহুম্মা আরযুকনা তাদাব্বুরাল কুরআন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا تَدَبُّرَ الْقُرْآنِ",
+    "transliteration": "Allahumma arzuqna tadabbuural Quran",
+    "translation": "হে আল্লাহ! আমাদের কুরআন গভীরভাবে চিন্তা করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "কুরআনের গভীর চিন্তার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 239,
+    "name": "আল্লাহুম্মা আরযুকনা আমালান বিল কুরআন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا عَمَلًا بِالْقُرْآنِ",
+    "transliteration": "Allahumma arzuqna amalan bil Quran",
+    "translation": "হে আল্লাহ! আমাদের কুরআন অনুযায়ী আমল করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "কুরআন অনুযায়ী জীবন যাপনের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 240,
+    "name": "আল্লাহুম্মা আজিরনা মিন আযাবিন নার",
+    "arabic": "اللَّهُمَّ أَجِرْنَا مِنْ عَذَابِ النَّارِ",
+    "transliteration": "Allahumma ajirna min adhabin nar",
+    "translation": "হে আল্লাহ! আমাদের জাহান্নামের আযাব থেকে রক্ষা করো",
+    "count_target": 3,
+    "description": "জাহান্নাম থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 241,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুহসিনীনা ইলাইক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُحْسِنِينَ إِلَيْكَ",
+    "transliteration": "Allahumma ij'alna minal muhsinina ilayk",
+    "translation": "হে আল্লাহ! আমাদের তোমার প্রতি ইহসানকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইহসানের স্তরে পৌঁছানোর দোয়া।"
+  },
+  {
+    "id": 242,
+    "name": "আল্লাহুম্মা ওয়াফফিকনা লিমা তুহিব্বু ওয়া তারদা",
+    "arabic": "اللَّهُمَّ وَفِّقْنَا لِمَا تُحِبُّ وَتَرْضَى وَقِنَا مِنْ شَرِّ مَا تَكْرَهُ",
+    "transliteration": "Allahumma waffiqna lima tuhibbu wa tarda wa qina min sharri ma takrahu",
+    "translation": "হে আল্লাহ! তুমি যা পছন্দ কর সেদিকে পরিচালিত করো এবং তুমি যা অপছন্দ কর তার অনিষ্ট থেকে রক্ষা করো",
+    "count_target": 3,
+    "description": "আল্লাহর পছন্দের দিকে পরিচালিত হওয়ার দোয়া।"
+  },
+  {
+    "id": 243,
+    "name": "আল্লাহুম্মা আসলিহ লি উমুরি কুল্লাহা",
+    "arabic": "اللَّهُمَّ أَصْلِحْ لِي أُمُورِي كُلَّهَا",
+    "transliteration": "Allahumma aslih li umuri kullaha",
+    "translation": "হে আল্লাহ! আমার সমস্ত বিষয় সংশোধন করো",
+    "count_target": 3,
+    "description": "সার্বিক বিষয় সংশোধনের দোয়া।"
+  },
+  {
+    "id": 244,
+    "name": "আল্লাহুম্মা বারিক লানা ফি আওকাতিনা",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي أَوْقَاتِنَا",
+    "transliteration": "Allahumma barik lana fi awqatina",
+    "translation": "হে আল্লাহ! আমাদের সময়গুলোতে বরকত দাও",
+    "count_target": 3,
+    "description": "সময়ের বরকতের জন্য দোয়া।"
+  },
+  {
+    "id": 245,
+    "name": "আল্লাহুম্মা বারিক লানা ফি আমওয়ালিনা",
+    "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِي أَمْوَالِنَا",
+    "transliteration": "Allahumma barik lana fi amwaliná",
+    "translation": "হে আল্লাহ! আমাদের সম্পদে বরকত দাও",
+    "count_target": 3,
+    "description": "সম্পদের বরকতের জন্য দোয়া।"
+  },
+  {
+    "id": 246,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল বারাকাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْبَرَكَةَ",
+    "transliteration": "Allahumma inni as'alukal barakah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে বরকত প্রার্থনা করি",
+    "count_target": 3,
+    "description": "জীবনের সর্বক্ষেত্রে বরকতের দোয়া।"
+  },
+  {
+    "id": 247,
+    "name": "রাব্বি ইন্নি লিমা আনযালতা ইলাইয়া মিন খাইরিন ফাকির",
+    "arabic": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "transliteration": "Rabbi inni lima anzalta ilayya min khayrin faqir",
+    "translation": "হে আমার রব! তুমি আমার প্রতি যে কল্যাণ নাযিল করবে আমি তার মুখাপেক্ষী",
+    "count_target": 7,
+    "description": "হযরত মূসা (আ.)-এর দোয়া, আল্লাহর সাহায্যের মুখাপেক্ষিতার প্রকাশ।"
+  },
+  {
+    "id": 248,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল আফওয়া ওয়াল আফিয়াহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma inni as'alukal afwa wal afiyata fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! আমি দুনিয়া ও আখিরাতে তোমার কাছে ক্ষমা ও সুস্থতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতে ক্ষমা ও সুস্থতার দোয়া।"
+  },
+  {
+    "id": 249,
+    "name": "সুবহানাল্লাহি ওয়াল হামদু লিল্লাহি ওয়ালা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার ওয়ালা হাওলা",
+    "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "transliteration": "SubhanAllah wal hamdulillah wa la ilaha illallah wallahu akbar wa la hawla wa la quwwata illa billah",
+    "translation": "আল্লাহ পবিত্র, সমস্ত প্রশংসা আল্লাহর, আল্লাহ ছাড়া কোনো উপাস্য নেই, আল্লাহ সর্বশ্রেষ্ঠ এবং আল্লাহ ছাড়া কোনো শক্তি নেই",
+    "count_target": 100,
+    "description": "পাঁচটি কালিমার জামে যিকির।"
+  },
+  {
+    "id": 250,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুতাফাক্কিরীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَفَكِّرِينَ",
+    "transliteration": "Allahumma ij'alni minal mutafakkirin",
+    "translation": "হে আল্লাহ! আমাকে চিন্তাশীলদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "গভীর চিন্তাশীলতার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 251,
+    "name": "আল্লাহুম্মা আরিনাল হাক্কা হাক্কান",
+    "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ وَأَرِنَا الْبَاطِلَ بَاطِلًا وَارْزُقْنَا اجْتِنَابَهُ",
+    "transliteration": "Allahumma arinal haqqa haqqan warzuqnat tiba'ahu wa arinal batila batilan warzuqnajtinabah",
+    "translation": "হে আল্লাহ! সত্যকে সত্য দেখাও ও অনুসরণের তাওফিক দাও, মিথ্যাকে মিথ্যা দেখাও ও দূরে থাকার তাওফিক দাও",
+    "count_target": 3,
+    "description": "হক ও বাতিল পার্থক্য করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 252,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাওয়াককিলীনা আলাইক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَوَكِّلِينَ عَلَيْكَ",
+    "transliteration": "Allahumma ij'alna minal mutawakkilina alayk",
+    "translation": "হে আল্লাহ! আমাদের তোমার উপর ভরসাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "তাওয়াক্কুলকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 253,
+    "name": "আল্লাহুম্মা আফতাহ লি মাগালিকাল খাইর",
+    "arabic": "اللَّهُمَّ افْتَحْ لِي مَغَالِقَ الْخَيْرِ",
+    "transliteration": "Allahumma aftah li maghaliqal khayr",
+    "translation": "হে আল্লাহ! আমার জন্য কল্যাণের তালাবদ্ধ দরজাগুলো খুলে দাও",
+    "count_target": 3,
+    "description": "কল্যাণের দরজা খুলে দেওয়ার দোয়া।"
+  },
+  {
+    "id": 254,
+    "name": "আল্লাহুম্মা আগলিক আন্নি মাগালিকাশ শারর",
+    "arabic": "اللَّهُمَّ أَغْلِقْ عَنِّي مَغَالِقَ الشَّرِّ",
+    "transliteration": "Allahumma aghliq anni maghaliqash sharr",
+    "translation": "হে আল্লাহ! আমার থেকে অনিষ্টের দরজাগুলো বন্ধ করো",
+    "count_target": 3,
+    "description": "অনিষ্টের দরজা বন্ধ করার দোয়া।"
+  },
+  {
+    "id": 255,
+    "name": "আল্লাহুম্মা বালিগ রাজাইয়ি ওয়া ইয়াসির আমরি",
+    "arabic": "اللَّهُمَّ بَلِّغْ رَجَائِي وَيَسِّرْ أَمْرِي",
+    "transliteration": "Allahumma balligh raja'i wa yassir amri",
+    "translation": "হে আল্লাহ! আমার আশা পূরণ করো এবং আমার কাজ সহজ করো",
+    "count_target": 3,
+    "description": "আশা পূরণ ও কাজ সহজ করার দোয়া।"
+  },
+  {
+    "id": 256,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল বুশরা ফিল হায়াত",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْبُشْرَى فِي الْحَيَاةِ وَبَعْدَ الْمَمَاتِ",
+    "transliteration": "Allahumma inni as'alukal bushra fil hayati wa badal mamat",
+    "translation": "হে আল্লাহ! জীবনে ও মৃত্যুর পরে সুসংবাদ প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতে সুখবর পাওয়ার দোয়া।"
+  },
+  {
+    "id": 257,
+    "name": "আল্লাহু আল্লাহু রাব্বি লা উশরিকু বিহি শাইআ",
+    "arabic": "اللَّهُ اللَّهُ رَبِّي لَا أُشْرِكُ بِهِ شَيْئًا",
+    "transliteration": "Allahu Allahu rabbi la ushrika bihi shay'a",
+    "translation": "আল্লাহ, আল্লাহ আমার রব, আমি তাঁর সাথে কাউকে শরিক করি না",
+    "count_target": 7,
+    "description": "তাওহীদের শক্তিশালী ঘোষণা।"
+  },
+  {
+    "id": 258,
+    "name": "আল্লাহুম্মা মুসাররিফাল কুলুব",
+    "arabic": "اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+    "transliteration": "Allahumma musarrifal qulubi sarrif qulubana ala ta'atik",
+    "translation": "হে আল্লাহ! অন্তরের পরিচালনাকারী, আমাদের অন্তরকে তোমার আনুগত্যের দিকে পরিচালিত করো",
+    "count_target": 7,
+    "description": "ইবাদতে মনোযোগ ধরে রাখার দোয়া।"
+  },
+  {
+    "id": 259,
+    "name": "আল্লাহুম্মা আজআল আওয়ালা হাযাল ইয়াওমি সালাহান",
+    "arabic": "اللَّهُمَّ اجْعَلْ أَوَّلَ هَذَا الْيَوْمِ صَلَاحًا وَأَوْسَطَهُ نَجَاحًا وَآخِرَهُ فَلَاحًا",
+    "transliteration": "Allahumma ij'al awwala hadhali yawmi salahan wa awsatahu najahan wa akhirahu falaha",
+    "translation": "হে আল্লাহ! এ দিনের শুরু সংশোধনময়, মধ্যভাগ সাফল্যময় এবং শেষভাগ কল্যাণময় করো",
+    "count_target": 1,
+    "description": "সকালের বিশেষ দোয়া।"
+  },
+  {
+    "id": 260,
+    "name": "রাব্বানা লা তাজআলনা ফিতনাতান লিললাযীনা কাফারু",
+    "arabic": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةً لِّلَّذِينَ كَفَرُوا وَاغْفِرْ لَنَا رَبَّنَا",
+    "transliteration": "Rabbana la taj'alna fitnatan lilladhina kafaru waghfir lana rabbana",
+    "translation": "হে আমাদের রব! আমাদের কাফিরদের জন্য ফিতনায় পরিণত করো না এবং ক্ষমা করো",
+    "count_target": 3,
+    "description": "ফিতনা থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 261,
+    "name": "আল্লাহুম্মা আরযুকনি আন আযকুরাকা বিল লাইলি ওয়ান নাহার",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي أَنْ أَذْكُرَكَ بِاللَّيْلِ وَالنَّهَارِ",
+    "transliteration": "Allahumma arzuqni an adhkuraka bil layli wan nahar",
+    "translation": "হে আল্লাহ! রাত ও দিনে তোমার যিকর করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "রাত-দিন যিকর করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 262,
+    "name": "আল্লাহুম্মা আনতান নূরুস সামাওয়াতি ওয়াল আরদ",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَاوَاتِ وَالأَرْضِ",
+    "transliteration": "Allahumma lakal hamdu anta nuurus samawati wal ardh",
+    "translation": "হে আল্লাহ! তোমার জন্যই প্রশংসা, তুমি আসমান ও জমিনের আলো",
+    "count_target": 3,
+    "description": "তাহাজ্জুদে নবীজির হামদের দোয়ার অংশ।"
+  },
+  {
+    "id": 263,
+    "name": "আল্লাহুম্মা লাকাল হামদু আনতাল কাইয়িমুস সামাওয়াতি ওয়াল আরদ",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَاوَاتِ وَالأَرْضِ",
+    "transliteration": "Allahumma lakal hamdu anta qayyimus samawati wal ardh",
+    "translation": "হে আল্লাহ! তোমার জন্যই প্রশংসা, তুমি আসমান ও জমিনের ধারক",
+    "count_target": 3,
+    "description": "তাহাজ্জুদে পড়া নবীজির বিশেষ হামদের দোয়া।"
+  },
+  {
+    "id": 264,
+    "name": "আল্লাহুম্মা লাকাল হামদু ওয়ালাকাশ শুকর",
+    "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+    "transliteration": "Allahumma lakal hamdu wa lakash shukr",
+    "translation": "হে আল্লাহ! তোমার জন্যই সমস্ত প্রশংসা এবং তোমার জন্যই সমস্ত কৃতজ্ঞতা",
+    "count_target": 33,
+    "description": "প্রশংসা ও কৃতজ্ঞতার যিকির।"
+  },
+  {
+    "id": 265,
+    "name": "আলহামদুলিল্লাহি হামদান কাসিরান তাইয়িবান মুবারাকান ফিহি",
+    "arabic": "الْحَمْدُ لِلَّهِ حَمْدًا كَثِيرًا طَيِّبًا مُبَارَكًا فِيهِ",
+    "transliteration": "Alhamdulillahi hamdan kathiran tayyiban mubarakan fih",
+    "translation": "আল্লাহর জন্য অনেক, পবিত্র ও বরকতময় প্রশংসা",
+    "count_target": 33,
+    "description": "হামদের বিশেষ যিকির।"
+  },
+  {
+    "id": 266,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা রাহমাতান মিন ইন্দিকা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رَحْمَةً مِنْ عِنْدِكَ",
+    "transliteration": "Allahumma inni as'aluka rahmatan min indika",
+    "translation": "হে আল্লাহ! আমি তোমার পক্ষ থেকে রহমত প্রার্থনা করি",
+    "count_target": 3,
+    "description": "আল্লাহর রহমতের দোয়া।"
+  },
+  {
+    "id": 267,
+    "name": "আল্লাহুম্মা আরযুকনি আন আযকুরাকা বিল লাইলি ওয়ান নাহারি",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي أَنْ أَذْكُرَكَ بِاللَّيْلِ وَالنَّهَارِ",
+    "transliteration": "Allahumma arzuqni an adhkuraka bil layli wan nahari",
+    "translation": "হে আল্লাহ! সকাল-সন্ধ্যা ও রাত্রি তোমার যিকর করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "সার্বক্ষণিক যিকরের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 268,
+    "name": "আল্লাহুম্মা আজআলনা মিনাস সাবিকীনা ইলাল জান্নাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ السَّابِقِينَ إِلَى الْجَنَّةِ",
+    "transliteration": "Allahumma ij'alna minas sabiqina ilal jannah",
+    "translation": "হে আল্লাহ! আমাদের জান্নাতের দিকে অগ্রগামীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "জান্নাতে অগ্রগামী হওয়ার দোয়া।"
+  },
+  {
+    "id": 269,
+    "name": "আল্লাহুম্মা আরযুকনা মাহাব্বাতাক ওয়া মাহাব্বাতা মান ইউহিব্বুক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مَحَبَّتَكَ وَمَحَبَّةَ مَنْ يُحِبُّكَ",
+    "transliteration": "Allahumma arzuqna mahabbataka wa mahabbata man yuhibbuk",
+    "translation": "হে আল্লাহ! আমাদের তোমার ভালোবাসা ও তোমাকে ভালোবাসে তাদের ভালোবাসা দান করো",
+    "count_target": 7,
+    "description": "আল্লাহ ও নেককারদের ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 270,
+    "name": "আল্লাহুম্মা হাসিবনি হিসাবান ইয়াসিরান",
+    "arabic": "اللَّهُمَّ حَاسِبْنِي حِسَابًا يَسِيرًا",
+    "transliteration": "Allahumma hasibnee hisaban yasira",
+    "translation": "হে আল্লাহ! আমার হিসাব সহজভাবে নিও",
+    "count_target": 3,
+    "description": "কিয়ামতের সহজ হিসাবের দোয়া।"
+  },
+  {
+    "id": 271,
+    "name": "রাব্বানা ওলা তাহমিল আলাইনা ইসরান",
+    "arabic": "رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِن قَبْلِنَا",
+    "transliteration": "Rabbana wa la tahmil alayna isran kama hamaltahu alal ladhina min qablina",
+    "translation": "হে আমাদের রব! আমাদের উপর এমন বোঝা চাপিয়ো না যেমন আমাদের আগের লোকদের উপর চাপিয়েছিলে",
+    "count_target": 3,
+    "description": "কঠিন বোঝা থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 272,
+    "name": "রাব্বানা ইন্নাকা জামিউন নাস লিইয়াওমিন",
+    "arabic": "رَبَّنَا إِنَّكَ جَامِعُ النَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ",
+    "transliteration": "Rabbana innaka jami'un nasi li yawmin la rayba fih",
+    "translation": "হে আমাদের রব! তুমি নিশ্চয়ই মানুষকে একদিন একত্রিত করবে যেদিনে কোনো সন্দেহ নেই",
+    "count_target": 3,
+    "description": "কিয়ামতে বিশ্বাসের দৃঢ়তার যিকির।"
+  },
+  {
+    "id": 273,
+    "name": "রাব্বানা ওয়াসিনা কুল্লা শাইয়িন রাহমাহ",
+    "arabic": "رَبَّنَا وَسِعْتَ كُلَّ شَيْءٍ رَّحْمَةً وَعِلْمًا",
+    "transliteration": "Rabbana wasi'ta kulla shay'in rahmatan wa ilman",
+    "translation": "হে আমাদের রব! তুমি রহমত ও জ্ঞানে সবকিছু পরিব্যাপ্ত করে আছ",
+    "count_target": 3,
+    "description": "আল্লাহর রহমত ও জ্ঞানের ব্যাপকতার স্বীকৃতি।"
+  },
+  {
+    "id": 274,
+    "name": "রাব্বানা আতিনা মিন লাদুনকা রাহমাহ - আসহাবে কাহফ",
+    "arabic": "رَبَّنَا آتِنَا مِن لَّدُنكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+    "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi' lana min amrina rashada",
+    "translation": "হে আমাদের রব! তোমার পক্ষ থেকে আমাদের রহমত দাও এবং আমাদের কাজে সঠিক পথ নির্ধারণ করে দাও",
+    "count_target": 3,
+    "description": "আসহাবে কাহফের দোয়া।"
+  },
+  {
+    "id": 275,
+    "name": "রাব্বানা লা তাজআলনা মাআল কওমিয যালিমীন",
+    "arabic": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+    "transliteration": "Rabbana la taj'alna ma'al qawmid dhalimin",
+    "translation": "হে আমাদের রব! আমাদের জালিম সম্প্রদায়ের সাথে যুক্ত করো না",
+    "count_target": 3,
+    "description": "যালিমদের সাথে না থাকার দোয়া।"
+  },
+  {
+    "id": 276,
+    "name": "রাব্বানা আসলিহ লানা শা'নানা",
+    "arabic": "رَبَّنَا أَصْلِحْ لَنَا شَأْنَنَا كُلَّهُ",
+    "transliteration": "Rabbana aslih lana sha'nana kullahu",
+    "translation": "হে আমাদের রব! আমাদের সব বিষয় সংশোধন করো",
+    "count_target": 3,
+    "description": "সার্বিক জীবন সংশোধনের দোয়া।"
+  },
+  {
+    "id": 277,
+    "name": "রাব্বানা ইন্নানা সামিনা মুনাদিইয়ান",
+    "arabic": "رَّبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ فَآمَنَّا",
+    "transliteration": "Rabbana innana sami'na munadiyan yunadi lil imani fa-amanna",
+    "translation": "হে আমাদের রব! আমরা এক আহ্বানকারীকে শুনলাম ঈমানের দিকে, তাই আমরা ঈমান আনলাম",
+    "count_target": 3,
+    "description": "ঈমান ও তাওবার কুরআনি দোয়া।"
+  },
+  {
+    "id": 278,
+    "name": "রাব্বানা ইন্নাকা আফুউউন কারিম",
+    "arabic": "رَبَّنَا إِنَّكَ عَفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنَّا",
+    "transliteration": "Rabbana innaka afuwwun karimun tuhibbul afwa fa'fu anna",
+    "translation": "হে আমাদের রব! তুমি ক্ষমাশীল, মহানুভব, ক্ষমা করতে ভালোবাসো, তাই আমাদের ক্ষমা করো",
+    "count_target": 7,
+    "description": "বিশেষ ক্ষমার দোয়া।"
+  },
+  {
+    "id": 279,
+    "name": "রাব্বানা লা তুযিগ কুলুবানা বাদা ইয হাদাইতানা",
+    "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+    "transliteration": "Rabbana la tuzigh qulubana ba'da idh hadaytana",
+    "translation": "হে আমাদের রব! হেদায়াতের পর আমাদের অন্তরকে বিচ্যুত করো না",
+    "count_target": 3,
+    "description": "হেদায়াতে অটল থাকার দোয়া।"
+  },
+  {
+    "id": 280,
+    "name": "রাব্বানা আফরিগ আলাইনা সাবরান ওয়া সাব্বিত আকদামানা",
+    "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا",
+    "transliteration": "Rabbana afrigh alayna sabran wa thabbit aqdamana",
+    "translation": "হে আমাদের রব! আমাদের উপর ধৈর্য ঢেলে দাও এবং আমাদের পদক্ষেপ অটল রাখো",
+    "count_target": 3,
+    "description": "ধৈর্য ও দৃঢ়তার দোয়া।"
+  },
+  {
+    "id": 281,
+    "name": "রাব্বানা লা তাজআল ফি কুলুবিনা গিল্লান লিল মুমিনীন",
+    "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا",
+    "transliteration": "Rabbanaghfir lana wa li ikhwaninal ladhina sabaquna bil iman wa la taj'al fi qulubina ghillan lilladhina amanu",
+    "translation": "হে আমাদের রব! আমাদের ও আমাদের আগের মুমিন ভাইদের ক্ষমা করো এবং মুমিনদের প্রতি বিদ্বেষ রেখো না",
+    "count_target": 3,
+    "description": "সকল মুমিনদের জন্য ক্ষমা ও হৃদয়ের পরিশুদ্ধির দোয়া।"
+  },
+  {
+    "id": 282,
+    "name": "রাব্বি আউযু বিকা মিন হামাযাতিশ শায়াতিন",
+    "arabic": "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَن يَحْضُرُونِ",
+    "transliteration": "Rabbi a'udhu bika min hammazatish shayatin wa a'udhu bika Rabbi an yahdurun",
+    "translation": "হে আমার রব! আমি শয়তানের কুমন্ত্রণা থেকে তোমার আশ্রয় নিচ্ছি এবং তারা যেন আমার কাছে না আসে",
+    "count_target": 3,
+    "description": "শয়তান থেকে আশ্রয়ের কুরআনি দোয়া।"
+  },
+  {
+    "id": 283,
+    "name": "রাব্বি আদখিলনি মুদখালা সিদকিন",
+    "arabic": "رَبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ",
+    "transliteration": "Rabbi adkhilni mudkhala sidqin wa akhrijnii mukhraja sidqin waj'al li min ladunka sultanan nasira",
+    "translation": "হে আমার রব! আমাকে সত্যভাবে প্রবেশ করাও এবং সত্যভাবে বের করো",
+    "count_target": 3,
+    "description": "সত্য ও ন্যায়ের পথে চলার দোয়া।"
+  },
+  {
+    "id": 284,
+    "name": "রাব্বানা আমান্না ফাকতুবনা মাআশ শাহিদীন",
+    "arabic": "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+    "transliteration": "Rabbana amanna faktubna ma'ash shaahidin",
+    "translation": "হে আমাদের রব! আমরা ঈমান আনলাম, সাক্ষ্যদানকারীদের মধ্যে আমাদের লিপিবদ্ধ করো",
+    "count_target": 3,
+    "description": "সাক্ষ্যদানকারীদের দলভুক্তির দোয়া।"
+  },
+  {
+    "id": 285,
+    "name": "আমানতু বিল্লাহি ওয়ামালাইকাতিহি",
+    "arabic": "آمَنْتُ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ",
+    "transliteration": "Aamantu billahi wa mala'ikatihi wa kutubihi wa rusulihi",
+    "translation": "আমি ঈমান আনলাম আল্লাহ, ফেরেশতা, কিতাব ও রাসূলগণের উপর",
+    "count_target": 1,
+    "description": "ঈমানের মূল বিষয়গুলোর স্বীকৃতি।"
+  },
+  {
+    "id": 286,
+    "name": "আমানতু বিল্লাহি ওয়াহদাহু",
+    "arabic": "آمَنْتُ بِاللَّهِ وَحْدَهُ",
+    "transliteration": "Aamantu billahi wahdah",
+    "translation": "আমি একমাত্র আল্লাহর উপর ঈমান আনলাম",
+    "count_target": 3,
+    "description": "তাওহীদের উপর ঈমানের নবায়ন।"
+  },
+  {
+    "id": 287,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা বিআন্নাকা আন্তাল্লাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّكَ أَنْتَ اللَّهُ لَا إِلَهَ إِلَّا أَنْتَ الْأَحَدُ الصَّمَدُ",
+    "transliteration": "Allahumma inni as'aluka biannaka antallahu la ilaha illa antal ahadus samad",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে এই বলে প্রার্থনা করি যে তুমিই আল্লাহ, একক অমুখাপেক্ষী",
+    "count_target": 3,
+    "description": "ইসমে আযমের সাথে দোয়া।"
+  },
+  {
+    "id": 288,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা বিইসমিকাল আযিম",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الْعَظِيمِ",
+    "transliteration": "Allahumma inni as'aluka bismik al azim",
+    "translation": "হে আল্লাহ! আমি তোমার মহান নামের মাধ্যমে তোমার কাছে প্রার্থনা করি",
+    "count_target": 3,
+    "description": "আল্লাহর মহান নামের ওসিলায় দোয়া।"
+  },
+  {
+    "id": 289,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা বিকুল্লি ইসমিন হুওয়া লাক",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِكُلِّ اسْمٍ هُوَ لَكَ",
+    "transliteration": "Allahumma inni as'aluka bikulli ismin huwa lak",
+    "translation": "হে আল্লাহ! আমি তোমার প্রতিটি নামের মাধ্যমে তোমার কাছে প্রার্থনা করি",
+    "count_target": 3,
+    "description": "আল্লাহর সকল নামের ওসিলায় দোয়া।"
+  },
+  {
+    "id": 290,
+    "name": "আল্লাহুম্মা সাল্লি আলা জামিইল আনবিয়াই",
+    "arabic": "اللَّهُمَّ صَلِّ عَلَى جَمِيعِ الْأَنْبِيَاءِ وَالْمُرْسَلِينَ",
+    "transliteration": "Allahumma salli ala jami'il anbiya'i wal mursalin",
+    "translation": "হে আল্লাহ! সকল নবী ও রাসূলের উপর দরুদ বর্ষণ করো",
+    "count_target": 3,
+    "description": "সকল নবী-রাসূলের জন্য দরুদ।"
+  },
+  {
+    "id": 291,
+    "name": "আল্লাহুম্মা আরযুকনা কাওসারান নাবিইয়ি",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مِنْ كَوْثَرِ النَّبِيِّ",
+    "transliteration": "Allahumma arzuqna min kawtharin nabi",
+    "translation": "হে আল্লাহ! আমাদের নবীজির হাউজে কাওসার থেকে পান করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "কিয়ামতে হাউজে কাওসার থেকে পান করার দোয়া।"
+  },
+  {
+    "id": 292,
+    "name": "আল্লাহুম্মা ওয়াফ্ফিকনা লিলাইলাতিল কাদর",
+    "arabic": "اللَّهُمَّ وَفِّقْنَا لَيْلَةَ الْقَدْرِ",
+    "transliteration": "Allahumma waffiqna laylatal qadr",
+    "translation": "হে আল্লাহ! আমাদের লাইলাতুল কদর পাওয়ার তাওফিক দাও",
+    "count_target": 3,
+    "description": "লাইলাতুল কদর পাওয়ার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 293,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা আন তাজআলা কুল্লা আমরি খাইরান",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ أَمْرِي خَيْرًا",
+    "transliteration": "Allahumma inni as'aluka an taj'ala kulla amri khayra",
+    "translation": "হে আল্লাহ! আমার সব বিষয়কে কল্যাণময় করে দিও",
+    "count_target": 3,
+    "description": "সকল কাজে কল্যাণের দোয়া।"
+  },
+  {
+    "id": 294,
+    "name": "আল্লাহুম্মা আরিফনি নাফসাক",
+    "arabic": "اللَّهُمَّ عَرِّفْنِي نَفْسَكَ",
+    "transliteration": "Allahumma arrifni nafsaka",
+    "translation": "হে আল্লাহ! নিজেকে আমার কাছে পরিচয় করিয়ে দাও",
+    "count_target": 7,
+    "description": "আল্লাহকে জানার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 295,
+    "name": "আল্লাহুম্মা আরিফনি রাসুলাক",
+    "arabic": "اللَّهُمَّ عَرِّفْنِي رَسُولَكَ",
+    "transliteration": "Allahumma arrifni rasulak",
+    "translation": "হে আল্লাহ! তোমার রাসূলকে আমার কাছে পরিচয় করিয়ে দাও",
+    "count_target": 7,
+    "description": "নবীজিকে জানার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 296,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আন আদিল্লা আও উদাল্লা",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أَضِلَّ أَوْ أُضَلَّ",
+    "transliteration": "Allahumma inni a'udhu bika min an adhilla aw udhalla",
+    "translation": "হে আল্লাহ! আমি পথভ্রষ্ট হওয়া ও অন্যকে পথভ্রষ্ট করা থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "বিভ্রান্তি ও বিভ্রান্ত করা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 297,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আন আজলিমা আও উজলাম",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أَظْلِمَ أَوْ أُظْلَمَ",
+    "transliteration": "Allahumma inni a'udhu bika min an azlima aw uzlam",
+    "translation": "হে আল্লাহ! আমি অন্যায় করা ও অন্যায়ের শিকার হওয়া থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "জুলুম করা ও জুলুমের শিকার হওয়া থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 298,
+    "name": "আল্লাহুম্মা আনসুরনা আলা মান আদা আলাইনা",
+    "arabic": "اللَّهُمَّ انْصُرْنَا عَلَى مَنْ عَدَا عَلَيْنَا",
+    "transliteration": "Allahumma ansurna ala man ada alayna",
+    "translation": "হে আল্লাহ! যারা আমাদের উপর শত্রুতা করে তাদের বিরুদ্ধে আমাদের সাহায্য করো",
+    "count_target": 3,
+    "description": "শত্রুর বিরুদ্ধে সাহায্যের দোয়া।"
+  },
+  {
+    "id": 299,
+    "name": "আল্লাহুম্মা কুন মাআনা ওলা তাকুন আলাইনা",
+    "arabic": "اللَّهُمَّ كُنْ مَعَنَا وَلَا تَكُنْ عَلَيْنَا",
+    "transliteration": "Allahumma kun ma'ana wa la takun alayna",
+    "translation": "হে আল্লাহ! আমাদের সাথে থাকো এবং আমাদের বিরুদ্ধে থেকো না",
+    "count_target": 7,
+    "description": "আল্লাহর সাহচর্য ও সাহায্যের দোয়া।"
+  },
+  {
+    "id": 300,
+    "name": "আল্লাহুম্মা ইজআল লি নূরান আমামি ওয়া খালফি",
+    "arabic": "اللَّهُمَّ اجْعَلْ لِي نُورًا أَمَامِي وَنُورًا خَلْفِي وَنُورًا عَنْ يَمِينِي وَنُورًا عَنْ شِمَالِي",
+    "transliteration": "Allahumma ij'al li nuran amamii wa nuran khalfi wa nuran an yamini wa nuran an shimali",
+    "translation": "হে আল্লাহ! আমার সামনে, পিছনে, ডানে ও বামে নূর রাখো",
+    "count_target": 3,
+    "description": "চারদিকে নূরের দোয়া।"
+  },
+  {
+    "id": 301,
+    "name": "আল্লাহুম্মা আজআলনি নূরান",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي نُورًا",
+    "transliteration": "Allahumma ij'alni nuran",
+    "translation": "হে আল্লাহ! আমাকে নূরময় করো",
+    "count_target": 7,
+    "description": "আত্মিক ও আধ্যাত্মিক নূরের দোয়া।"
+  },
+  {
+    "id": 302,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা দাওয়ামান নিয়মাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ دَوَامَ النِّعْمَةِ",
+    "transliteration": "Allahumma inni as'aluka dawaaman ni'mah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে নেয়ামতের স্থায়িত্ব প্রার্থনা করি",
+    "count_target": 3,
+    "description": "নেয়ামত অব্যাহত রাখার দোয়া।"
+  },
+  {
+    "id": 303,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন যাওয়ালি নিয়মাতিক",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ",
+    "transliteration": "Allahumma inni a'udhu bika min zawali ni'matika wa tahawwuli afiyatika wa fuja'ati niqmatika",
+    "translation": "হে আল্লাহ! আমি তোমার নেয়ামত চলে যাওয়া, সুস্থতার পরিবর্তন ও হঠাৎ শাস্তি থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "নেয়ামত ও সুস্থতা রক্ষার দোয়া।"
+  },
+  {
+    "id": 304,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা তামামাল ফারাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ تَمَامَ الْفَرَحِ",
+    "transliteration": "Allahumma inni as'aluka tamamal farah",
+    "translation": "হে আল্লাহ! আমি পরিপূর্ণ আনন্দ প্রার্থনা করি",
+    "count_target": 3,
+    "description": "জীবনে পূর্ণ সুখের দোয়া।"
+  },
+  {
+    "id": 305,
+    "name": "আল্লাহুম্মা আরযুকনি আন আযকুরাকা যিকরান কাসিরান",
+    "arabic": "اللَّهُمَّ ارْزُقْنِي أَنْ أَذْكُرَكَ ذِكْرًا كَثِيرًا",
+    "transliteration": "Allahumma arzuqni an adhkuraka dhikran kathiran",
+    "translation": "হে আল্লাহ! আমাকে বেশি বেশি তোমার যিকর করার তাওফিক দাও",
+    "count_target": 3,
+    "description": "বেশি যিকর করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 306,
+    "name": "আল্লাহুম্মা আজআল সালাতি লাকা খালিসান",
+    "arabic": "اللَّهُمَّ اجْعَلْ صَلَاتِي لَكَ خَالِصَةً",
+    "transliteration": "Allahumma ij'al salati laka khalisan",
+    "translation": "হে আল্লাহ! আমার নামাজ শুধু তোমার জন্যই খালিস করো",
+    "count_target": 3,
+    "description": "ইখলাসের সাথে নামাজ পড়ার দোয়া।"
+  },
+  {
+    "id": 307,
+    "name": "আল্লাহুম্মা আজআল যিকরাকা রাহাতি",
+    "arabic": "اللَّهُمَّ اجْعَلْ ذِكْرَكَ رَاحَتِي",
+    "transliteration": "Allahumma ij'al dhikraka rahati",
+    "translation": "হে আল্লাহ! তোমার যিকরকে আমার প্রশান্তির উৎস বানাও",
+    "count_target": 7,
+    "description": "যিকরে প্রশান্তি খোঁজার দোয়া।"
+  },
+  {
+    "id": 308,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা তামামান নিয়মাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ تَمَامَ النِّعْمَةِ",
+    "transliteration": "Allahumma inni as'aluka tamaman ni'mah",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে পরিপূর্ণ নেয়ামত প্রার্থনা করি",
+    "count_target": 3,
+    "description": "পরিপূর্ণ নেয়ামতের দোয়া।"
+  },
+  {
+    "id": 309,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিনূরিকাল আযিমি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِنُورِكَ الْعَظِيمِ",
+    "transliteration": "Allahumma inni a'udhu binuurikal azim",
+    "translation": "হে আল্লাহ! আমি তোমার মহান নূরের মাধ্যমে আশ্রয় নিচ্ছি",
+    "count_target": 3,
+    "description": "আল্লাহর নূরের মাধ্যমে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 310,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা মিন নূরিক",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ نُورِكَ",
+    "transliteration": "Allahumma inni as'aluka min nuurik",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে তোমার নূর থেকে চাই",
+    "count_target": 3,
+    "description": "আল্লাহর নূর পাওয়ার দোয়া।"
+  },
+  {
+    "id": 311,
+    "name": "হুওয়াল আওয়ালু ওয়াল আখিরু ওয়াজ যাহিরু ওয়াল বাতিন",
+    "arabic": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+    "transliteration": "Huwal awwalu wal akhiru wadh dhahiru wal batinu wa huwa bikulli shay'in alim",
+    "translation": "তিনি প্রথম, তিনি শেষ, তিনি প্রকাশ্য, তিনি অপ্রকাশ্য এবং তিনি সবকিছু জানেন",
+    "count_target": 7,
+    "description": "আল্লাহর চারটি বিশেষ গুণের স্বীকৃতি।"
+  },
+  {
+    "id": 312,
+    "name": "ওয়া হুওয়া আলা কুল্লি শাইয়িন কাদির",
+    "arabic": "وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Wa huwa ala kulli shay'in qadir",
+    "translation": "এবং তিনি সবকিছুর উপর ক্ষমতাবান",
+    "count_target": 33,
+    "description": "আল্লাহর সর্বশক্তিমানতার স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 313,
+    "name": "ওয়া লাহুল হামদু ফিস সামাওয়াতি ওয়াল আরদ",
+    "arabic": "وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ",
+    "transliteration": "Wa lahul hamdu fis samawati wal ardh",
+    "translation": "এবং আসমান ও জমিনে তাঁরই প্রশংসা",
+    "count_target": 33,
+    "description": "আল্লাহর সর্বব্যাপী প্রশংসার স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 314,
+    "name": "ইয়া হাইয়্যু ইয়া কাইয়্যুম লা তানামু ওয়া লা তাঘফুল",
+    "arabic": "يَا حَيُّ يَا قَيُّومُ لَا تَنَامُ وَلَا تَغْفُلُ",
+    "transliteration": "Ya Hayyu ya Qayyumu la tanamu wa la taghful",
+    "translation": "হে চিরঞ্জীব! হে সত্তাধারক! যিনি নিদ্রিত হন না এবং গাফিল হন না",
+    "count_target": 33,
+    "description": "আল্লাহর শাশ্বত জীবন ও সজাগতার যিকির।"
+  },
+  {
+    "id": 315,
+    "name": "আল্লাহু লা ইলাহা ইল্লা হুওয়াল হাইয়্যুল কাইয়্যুম",
+    "arabic": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+    "transliteration": "Allahu la ilaha illa huwal hayyul qayyum",
+    "translation": "আল্লাহ, তিনি ছাড়া কোনো উপাস্য নেই, চিরঞ্জীব, সর্বসত্তার ধারক",
+    "count_target": 100,
+    "description": "আয়াতুল কুরসির প্রথম অংশের বিশেষ যিকির।"
+  },
+  {
+    "id": 316,
+    "name": "ইন্নাল্লাহা ওয়া মালাইকাতাহু ইউসাল্লুনা আলান নাবি",
+    "arabic": "إِنَّ اللَّهَ وَمَلَائِكَتَهُ يُصَلُّونَ عَلَى النَّبِيِّ يَا أَيُّهَا الَّذِينَ آمَنُوا صَلُّوا عَلَيْهِ وَسَلِّمُوا تَسْلِيمًا",
+    "transliteration": "Innallaha wa mala'ikatahu yusalluna alan nabi ya ayyuhal ladhina amanu sallu alayhi wa sallimu taslima",
+    "translation": "নিশ্চয়ই আল্লাহ ও তাঁর ফেরেশতারা নবীর উপর দরুদ পাঠান। হে মুমিনগণ! তোমরাও তাঁর উপর দরুদ ও সালাম পাঠাও",
+    "count_target": 1,
+    "description": "দরুদ পাঠের আদেশের আয়াত।"
+  },
+  {
+    "id": 317,
+    "name": "আল্লাহুম্মা আহিনাল ইসলাম ওয়া আমিতনা আলাল ইমান",
+    "arabic": "اللَّهُمَّ أَحْيِنَا عَلَى الْإِسْلَامِ وَأَمِتْنَا عَلَى الْإِيمَانِ",
+    "transliteration": "Allahumma ahyina alal Islam wa amitna alal iman",
+    "translation": "হে আল্লাহ! আমাদের ইসলামের উপর বাঁচিয়ে রাখো এবং ঈমানের উপর মৃত্যু দাও",
+    "count_target": 3,
+    "description": "ইসলামের উপর মৃত্যুর দোয়া।"
+  },
+  {
+    "id": 318,
+    "name": "আল্লাহুম্মা আহইয়িনি মা কানাতিল হায়াতু খাইরান লি",
+    "arabic": "اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي",
+    "transliteration": "Allahumma ahyini ma kanatil hayatu khayran li wa tawaffani idha kanatil wafatu khayran li",
+    "translation": "হে আল্লাহ! আমাকে বাঁচিয়ে রাখো যতদিন জীবন কল্যাণকর এবং মৃত্যু দাও যখন মৃত্যু কল্যাণকর",
+    "count_target": 3,
+    "description": "জীবন ও মৃত্যু সম্পর্কিত জ্ঞানী দোয়া।"
+  },
+  {
+    "id": 319,
+    "name": "রাব্বানা ইন্নাকা তু'তিল মুলকা মান তাশা",
+    "arabic": "اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ",
+    "transliteration": "Allahumma malikal mulki tu'til mulka man tasha wa tanzi'ul mulka mimman tasha",
+    "translation": "হে আল্লাহ! রাজত্বের মালিক, তুমি যাকে চাও রাজত্ব দাও, যার থেকে চাও রাজত্ব কেড়ে নাও",
+    "count_target": 3,
+    "description": "আল্লাহর সার্বভৌমত্বের স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 320,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা কুল্লা খাইরিন আজিলিন ওয়া আজিল",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ كُلَّ خَيْرٍ عَاجِلٍ وَآجِلٍ",
+    "transliteration": "Allahumma inni as'aluka kulla khayrin ajilini wa ajil",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে সব ধরনের তাৎক্ষণিক ও পরবর্তী কল্যাণ প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সর্বাত্মক কল্যাণের জামে দোয়া।"
+  },
+  {
+    "id": 321,
+    "name": "আল্লাহুম্মা আরযুকনা মাহাব্বাতান মাআ ইখওয়ানিনা",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْمَحَبَّةَ مَعَ إِخْوَانِنَا",
+    "transliteration": "Allahumma arzuqnal mahabbata ma'a ikhwanina",
+    "translation": "হে আল্লাহ! আমাদের মুমিন ভাইদের সাথে ভালোবাসার তাওফিক দাও",
+    "count_target": 3,
+    "description": "মুমিন ভাইদের সাথে ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 322,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাত তাকাব্বুর",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ التَّكَبُّرِ",
+    "transliteration": "Allahumma inni a'udhu bika minat takabbur",
+    "translation": "হে আল্লাহ! আমি অহংকার থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "অহংকার ও দাম্ভিকতা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 323,
+    "name": "আল্লাহুম্মা আজআলনি মুতাওয়াদিআন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مُتَوَاضِعًا",
+    "transliteration": "Allahumma ij'alni mutawadi'an",
+    "translation": "হে আল্লাহ! আমাকে বিনয়ী বানাও",
+    "count_target": 7,
+    "description": "বিনয়ী হওয়ার দোয়া।"
+  },
+  {
+    "id": 324,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুহসিনীনা ইলাল খালক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُحْسِنِينَ إِلَى الْخَلْقِ",
+    "transliteration": "Allahumma ij'alna minal muhsinina ilal khalq",
+    "translation": "হে আল্লাহ! আমাদের সৃষ্টির প্রতি ইহসানকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "মানুষের প্রতি ইহসানের দোয়া।"
+  },
+  {
+    "id": 325,
+    "name": "আল্লাহুম্মা লা তাহরিমনা মিন বারাকাতিক",
+    "arabic": "اللَّهُمَّ لَا تَحْرِمْنَا مِنْ بَرَكَاتِكَ",
+    "transliteration": "Allahumma la tahrimna min barakatik",
+    "translation": "হে আল্লাহ! আমাদের তোমার বরকত থেকে বঞ্চিত করো না",
+    "count_target": 3,
+    "description": "বরকত থেকে বঞ্চিত না হওয়ার দোয়া।"
+  },
+  {
+    "id": 326,
+    "name": "আল্লাহুম্মা আর হামনা বিফাদলিক",
+    "arabic": "اللَّهُمَّ ارْحَمْنَا بِفَضْلِكَ",
+    "transliteration": "Allahumma arhamna bifadhlika",
+    "translation": "হে আল্লাহ! তোমার অনুগ্রহ দিয়ে আমাদের দয়া করো",
+    "count_target": 7,
+    "description": "আল্লাহর অনুগ্রহে দয়া চাওয়ার দোয়া।"
+  },
+  {
+    "id": 327,
+    "name": "আল্লাহুম্মা আনতাল মুআফি ওয়া মিনকাল মুআফাহ",
+    "arabic": "اللَّهُمَّ أَنْتَ الْمُعَافِي وَمِنْكَ الْمُعَافَاةُ",
+    "transliteration": "Allahumma antal mu'afi wa minkal mu'afah",
+    "translation": "হে আল্লাহ! তুমিই সুস্থতাদাতা এবং তোমার কাছ থেকেই সুস্থতা আসে",
+    "count_target": 3,
+    "description": "আল্লাহই সুস্থতার উৎস এই স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 328,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা সালামাতান",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ السَّلَامَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma inni as'alukas salamata fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! দুনিয়া ও আখিরাতে নিরাপত্তা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সার্বিক নিরাপত্তার দোয়া।"
+  },
+  {
+    "id": 329,
+    "name": "আল্লাহুম্মা আজআল মিয়্যিতানা ফিল জান্নাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْ مَيِّتَنَا فِي الْجَنَّةِ",
+    "transliteration": "Allahumma ij'al mayyitana fil jannah",
+    "translation": "হে আল্লাহ! আমাদের মৃতদের জান্নাতে রাখো",
+    "count_target": 3,
+    "description": "মৃতদের জন্য জান্নাতের দোয়া।"
+  },
+  {
+    "id": 330,
+    "name": "আল্লাহুম্মা আকরিম নুযুলাহু ওয়া ওয়াস্সি মাদখালাহু",
+    "arabic": "اللَّهُمَّ أَكْرِمْ نُزُلَهُ وَوَسِّعْ مَدْخَلَهُ",
+    "transliteration": "Allahumma akrim nuzulahu wa wassi' madkhalahu",
+    "translation": "হে আল্লাহ! তার মেহমানদারি সম্মানজনক করো এবং তার প্রবেশস্থান প্রশস্ত করো",
+    "count_target": 3,
+    "description": "মৃতের কবরের জন্য দোয়া।"
+  },
+  {
+    "id": 331,
+    "name": "আল্লাহুম্মা আবদিলহু দারান খাইরান মিন দারিহি",
+    "arabic": "اللَّهُمَّ أَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ",
+    "transliteration": "Allahumma abdilhu daran khayran min darih wa ahlan khayran min ahlih",
+    "translation": "হে আল্লাহ! তার ঘরের চেয়ে উত্তম ঘর ও পরিবারের চেয়ে উত্তম পরিবার দাও",
+    "count_target": 3,
+    "description": "মৃতের জন্য উত্তম আবাস ও পরিবারের দোয়া।"
+  },
+  {
+    "id": 332,
+    "name": "রাব্বি তাওয়াফফানি মুসলিমান ওয়া আলহিকনি বিস সালিহীন",
+    "arabic": "رَبِّ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+    "transliteration": "Rabbi tawaffani musliman wa alhiqni bis salihin",
+    "translation": "হে আমার রব! আমাকে মুসলিম হিসেবে মৃত্যু দাও এবং সৎলোকদের সাথে মিলিয়ে দাও",
+    "count_target": 3,
+    "description": "হযরত ইউসুফ (আ.)-এর দোয়া।"
+  },
+  {
+    "id": 333,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল কুবুলা ইন্দাল মাওত",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الثَّبَاتَ عِنْدَ الْمَوْتِ",
+    "transliteration": "Allahumma inni as'alukas thabata indal mawt",
+    "translation": "হে আল্লাহ! আমি মৃত্যুর সময় অটলতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "মৃত্যুর সময় ঈমান অটল রাখার দোয়া।"
+  },
+  {
+    "id": 334,
+    "name": "আউযু বিল্লাহিস সামিইল আলিমি মিনাশ শায়তান",
+    "arabic": "أَعُوذُ بِاللَّهِ السَّمِيعِ الْعَلِيمِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+    "transliteration": "A'udhu billahis sami'il alimi minash shaitanir rajim",
+    "translation": "আমি সর্বশ্রোতা ও সর্বজ্ঞ আল্লাহর আশ্রয় নিচ্ছি বিতাড়িত শয়তান থেকে",
+    "count_target": 3,
+    "description": "শয়তান থেকে বিশেষ আশ্রয়ের যিকির।"
+  },
+  {
+    "id": 335,
+    "name": "আউযু বিকালিমাতিল্লাহিত তাম্মাতি মিন গাদাবিহি",
+    "arabic": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ",
+    "transliteration": "A'udhu bikalimatillahit tammati min ghadabihi wa iqabih",
+    "translation": "আমি আল্লাহর পরিপূর্ণ বাণীসমূহের মাধ্যমে তাঁর ক্রোধ ও শাস্তি থেকে আশ্রয় চাই",
+    "count_target": 3,
+    "description": "আল্লাহর ক্রোধ ও শাস্তি থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 336,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাশ শাইতানি ওয়া শিরকিহি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الشَّيْطَانِ وَشِرْكِهِ",
+    "transliteration": "Allahumma inni a'udhu bika minash shaitani wa shirkihi",
+    "translation": "হে আল্লাহ! আমি শয়তান ও তার শিরক থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "শয়তানের ওয়াসওয়াসা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 337,
+    "name": "রুকইয়া - বিসমিল্লাহি আরকিক",
+    "arabic": "بِسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَيْءٍ يُؤْذِيكَ مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنٍ حَاسِدٍ",
+    "transliteration": "Bismillahi arqika min kulli shay'in yu'dhika min sharri kulli nafsin aw ayni hasidin",
+    "translation": "আল্লাহর নামে তোমাকে ঝাড়-ফুঁক করছি, প্রতিটি ক্ষতিকর জিনিস থেকে, হিংসুকদের নজর ও আত্মার অনিষ্ট থেকে",
+    "count_target": 3,
+    "description": "অসুস্থ ব্যক্তির জন্য রুকইয়ার দোয়া।"
+  },
+  {
+    "id": 338,
+    "name": "আল্লাহুম্মা মুআফিয়াল আজসাদি ওয়া মুসলিহাল ইবাদ",
+    "arabic": "اللَّهُمَّ مُعَافِيَ الْأَجْسَادِ وَمُصْلِحَ الْعِبَادِ",
+    "transliteration": "Allahumma mu'afiyyal ajsadi wa muslihal ibad",
+    "translation": "হে আল্লাহ! শরীর সুস্থকারী এবং বান্দাদের সংশোধনকারী",
+    "count_target": 3,
+    "description": "শারীরিক সুস্থতা ও সংশোধনের দোয়া।"
+  },
+  {
+    "id": 339,
+    "name": "আল্লাহুম্মা আশফিনি শিফাআন কামিলান",
+    "arabic": "اللَّهُمَّ اشْفِنِي شِفَاءً كَامِلًا",
+    "transliteration": "Allahumma ashfini shifa'an kamilan",
+    "translation": "হে আল্লাহ! আমাকে পূর্ণ আরোগ্য দাও",
+    "count_target": 7,
+    "description": "পরিপূর্ণ সুস্থতার দোয়া।"
+  },
+  {
+    "id": 340,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন সুখটি ওয়ার রিদা",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ السُّخْطِ",
+    "transliteration": "Allahumma inni a'udhu bika minas sukhti",
+    "translation": "হে আল্লাহ! আমি তোমার ক্রোধ থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "আল্লাহর ক্রোধ থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 341,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ওয়াহশাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْوَحْشَةِ",
+    "transliteration": "Allahumma inni a'udhu bika minal wahshah",
+    "translation": "হে আল্লাহ! আমি একাকীত্ব ও ভয় থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "একাকীত্ব ও ভয় থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 342,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল মুনকারাতি ওয়াল মাআসি",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمُنْكَرَاتِ وَالْمَعَاصِي",
+    "transliteration": "Allahumma inni a'udhu bika minal munkarati wal ma'asi",
+    "translation": "হে আল্লাহ! আমি অশ্লীলতা ও পাপকর্ম থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "পাপকর্ম থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 343,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ফিতনাতি ওয়ান নিকমাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفِتْنَةِ وَالنِّقَمِ",
+    "transliteration": "Allahumma inni a'udhu bika minal fitnati wan niqam",
+    "translation": "হে আল্লাহ! আমি ফিতনা ও শাস্তি থেকে তোমার আশ্রয় চাই",
+    "count_target": 3,
+    "description": "ফিতনা ও শাস্তি থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 344,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল গুরুর",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْغُرُورِ",
+    "transliteration": "Allahumma inni a'udhu bika minal ghurur",
+    "translation": "হে আল্লাহ! আমি প্রতারণা ও আত্মপ্রতারণা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "আত্মপ্রতারণা থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 345,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল হিকদ",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْحِقْدِ",
+    "transliteration": "Allahumma inni a'udhu bika minal hiqd",
+    "translation": "হে আল্লাহ! আমি বিদ্বেষ থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "বিদ্বেষ থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 346,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ফাওয়াহিশ",
+    "arabic": "اللَّهُمَّ جَنِّبْنَا الْفَوَاحِشَ",
+    "transliteration": "Allahumma jannibnal fawahish",
+    "translation": "হে আল্লাহ! আমাদের অশ্লীলতা থেকে দূরে রাখো",
+    "count_target": 3,
+    "description": "অশ্লীলতা থেকে দূরে থাকার দোয়া।"
+  },
+  {
+    "id": 347,
+    "name": "আল্লাহুম্মা ওয়াকিনা শাররান নাফস",
+    "arabic": "اللَّهُمَّ قِنَا شَرَّ أَنْفُسِنَا",
+    "transliteration": "Allahumma qina sharra anfusina",
+    "translation": "হে আল্লাহ! আমাদের নফসের অনিষ্ট থেকে রক্ষা করো",
+    "count_target": 7,
+    "description": "নফসের কুপ্রবৃত্তি থেকে রক্ষার দোয়া।"
+  },
+  {
+    "id": 348,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনাল ফিতনাতিদ দুনিয়া",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا",
+    "transliteration": "Allahumma inni a'udhu bika min fitnatid dunya",
+    "translation": "হে আল্লাহ! আমি দুনিয়ার ফিতনা থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "দুনিয়ার পরীক্ষা-প্রলোভন থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 349,
+    "name": "আল্লাহুম্মা আকবিল বিকালবি আলা দ্বীনিক",
+    "arabic": "اللَّهُمَّ أَقْبِلْ بِقَلْبِي عَلَى دِينِكَ",
+    "transliteration": "Allahumma aqbil biqalbi ala dinik",
+    "translation": "হে আল্লাহ! আমার হৃদয়কে তোমার দ্বীনের দিকে মনোনিবেশ করাও",
+    "count_target": 7,
+    "description": "দ্বীনের প্রতি হৃদয়ের মনোযোগ দেওয়ার দোয়া।"
+  },
+  {
+    "id": 350,
+    "name": "আল্লাহুম্মা আকবিল বিকালবি আলা তাআতিক",
+    "arabic": "اللَّهُمَّ أَقْبِلْ بِقَلْبِي عَلَى طَاعَتِكَ",
+    "transliteration": "Allahumma aqbil biqalbi ala ta'atik",
+    "translation": "হে আল্লাহ! আমার হৃদয়কে তোমার আনুগত্যের দিকে মনোনিবেশ করাও",
+    "count_target": 7,
+    "description": "ইবাদতে মনোযোগী হওয়ার দোয়া।"
+  },
+  {
+    "id": 351,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা ইত্তিবাআস সুন্নাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الِاتِّبَاعَ وَالسُّنَّةَ",
+    "transliteration": "Allahumma inni as'alukal ittiba'a was sunnah",
+    "translation": "হে আল্লাহ! আমি সুন্নতের অনুসরণের তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "সুন্নত মেনে চলার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 352,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুখলিসীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُخْلِصِينَ",
+    "transliteration": "Allahumma ij'alna minal mukhlisin",
+    "translation": "হে আল্লাহ! আমাদের ইখলাসবান বান্দাদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইখলাস অর্জনের দোয়া।"
+  },
+  {
+    "id": 353,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাকাব্বিলাতান আমালুহুম",
+    "arabic": "اللَّهُمَّ اجْعَلْ أَعْمَالَنَا مَقْبُولَةً عِنْدَكَ",
+    "transliteration": "Allahumma ij'al a'malana maqbulatan indak",
+    "translation": "হে আল্লাহ! আমাদের আমলগুলো তোমার কাছে কবুলযোগ্য করো",
+    "count_target": 3,
+    "description": "আমল কবুলের দোয়া।"
+  },
+  {
+    "id": 354,
+    "name": "আল্লাহুম্মা আগনিনি বিইলমিক ওয়াকফিনি বিকুদরাতিক",
+    "arabic": "اللَّهُمَّ أَغْنِنِي بِعِلْمِكَ وَاكْفِنِي بِقُدْرَتِكَ وَآتِنِي بِفَضْلِكَ",
+    "transliteration": "Allahumma aghnini bilmika wakfini biqudratika wa atini bifadhlika",
+    "translation": "হে আল্লাহ! তোমার জ্ঞান দিয়ে আমাকে সচ্ছল করো, তোমার শক্তি দিয়ে যথেষ্ট করো এবং তোমার অনুগ্রহ দিয়ে দান করো",
+    "count_target": 3,
+    "description": "জ্ঞান, শক্তি ও অনুগ্রহের ব্যাপক দোয়া।"
+  },
+  {
+    "id": 355,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা আন তাকুনা মাই",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنْ تَكُونَ مَعِي فِي كُلِّ أَمْرٍ",
+    "transliteration": "Allahumma inni as'aluka an takuuna ma'i fi kulli amr",
+    "translation": "হে আল্লাহ! প্রতিটি বিষয়ে তুমি আমার সাথে থাকো",
+    "count_target": 7,
+    "description": "সর্বাবস্থায় আল্লাহর সাহচর্যের দোয়া।"
+  },
+  {
+    "id": 356,
+    "name": "আল্লাহুম্মা আরযুকনি আল-কুরবা মিনক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْقُرْبَ مِنْكَ",
+    "transliteration": "Allahumma arzuqnal qurba mink",
+    "translation": "হে আল্লাহ! তোমার নিকটতা আমাদের রিজিক হিসেবে দাও",
+    "count_target": 7,
+    "description": "আল্লাহর নৈকট্য লাভের দোয়া।"
+  },
+  {
+    "id": 357,
+    "name": "আল্লাহুম্মা আজআলনি কারিবান মিনক",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي قَرِيبًا مِنْكَ",
+    "transliteration": "Allahumma ij'alni qariban mink",
+    "translation": "হে আল্লাহ! আমাকে তোমার নিকটবর্তী করো",
+    "count_target": 7,
+    "description": "আল্লাহর নৈকট্য লাভের দোয়া।"
+  },
+  {
+    "id": 358,
+    "name": "আল্লাহুম্মা আরযুকনাল ফানাআ ফিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْفَنَاءَ فِيكَ",
+    "transliteration": "Allahumma arzuqnal fana'a fik",
+    "translation": "হে আল্লাহ! তোমার মধ্যে হারিয়ে যাওয়ার তাওফিক দাও",
+    "count_target": 3,
+    "description": "আল্লাহর মধ্যে নিজেকে বিলীন করার দোয়া।"
+  },
+  {
+    "id": 359,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল মুশাহাদাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْمُشَاهَدَةَ",
+    "transliteration": "Allahumma inni as'alukal mushaahadah",
+    "translation": "হে আল্লাহ! আমি তোমাকে দেখতে পাওয়ার মতো ইবাদতের তাওফিক চাই",
+    "count_target": 3,
+    "description": "ইহসানের সর্বোচ্চ স্তরের দোয়া।"
+  },
+  {
+    "id": 360,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুতাযাক্কিরীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَذَكِّرِينَ",
+    "transliteration": "Allahumma ij'alni minal mutadhakkiriin",
+    "translation": "হে আল্লাহ! আমাকে স্মরণকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর স্মরণ করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 361,
+    "name": "আল্লাহুম্মা আরযুকনাল ইলমাল লাদুনি",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْعِلْمَ اللَّدُنِّيَّ",
+    "transliteration": "Allahumma arzuqnal ilmal ladunni",
+    "translation": "হে আল্লাহ! আমাদের আল্লাহপ্রদত্ত বিশেষ জ্ঞান দান করো",
+    "count_target": 3,
+    "description": "আল্লাহপ্রদত্ত ইলমে লাদুনির দোয়া।"
+  },
+  {
+    "id": 362,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাফাক্কিরীনা ফি খালকিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَفَكِّرِينَ فِي خَلْقِكَ",
+    "transliteration": "Allahumma ij'alna minal mutafakkirina fi khalqik",
+    "translation": "হে আল্লাহ! আমাদের তোমার সৃষ্টিতে চিন্তাশীলদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "সৃষ্টিতে চিন্তা করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 363,
+    "name": "আল্লাহুম্মা আরযুকনাল ফাহমাল ওয়াকিব",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْفَهْمَ الثَّاقِبَ",
+    "transliteration": "Allahumma arzuqnal fahmal thaqib",
+    "translation": "হে আল্লাহ! আমাদের গভীর বোঝার শক্তি রিজিক হিসেবে দাও",
+    "count_target": 3,
+    "description": "গভীর বোঝার শক্তির দোয়া।"
+  },
+  {
+    "id": 364,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা মাহাব্বাতিল ফুকারাই",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مَحَبَّةَ الْفُقَرَاءِ وَالْمَسَاكِينِ",
+    "transliteration": "Allahumma inni as'aluka mahabbatal fuqara'i wal masakin",
+    "translation": "হে আল্লাহ! আমি দরিদ্র ও অসহায়দের ভালোবাসার তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দরিদ্রদের প্রতি সহমর্মিতার দোয়া।"
+  },
+  {
+    "id": 365,
+    "name": "আল্লাহুম্মা আরযুকনাত তাওয়াদু লিলমুমিনীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا التَّوَاضُعَ لِلْمُؤْمِنِينَ",
+    "transliteration": "Allahumma arzuqnat tawadhu lil mu'minin",
+    "translation": "হে আল্লাহ! মুমিনদের প্রতি বিনয়ী হওয়ার তাওফিক দাও",
+    "count_target": 3,
+    "description": "মুমিনদের প্রতি বিনয়ের দোয়া।"
+  },
+  {
+    "id": 366,
+    "name": "আল্লাহুম্মা আরযুকনাল ইজ্জাতা আলাল কাফিরীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْعِزَّةَ عَلَى الْكَافِرِينَ",
+    "transliteration": "Allahumma arzuqnal izzata alal kafirin",
+    "translation": "হে আল্লাহ! কাফিরদের বিরুদ্ধে সম্মান ও শক্তির তাওফিক দাও",
+    "count_target": 3,
+    "description": "কাফিরদের বিরুদ্ধে মর্যাদার দোয়া।"
+  },
+  {
+    "id": 367,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুহসিনীনা ইলাল ফুকারা",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُحْسِنِينَ إِلَى الْفُقَرَاءِ",
+    "transliteration": "Allahumma ij'alni minal muhsinina ilal fuqara'",
+    "translation": "হে আল্লাহ! আমাকে দরিদ্রদের প্রতি ইহসানকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "দরিদ্রদের সাহায্যকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 368,
+    "name": "আল্লাহুম্মা আরযুকনা হুব্বাল খাইরাত",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُبَّ الْخَيْرَاتِ",
+    "transliteration": "Allahumma arzuqna hubbal khayrat",
+    "translation": "হে আল্লাহ! আমাদের ভালো কাজের প্রতি ভালোবাসা দাও",
+    "count_target": 3,
+    "description": "ভালো কাজের প্রতি ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 369,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল আইম্মাতিল মুত্তাকীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْأَئِمَّةِ الْمُتَّقِينَ",
+    "transliteration": "Allahumma ij'alna minal a'immati muttaqin",
+    "translation": "হে আল্লাহ! আমাদের মুত্তাকী নেতাদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "মুত্তাকী নেতাদের মধ্যে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 370,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা সালামাহ ওয়া মুআফাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ السَّلَامَةَ وَالْمُعَافَاةَ",
+    "transliteration": "Allahumma inni as'alukas salamata wal mu'afah",
+    "translation": "হে আল্লাহ! আমি নিরাপত্তা ও সুস্থতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "নিরাপত্তা ও সুস্থতার যুগল দোয়া।"
+  },
+  {
+    "id": 371,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হুসনাল মুআমালাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُسْنَ الْمُعَامَلَةِ",
+    "transliteration": "Allahumma inni as'aluka husnal mu'amalah",
+    "translation": "হে আল্লাহ! আমি উত্তম আচরণের তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "উত্তম আচরণের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 372,
+    "name": "আল্লাহুম্মা আরযুকনা বিরাল ওয়ালিদাইন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا بِرَّ الْوَالِدَيْنِ",
+    "transliteration": "Allahumma arzuqna birral walidayn",
+    "translation": "হে আল্লাহ! আমাদের পিতামাতার সাথে সদাচরণের তাওফিক দাও",
+    "count_target": 3,
+    "description": "পিতামাতার প্রতি সদাচরণের দোয়া।"
+  },
+  {
+    "id": 373,
+    "name": "আল্লাহুম্মা আরযুকনা সিলাতার রাহিম",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا صِلَةَ الرَّحِمِ",
+    "transliteration": "Allahumma arzuqna silatar rahim",
+    "translation": "হে আল্লাহ! আমাদের আত্মীয়তার সম্পর্ক বজায় রাখার তাওফিক দাও",
+    "count_target": 3,
+    "description": "আত্মীয়তার সম্পর্ক বজায় রাখার দোয়া।"
+  },
+  {
+    "id": 374,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হুসনাস সুহবাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُسْنَ الصُّحْبَةِ",
+    "transliteration": "Allahumma inni as'aluka husnas suhbah",
+    "translation": "হে আল্লাহ! আমি উত্তম সাহচর্যের তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "উত্তম সাহচর্যের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 375,
+    "name": "আল্লাহুম্মা আরযুকনা হুস্নাল জিওয়ার",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْجِوَارِ",
+    "transliteration": "Allahumma arzuqna husnal jiwar",
+    "translation": "হে আল্লাহ! আমাদের প্রতিবেশীর সাথে উত্তম আচরণের তাওফিক দাও",
+    "count_target": 3,
+    "description": "প্রতিবেশীর সাথে উত্তম আচরণের দোয়া।"
+  },
+  {
+    "id": 376,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল খাতিমাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْخَاتِمَةِ",
+    "transliteration": "Allahumma arzuqna husnal khatimah",
+    "translation": "হে আল্লাহ! আমাদের সুন্দর পরিণতি দান করো",
+    "count_target": 3,
+    "description": "সুন্দর পরিণতির দোয়া।"
+  },
+  {
+    "id": 377,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল আমাল",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْعَمَلِ",
+    "transliteration": "Allahumma arzuqna husnal amal",
+    "translation": "হে আল্লাহ! আমাদের উত্তম আমলের তাওফিক দাও",
+    "count_target": 3,
+    "description": "উত্তম আমলের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 378,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল যান বিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الظَّنِّ بِكَ",
+    "transliteration": "Allahumma arzuqna husnan zan bik",
+    "translation": "হে আল্লাহ! তোমার সম্পর্কে সুধারণা রাখার তাওফিক দাও",
+    "count_target": 3,
+    "description": "আল্লাহর প্রতি সুধারণা রাখার দোয়া।"
+  },
+  {
+    "id": 379,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হুসনাল উসরাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُسْنَ الْأُسْرَةِ",
+    "transliteration": "Allahumma inni as'aluka husnal usrah",
+    "translation": "হে আল্লাহ! আমি পরিবারের সাথে উত্তম সম্পর্কের তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "পারিবারিক সম্প্রীতির দোয়া।"
+  },
+  {
+    "id": 380,
+    "name": "আল্লাহুম্মা আজআলনা মিনাশ শাকিরীনাল কাসিরীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الشَّاكِرِينَ الْكَثِيرِينَ",
+    "transliteration": "Allahumma ij'alna minash shakirinal kathirin",
+    "translation": "হে আল্লাহ! আমাদের বেশি বেশি কৃতজ্ঞতাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "কৃতজ্ঞতাকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 381,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাখাশশিইনা লাক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَخَشِّعِينَ لَكَ",
+    "transliteration": "Allahumma ij'alna minal mutakhashi'ina lak",
+    "translation": "হে আল্লাহ! আমাদের তোমার প্রতি বিনম্রদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর প্রতি বিনয়ের দোয়া।"
+  },
+  {
+    "id": 382,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল খাশিইনা ফিস সালাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْخَاشِعِينَ فِي الصَّلَاةِ",
+    "transliteration": "Allahumma ij'alna minal khashi'ina fis salah",
+    "translation": "হে আল্লাহ! আমাদের নামাজে বিনম্রদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "নামাজে বিনয়ের দোয়া।"
+  },
+  {
+    "id": 383,
+    "name": "আল্লাহুম্মা আজআলনা মিনাস সাইয়িমীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الصَّائِمِينَ",
+    "transliteration": "Allahumma ij'alna minas sa'imin",
+    "translation": "হে আল্লাহ! আমাদের রোজাদারদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "রোজাদারদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 384,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাসাদ্দিকীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَصَدِّقِينَ",
+    "transliteration": "Allahumma ij'alna minal mutasaddiqin",
+    "translation": "হে আল্লাহ! আমাদের সদকাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "সদকাকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 385,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুজাহিদীন ফি সাবিলিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُجَاهِدِينَ فِي سَبِيلِكَ",
+    "transliteration": "Allahumma ij'alna minal mujahidina fi sabilik",
+    "translation": "হে আল্লাহ! আমাদের তোমার পথে সংগ্রামকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "আল্লাহর পথে জিহাদকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 386,
+    "name": "আল্লাহুম্মা আরযুকনা শাহাদাহ ফি সাবিলিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا شَهَادَةً فِي سَبِيلِكَ",
+    "transliteration": "Allahumma arzuqna shahadah fi sabilik",
+    "translation": "হে আল্লাহ! তোমার পথে শাহাদাত আমাদের রিজিক হিসেবে দাও",
+    "count_target": 3,
+    "description": "শাহাদাত কামনার দোয়া।"
+  },
+  {
+    "id": 387,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুখবিতীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُخْبِتِينَ",
+    "transliteration": "Allahumma ij'alna minal mukhbitin",
+    "translation": "হে আল্লাহ! আমাদের বিনম্র ও আত্মসমর্পণকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আত্মসমর্পণকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 388,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল আবরার",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْأَبْرَارِ",
+    "transliteration": "Allahumma ij'alna minal abrar",
+    "translation": "হে আল্লাহ! আমাদের সৎ ও পুণ্যবানদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "পুণ্যবানদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 389,
+    "name": "আল্লাহুম্মা আরযুকনাল মাওতা ফিল মদীনাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْمَوْتَ فِي الْمَدِينَةِ",
+    "transliteration": "Allahumma arzuqnal mawta fil madinah",
+    "translation": "হে আল্লাহ! আমাদের মদীনায় মৃত্যুর তাওফিক দাও",
+    "count_target": 3,
+    "description": "মদীনায় মৃত্যুর দোয়া।"
+  },
+  {
+    "id": 390,
+    "name": "আল্লাহুম্মা আরযুকনায্যিয়ারাতান নাবিইয়ি",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا زِيَارَةَ النَّبِيِّ",
+    "transliteration": "Allahumma arzuqna ziyarata nabiyyi",
+    "translation": "হে আল্লাহ! আমাদের নবীজির রওযা জিয়ারতের তাওফিক দাও",
+    "count_target": 3,
+    "description": "নবীজির রওযা জিয়ারতের দোয়া।"
+  },
+  {
+    "id": 391,
+    "name": "আল্লাহুম্মা আরযুকনা হাজ্জাল মাবরুর",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْحَجَّ الْمَبْرُورَ",
+    "transliteration": "Allahumma arzuqnal hajjal mabrur",
+    "translation": "হে আল্লাহ! আমাদের মাবরুর হজের তাওফিক দাও",
+    "count_target": 3,
+    "description": "কবুলযোগ্য হজের দোয়া।"
+  },
+  {
+    "id": 392,
+    "name": "আল্লাহুম্মা আরযুকনা উমরাতান মাবরুরাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا عُمْرَةً مَبْرُورَةً",
+    "transliteration": "Allahumma arzuqna umratan mabrurah",
+    "translation": "হে আল্লাহ! আমাদের কবুলযোগ্য উমরার তাওফিক দাও",
+    "count_target": 3,
+    "description": "কবুলযোগ্য উমরার দোয়া।"
+  },
+  {
+    "id": 393,
+    "name": "আল্লাহুম্মা তাকাব্বাল মিন্না হাজ্জানা",
+    "arabic": "اللَّهُمَّ تَقَبَّلْ مِنَّا حَجَّنَا وَعُمْرَتَنَا",
+    "transliteration": "Allahumma taqabbal minna hajjana wa umratana",
+    "translation": "হে আল্লাহ! আমাদের হজ ও উমরা কবুল করো",
+    "count_target": 3,
+    "description": "হজ ও উমরা কবুলের দোয়া।"
+  },
+  {
+    "id": 394,
+    "name": "আল্লাহুম্মা আরযুকনা যিয়ারাতাল মাসজিদিল হারাম",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا زِيَارَةَ الْمَسْجِدِ الْحَرَامِ",
+    "transliteration": "Allahumma arzuqna ziyaratal masjidil haram",
+    "translation": "হে আল্লাহ! আমাদের মসজিদুল হারাম জিয়ারতের তাওফিক দাও",
+    "count_target": 3,
+    "description": "মসজিদুল হারাম জিয়ারতের দোয়া।"
+  },
+  {
+    "id": 395,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুফলিহীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُفْلِحِينَ",
+    "transliteration": "Allahumma ij'alna minal mufliheen",
+    "translation": "হে আল্লাহ! আমাদের সফলকামদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "সফলতার দোয়া।"
+  },
+  {
+    "id": 396,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল ফাইযীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْفَائِزِينَ",
+    "transliteration": "Allahumma ij'alna minal fa'izeen",
+    "translation": "হে আল্লাহ! আমাদের বিজয়ী ও সাফল্যপ্রাপ্তদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "বিজয়ীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 397,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুকাররাবীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُقَرَّبِينَ",
+    "transliteration": "Allahumma ij'alna minal muqarrabin",
+    "translation": "হে আল্লাহ! আমাদের তোমার নিকটবর্তীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর নিকটবর্তীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 398,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা আন তাহশুরানি মাআন নাবিইয়িন",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ أَنْ تَحْشُرَنِي مَعَ النَّبِيِّينَ وَالصِّدِّيقِينَ",
+    "transliteration": "Allahumma inni as'aluka an tahshurani ma'an nabiyyina was siddiqin",
+    "translation": "হে আল্লাহ! আমাকে নবী ও সিদ্দীকদের সাথে উঠাও",
+    "count_target": 3,
+    "description": "কিয়ামতে নবী ও সিদ্দীকদের সাথে থাকার দোয়া।"
+  },
+  {
+    "id": 399,
+    "name": "আল্লাহুম্মা আজআল আওলাদানা সালিহীন",
+    "arabic": "اللَّهُمَّ اجْعَلْ أَوْلَادَنَا صَالِحِينَ",
+    "transliteration": "Allahumma ij'al awladana salihin",
+    "translation": "হে আল্লাহ! আমাদের সন্তানদের নেককার বানাও",
+    "count_target": 3,
+    "description": "সন্তানের নেককার হওয়ার দোয়া।"
+  },
+  {
+    "id": 400,
+    "name": "আল্লাহুম্মা আরযুকনা যুররিয়্যাতান তাইয়্যিবাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ذُرِّيَّةً طَيِّبَةً",
+    "transliteration": "Allahumma arzuqna dhurriyyatan tayyibah",
+    "translation": "হে আল্লাহ! আমাদের পুণ্যবান বংশধর দান করো",
+    "count_target": 3,
+    "description": "পুণ্যবান সন্তানের দোয়া।"
+  },
+  {
+    "id": 401,
+    "name": "আল্লাহুম্মা আরযুকনা মাওয়াদ্দাহ বাইনানা",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْمَوَدَّةَ وَالرَّحْمَةَ بَيْنَنَا",
+    "transliteration": "Allahumma arzuqnal mawaddata war rahmata baynana",
+    "translation": "হে আল্লাহ! আমাদের মধ্যে ভালোবাসা ও দয়া দান করো",
+    "count_target": 3,
+    "description": "পারিবারিক ভালোবাসা ও করুণার দোয়া।"
+  },
+  {
+    "id": 402,
+    "name": "আল্লাহুম্মা আসলিহ লানা আজওয়াজানা",
+    "arabic": "اللَّهُمَّ أَصْلِحْ لَنَا أَزْوَاجَنَا",
+    "transliteration": "Allahumma aslih lana azwajana",
+    "translation": "হে আল্লাহ! আমাদের স্বামী-স্ত্রীর সম্পর্ক সংশোধন করো",
+    "count_target": 3,
+    "description": "বৈবাহিক সম্পর্ক সংশোধনের দোয়া।"
+  },
+  {
+    "id": 403,
+    "name": "আল্লাহুম্মা আরযুকনাস সাআদাতাল জাউজিয়্যাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا السَّعَادَةَ الزَّوْجِيَّةَ",
+    "transliteration": "Allahumma arzuqnas sa'adatal zawjiyyah",
+    "translation": "হে আল্লাহ! আমাদের দাম্পত্য সুখ দান করো",
+    "count_target": 3,
+    "description": "দাম্পত্য সুখের দোয়া।"
+  },
+  {
+    "id": 404,
+    "name": "আল্লাহুম্মা আরযুকনা মুহাব্বাতাস সালিহীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مَحَبَّةَ الصَّالِحِينَ",
+    "transliteration": "Allahumma arzuqna mahabbatas salihin",
+    "translation": "হে আল্লাহ! আমাদের নেককারদের ভালোবাসা দান করো",
+    "count_target": 3,
+    "description": "নেককারদের ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 405,
+    "name": "আল্লাহুম্মা আজআলনা মিনাস সাবিরীনাল মুহতাসিবীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الصَّابِرِينَ الْمُحْتَسِبِينَ",
+    "transliteration": "Allahumma ij'alna minas sabirinal muhtasibin",
+    "translation": "হে আল্লাহ! আমাদের সওয়াবের আশায় ধৈর্যধারণকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "সওয়াবের আশায় ধৈর্যের দোয়া।"
+  },
+  {
+    "id": 406,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাকাফফিলীনা বিল ইতম",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَكَفِّلِينَ بِالْيَتَامَى",
+    "transliteration": "Allahumma ij'alna minal mutakaffilina bil yatama",
+    "translation": "হে আল্লাহ! আমাদের এতিমদের দেখাশোনাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "এতিমদের প্রতি দায়িত্বশীলদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 407,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল উলুওয়া ফিল জান্নাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعُلُوَّ فِي الْجَنَّةِ",
+    "transliteration": "Allahumma inni as'alukal uluwwa fil jannah",
+    "translation": "হে আল্লাহ! আমি জান্নাতে উচ্চ মর্যাদা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "জান্নাতে উচ্চ মর্যাদার দোয়া।"
+  },
+  {
+    "id": 408,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা মুজাওয়ারাতান নাবিইয়ি ফিল জান্নাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مُجَاوَرَةَ النَّبِيِّ فِي الْجَنَّةِ",
+    "transliteration": "Allahumma inni as'aluka mujawarata nabiyyi fil jannah",
+    "translation": "হে আল্লাহ! আমি জান্নাতে নবীজির পাশে থাকার প্রার্থনা করি",
+    "count_target": 3,
+    "description": "জান্নাতে নবীজির পাশে থাকার দোয়া।"
+  },
+  {
+    "id": 409,
+    "name": "আল্লাহুম্মা আরযুকনা রিদওয়ানাক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا رِضْوَانَكَ",
+    "transliteration": "Allahumma arzuqna ridwanak",
+    "translation": "হে আল্লাহ! আমাদের তোমার সন্তুষ্টি রিজিক হিসেবে দাও",
+    "count_target": 3,
+    "description": "আল্লাহর সন্তুষ্টির দোয়া।"
+  },
+  {
+    "id": 410,
+    "name": "আল্লাহুম্মা আরযুকনা মিন জান্নাতিল খুলদ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مِنْ جَنَّةِ الْخُلْدِ",
+    "transliteration": "Allahumma arzuqna min jannati khuldi",
+    "translation": "হে আল্লাহ! আমাদের চিরস্থায়ী জান্নাত থেকে রিজিক দাও",
+    "count_target": 3,
+    "description": "চিরস্থায়ী জান্নাতের দোয়া।"
+  },
+  {
+    "id": 411,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল আমনা ইয়াওমাল ফাযা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْأَمْنَ يَوْمَ الْفَزَعِ الْأَكْبَرِ",
+    "transliteration": "Allahumma inni as'alukal amna yawmal faza'il akbar",
+    "translation": "হে আল্লাহ! মহা আতঙ্কের দিনে নিরাপত্তা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "কিয়ামতের ভয়াবহ দিনে নিরাপত্তার দোয়া।"
+  },
+  {
+    "id": 412,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাস সিতরা ইয়াওমাল কিয়ামাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ السَّتْرَ يَوْمَ الْقِيَامَةِ",
+    "transliteration": "Allahumma inni as'alukas sitra yawmal qiyamah",
+    "translation": "হে আল্লাহ! কিয়ামতের দিনে পর্দা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "কিয়ামতে লজ্জাস্থান ঢেকে রাখার দোয়া।"
+  },
+  {
+    "id": 413,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল আফওয়া ইয়াওমাল হিসাব",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ يَوْمَ الْحِسَابِ",
+    "transliteration": "Allahumma inni as'alukal afwa yawmal hisab",
+    "translation": "হে আল্লাহ! হিসাবের দিনে ক্ষমা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "হিসাবের দিনে ক্ষমার দোয়া।"
+  },
+  {
+    "id": 414,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাস সুরআতা আলাস সিরাত",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ السُّرْعَةَ عَلَى الصِّرَاطِ",
+    "transliteration": "Allahumma inni as'alukas sur'ata alas sirat",
+    "translation": "হে আল্লাহ! পুলসিরাত পার হওয়ায় দ্রুততা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "পুলসিরাত দ্রুত পার হওয়ার দোয়া।"
+  },
+  {
+    "id": 415,
+    "name": "আল্লাহুম্মা আনজিনা মিনান নার",
+    "arabic": "اللَّهُمَّ أَنْجِنَا مِنَ النَّارِ",
+    "transliteration": "Allahumma anjina minan nar",
+    "translation": "হে আল্লাহ! আমাদের জাহান্নাম থেকে মুক্তি দাও",
+    "count_target": 3,
+    "description": "জাহান্নাম থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 416,
+    "name": "আল্লাহুম্মা আদখিলনাল জান্নাতা",
+    "arabic": "اللَّهُمَّ أَدْخِلْنَا الْجَنَّةَ",
+    "transliteration": "Allahumma adkhilnal jannah",
+    "translation": "হে আল্লাহ! আমাদের জান্নাতে প্রবেশ করাও",
+    "count_target": 3,
+    "description": "জান্নাতে প্রবেশের দোয়া।"
+  },
+  {
+    "id": 417,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাজ জান্নাতা ওয়া মা কাররাবা ইলাইহা",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
+    "transliteration": "Allahumma inni as'alukal jannata wa ma qarraba ilayha min qawlin aw amal",
+    "translation": "হে আল্লাহ! আমি জান্নাত চাই এবং যে কথা ও কাজ জান্নাতের নিকটবর্তী করে তাও চাই",
+    "count_target": 3,
+    "description": "জান্নাতের জন্য ব্যাপক দোয়া।"
+  },
+  {
+    "id": 418,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিনান নারি ওয়া মা কাররাবা ইলাইহা",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ",
+    "transliteration": "Allahumma inni a'udhu bika minan nari wa ma qarraba ilayha min qawlin aw amal",
+    "translation": "হে আল্লাহ! আমি জাহান্নাম থেকে আশ্রয় চাই এবং যে কথা ও কাজ জাহান্নামের নিকটবর্তী করে তা থেকেও",
+    "count_target": 3,
+    "description": "জাহান্নাম থেকে মুক্তির ব্যাপক দোয়া।"
+  },
+  {
+    "id": 419,
+    "name": "আল্লাহুম্মা আজআলনা মিন আহলিল জান্নাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْجَنَّةِ",
+    "transliteration": "Allahumma ij'alna min ahlil jannah",
+    "translation": "হে আল্লাহ! আমাদের জান্নাতবাসীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "জান্নাতবাসীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 420,
+    "name": "আল্লাহুম্মা আজিরনা মিন আহলিন নার",
+    "arabic": "اللَّهُمَّ أَجِرْنَا مِنْ أَهْلِ النَّارِ",
+    "transliteration": "Allahumma ajirna min ahlin nar",
+    "translation": "হে আল্লাহ! আমাদের জাহান্নামবাসীদের থেকে রক্ষা করো",
+    "count_target": 3,
+    "description": "জাহান্নামবাসীদের থেকে রক্ষার দোয়া।"
+  },
+  {
+    "id": 421,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল আফওয়া ওয়াল আফিয়াতা ফিদ দুনিয়া ওয়াল আখিরাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma inni as'alukal afwa wal afiyata fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! আমি দুনিয়া ও আখিরাতে তোমার কাছে ক্ষমা ও সুস্থতা প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতের ক্ষমা ও সুস্থতার দোয়া।"
+  },
+  {
+    "id": 422,
+    "name": "আল্লাহুম্মা আনতাস সালামু মিনকাস সালাম",
+    "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ",
+    "transliteration": "Allahumma antas salamu wa minkas salam",
+    "translation": "হে আল্লাহ! তুমিই শান্তি এবং তোমার কাছ থেকেই শান্তি",
+    "count_target": 3,
+    "description": "নামাজের সালামের পরে পড়তে হয়।"
+  },
+  {
+    "id": 423,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুরাবিতীন ফি সাবিলিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُرَابِطِينَ فِي سَبِيلِكَ",
+    "transliteration": "Allahumma ij'alna minal murabitina fi sabilik",
+    "translation": "হে আল্লাহ! আমাদের তোমার পথে পাহারাদারদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "আল্লাহর পথে প্রহরীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 424,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা হুসনান নিয়্যাহ",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُسْنَ النِّيَّةِ",
+    "transliteration": "Allahumma inni as'aluka husnan niyyah",
+    "translation": "হে আল্লাহ! আমি উত্তম নিয়তের তাওফিক প্রার্থনা করি",
+    "count_target": 3,
+    "description": "উত্তম নিয়তের দোয়া।"
+  },
+  {
+    "id": 425,
+    "name": "আল্লাহুম্মা আজআলনি মিনাল মুখলিসীনা ফি নিয়্যাতি",
+    "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُخْلِصِينَ فِي نِيَّتِي",
+    "transliteration": "Allahumma ij'alni minal mukhlisinaa fi niyyati",
+    "translation": "হে আল্লাহ! আমাকে নিয়তে ইখলাসবান বান্দাদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইখলাসপূর্ণ নিয়তের দোয়া।"
+  },
+  {
+    "id": 426,
+    "name": "আল্লাহুম্মা আরযুকনা তাজদীদাল ইমান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا تَجْدِيدَ الْإِيمَانِ",
+    "transliteration": "Allahumma arzuqna tajdidal iman",
+    "translation": "হে আল্লাহ! আমাদের ঈমান নবায়নের তাওফিক দাও",
+    "count_target": 3,
+    "description": "ঈমান নবায়নের দোয়া।"
+  },
+  {
+    "id": 427,
+    "name": "আল্লাহুম্মা আরযুকনা সাহবাতাস সালিহীন ফিদ দুনিয়া",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا صُحْبَةَ الصَّالِحِينَ فِي الدُّنْيَا",
+    "transliteration": "Allahumma arzuqna suhbatas salihin fid dunya",
+    "translation": "হে আল্লাহ! আমাদের দুনিয়ায় নেককারদের সাহচর্য দান করো",
+    "count_target": 3,
+    "description": "নেককারদের সাহচর্যের দোয়া।"
+  },
+  {
+    "id": 428,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল খুলুক মাআল জামিই",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْخُلُقِ مَعَ الْجَمِيعِ",
+    "transliteration": "Allahumma arzuqna husnal khuluq ma'al jami'",
+    "translation": "হে আল্লাহ! সকলের সাথে উত্তম চরিত্রের তাওফিক দাও",
+    "count_target": 3,
+    "description": "সকলের সাথে উত্তম চরিত্রের দোয়া।"
+  },
+  {
+    "id": 429,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল ইস্তিমাআ ওয়াল ফাহম",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الِاسْتِمَاعِ وَالْفَهْمِ",
+    "transliteration": "Allahumma arzuqna husnal istima'i wal fahm",
+    "translation": "হে আল্লাহ! আমাদের উত্তম শ্রবণ ও বোঝার তাওফিক দাও",
+    "count_target": 3,
+    "description": "উত্তম শ্রবণ ও বোঝার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 430,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাত তাওয়াকুল আলাইক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ التَّوَكُّلِ عَلَيْكَ",
+    "transliteration": "Allahumma arzuqna husnat tawakkuli alayk",
+    "translation": "হে আল্লাহ! তোমার উপর উত্তম তাওয়াক্কুলের তাওফিক দাও",
+    "count_target": 7,
+    "description": "উত্তম তাওয়াক্কুলের দোয়া।"
+  },
+  {
+    "id": 431,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাত তাওয়াবা ইলাইক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ التَّوْبَةِ إِلَيْكَ",
+    "transliteration": "Allahumma arzuqna husnat tawbati ilayk",
+    "translation": "হে আল্লাহ! তোমার দিকে সুন্দর তাওবার তাওফিক দাও",
+    "count_target": 7,
+    "description": "সুন্দর তাওবার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 432,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুসরিইনা ফিল উবুদিয়্যাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُسِرِّينَ فِي الْعُبُودِيَّةِ",
+    "transliteration": "Allahumma ij'alna minal musirrina fil ubudiyyah",
+    "translation": "হে আল্লাহ! আমাদের ইবাদতে অবিচল থাকা বান্দাদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "ইবাদতে অবিচল থাকার দোয়া।"
+  },
+  {
+    "id": 433,
+    "name": "আল্লাহুম্মা আরযুকনা বাহজাতান বিযিকরিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا بَهْجَةً بِذِكْرِكَ",
+    "transliteration": "Allahumma arzuqna bahjatan bidhikrik",
+    "translation": "হে আল্লাহ! তোমার যিকরে আনন্দ লাভের তাওফিক দাও",
+    "count_target": 7,
+    "description": "যিকরে আনন্দের দোয়া।"
+  },
+  {
+    "id": 434,
+    "name": "আল্লাহুম্মা আরযুকনাল বাসিরাহ ফিদ দীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْبَصِيرَةَ فِي الدِّينِ",
+    "transliteration": "Allahumma arzuqnal basirata fid din",
+    "translation": "হে আল্লাহ! আমাদের দ্বীনে দূরদর্শিতা দান করো",
+    "count_target": 3,
+    "description": "দ্বীনে দূরদর্শিতার দোয়া।"
+  },
+  {
+    "id": 435,
+    "name": "আল্লাহুম্মা আরযুকনাল হায়াআ মিনক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْحَيَاءَ مِنْكَ",
+    "transliteration": "Allahumma arzuqnal haya'a mink",
+    "translation": "হে আল্লাহ! তোমার থেকে লজ্জার তাওফিক দাও",
+    "count_target": 7,
+    "description": "আল্লাহর প্রতি লজ্জার দোয়া।"
+  },
+  {
+    "id": 436,
+    "name": "আল্লাহুম্মা আরযুকনাল ওয়ারাআ ওয়াল জুহদ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْوَرَعَ وَالزُّهْدَ",
+    "transliteration": "Allahumma arzuqnal wara'a waz zuhd",
+    "translation": "হে আল্লাহ! আমাদের সংযমশীলতা ও দুনিয়াত্যাগের তাওফিক দাও",
+    "count_target": 3,
+    "description": "সংযম ও দুনিয়াত্যাগের দোয়া।"
+  },
+  {
+    "id": 437,
+    "name": "আল্লাহুম্মা আরযুকনা মুশাহাদাতাল জামাল ফিল কিয়ামাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مُشَاهَدَةَ جَمَالِكَ فِي الْقِيَامَةِ",
+    "transliteration": "Allahumma arzuqna mushahadatajjamalik fil qiyamah",
+    "translation": "হে আল্লাহ! কিয়ামতে তোমার সৌন্দর্য দর্শনের তাওফিক দাও",
+    "count_target": 3,
+    "description": "কিয়ামতে আল্লাহর সৌন্দর্য দর্শনের দোয়া।"
+  },
+  {
+    "id": 438,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাযাক্কিরীনাল্লাহা কাসিরান",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الذَّاكِرِينَ اللَّهَ كَثِيرًا وَالذَّاكِرَاتِ",
+    "transliteration": "Allahumma ij'alna minadh dhakiriinallaha kathiran wad dhakisat",
+    "translation": "হে আল্লাহ! আমাদের বেশি যিকরকারী পুরুষ ও নারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "বেশি যিকরকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 439,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল আমাল হাত্তাল মাওত",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْعَمَلِ حَتَّى الْمَوْتِ",
+    "transliteration": "Allahumma arzuqna husnal amali hatta mawt",
+    "translation": "হে আল্লাহ! আমাদের মৃত্যু পর্যন্ত উত্তম আমলের তাওফিক দাও",
+    "count_target": 3,
+    "description": "আমৃত্যু উত্তম আমলের দোয়া।"
+  },
+  {
+    "id": 440,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল উমর",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْعُمُرِ",
+    "transliteration": "Allahumma arzuqna husnal umr",
+    "translation": "হে আল্লাহ! আমাদের উত্তম জীবন দান করো",
+    "count_target": 3,
+    "description": "উত্তম জীবনের দোয়া।"
+  },
+  {
+    "id": 441,
+    "name": "আল্লাহুম্মা আরযুকনা কুল্লা খাইরিন ফিদ দুনিয়া ওয়াল আখিরাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كُلَّ خَيْرٍ فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma arzuqna kulla khayrin fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! দুনিয়া ও আখিরাতের সকল কল্যাণ আমাদের দান করো",
+    "count_target": 3,
+    "description": "সার্বিক কল্যাণের দোয়া।"
+  },
+  {
+    "id": 442,
+    "name": "আল্লাহুম্মা আরিফনা কাদরাকা হাক্কা মাআরিফাতিক",
+    "arabic": "اللَّهُمَّ عَرِّفْنَا قَدْرَكَ حَقَّ مَعْرِفَتِكَ",
+    "transliteration": "Allahumma arrifna qadraka haqqa ma'rifatik",
+    "translation": "হে আল্লাহ! তোমার মর্যাদা যথাযথভাবে আমাদের পরিচয় করিয়ে দাও",
+    "count_target": 7,
+    "description": "আল্লাহর মহত্ত্ব যথাযথ বোঝার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 443,
+    "name": "আল্লাহুম্মা আরযুকনা মুহাব্বাতাকা ফাওকা কুল্লি মাহাব্বাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا مَحَبَّتَكَ فَوْقَ كُلِّ مَحَبَّةٍ",
+    "transliteration": "Allahumma arzuqna mahabbataka fawqa kulli mahabbah",
+    "translation": "হে আল্লাহ! তোমার ভালোবাসাকে সব ভালোবাসার উপরে রাখার তাওফিক দাও",
+    "count_target": 7,
+    "description": "আল্লাহকে সর্বোচ্চ ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 444,
+    "name": "আল্লাহুম্মা আরযুকনাল ইসতিকামাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الِاسْتِقَامَةَ",
+    "transliteration": "Allahumma arzuqnal istiqamah",
+    "translation": "হে আল্লাহ! আমাদের সরল পথে অটল থাকার তাওফিক দাও",
+    "count_target": 7,
+    "description": "দ্বীনের উপর অটল থাকার দোয়া।"
+  },
+  {
+    "id": 445,
+    "name": "আল্লাহুম্মা আরযুকনা তাহকীকাল ইমান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا تَحْقِيقَ الْإِيمَانِ",
+    "transliteration": "Allahumma arzuqna tahqiqal iman",
+    "translation": "হে আল্লাহ! আমাদের পরিপূর্ণ ঈমান অর্জনের তাওফিক দাও",
+    "count_target": 3,
+    "description": "পরিপূর্ণ ঈমানের দোয়া।"
+  },
+  {
+    "id": 446,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আন আকুনা কাফিরান",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أَكُونَ كَافِرًا",
+    "transliteration": "Allahumma inni a'udhu bika min an akuuna kafiran",
+    "translation": "হে আল্লাহ! আমি কাফির হওয়া থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "ঈমানহারা হওয়া থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 447,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আন আকুনা মুশরিকান",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أَكُونَ مُشْرِكًا",
+    "transliteration": "Allahumma inni a'udhu bika min an akuuna mushrikan",
+    "translation": "হে আল্লাহ! আমি মুশরিক হওয়া থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "শিরক থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 448,
+    "name": "আল্লাহুম্মা ইন্নি আউযু বিকা মিন আন আকুনা মুনাফিকান",
+    "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ أَنْ أَكُونَ مُنَافِقًا",
+    "transliteration": "Allahumma inni a'udhu bika min an akuuna munafiqan",
+    "translation": "হে আল্লাহ! আমি মুনাফিক হওয়া থেকে তোমার আশ্রয় চাই",
+    "count_target": 7,
+    "description": "মুনাফেকি থেকে আশ্রয়ের দোয়া।"
+  },
+  {
+    "id": 449,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনা ইয়াওমিল কিয়ামাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنًا يَوْمَ الْقِيَامَةِ",
+    "transliteration": "Allahumma arzuqna husnan yawmal qiyamah",
+    "translation": "হে আল্লাহ! কিয়ামতের দিনে উত্তম অবস্থা দান করো",
+    "count_target": 3,
+    "description": "কিয়ামতে উত্তম অবস্থার দোয়া।"
+  },
+  {
+    "id": 450,
+    "name": "আল্লাহুম্মা আরযুকনা সাহলাল হিসাব",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا سَهْلَ الْحِسَابِ",
+    "transliteration": "Allahumma arzuqna sahla hisab",
+    "translation": "হে আল্লাহ! আমাদের সহজ হিসাব দান করো",
+    "count_target": 3,
+    "description": "সহজ হিসাবের দোয়া।"
+  },
+  {
+    "id": 451,
+    "name": "আল্লাহুম্মা আরযুকনা ছাকালাতাল মিযান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ثَقَالَةَ الْمِيزَانِ",
+    "transliteration": "Allahumma arzuqna thaqalatal mizan",
+    "translation": "হে আল্লাহ! আমাদের মিযানে ভারী নেকি দান করো",
+    "count_target": 3,
+    "description": "মিযানে ভারী নেকির দোয়া।"
+  },
+  {
+    "id": 452,
+    "name": "আল্লাহুম্মা আজআলনা মিমান তুহিব্বুহুম",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ تُحِبُّهُمْ",
+    "transliteration": "Allahumma ij'alna mimman tuhibbuhum",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যাদের তুমি ভালোবাসো",
+    "count_target": 7,
+    "description": "আল্লাহর ভালোবাসার পাত্র হওয়ার দোয়া।"
+  },
+  {
+    "id": 453,
+    "name": "আল্লাহুম্মা আজআলনা মিমান তারদা আনহুম",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ تَرْضَى عَنْهُمْ",
+    "transliteration": "Allahumma ij'alna mimman tarda anhum",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যাদের প্রতি তুমি সন্তুষ্ট",
+    "count_target": 7,
+    "description": "আল্লাহর সন্তুষ্টির পাত্র হওয়ার দোয়া।"
+  },
+  {
+    "id": 454,
+    "name": "আল্লাহুম্মা আজআলনা মিন আহলিল ইখলাস",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْإِخْلَاصِ",
+    "transliteration": "Allahumma ij'alna min ahlil ikhlas",
+    "translation": "হে আল্লাহ! আমাদের ইখলাসের অধিকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইখলাসের অধিকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 455,
+    "name": "আল্লাহুম্মা আজআলনা মিন আহলিল ইহসান",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْإِحْسَانِ",
+    "transliteration": "Allahumma ij'alna min ahlil ihsan",
+    "translation": "হে আল্লাহ! আমাদের ইহসানের অধিকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইহসানের অধিকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 456,
+    "name": "আল্লাহুম্মা আজআলনা মিন আহলিল ইকান",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَهْلِ الْيَقِينِ",
+    "transliteration": "Allahumma ij'alna min ahlil yaqin",
+    "translation": "হে আল্লাহ! আমাদের ইয়াকীনের অধিকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "ইয়াকীনের অধিকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 457,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল ইতিমাদি আলাইক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الِاعْتِمَادِ عَلَيْكَ",
+    "transliteration": "Allahumma arzuqna husnal i'timadi alayk",
+    "translation": "হে আল্লাহ! তোমার উপর সুন্দর নির্ভরতার তাওফিক দাও",
+    "count_target": 7,
+    "description": "আল্লাহর উপর সুন্দর নির্ভরতার দোয়া।"
+  },
+  {
+    "id": 458,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল উবুদিয়্যাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْعُبُودِيَّةِ",
+    "transliteration": "Allahumma arzuqna husnal ubudiyyah",
+    "translation": "হে আল্লাহ! আমাদের উত্তম বন্দেগির তাওফিক দাও",
+    "count_target": 7,
+    "description": "উত্তম বন্দেগির দোয়া।"
+  },
+  {
+    "id": 459,
+    "name": "আল্লাহুম্মা আরযুকনাল খুলুসা মিনাল গাফলাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْخَلَاصَ مِنَ الْغَفْلَةِ",
+    "transliteration": "Allahumma arzuqnal khalasa minal ghaflah",
+    "translation": "হে আল্লাহ! গাফলত থেকে মুক্তির তাওফিক দাও",
+    "count_target": 7,
+    "description": "গাফলত থেকে মুক্তির দোয়া।"
+  },
+  {
+    "id": 460,
+    "name": "আল্লাহুম্মা আরযুকনা কামালাল ইমান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كَمَالَ الْإِيمَانِ",
+    "transliteration": "Allahumma arzuqna kamala liman",
+    "translation": "হে আল্লাহ! আমাদের পরিপূর্ণ ঈমান দান করো",
+    "count_target": 3,
+    "description": "পরিপূর্ণ ঈমানের দোয়া।"
+  },
+  {
+    "id": 461,
+    "name": "আল্লাহুম্মা আরযুকনা কামালাল ইসলাম",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كَمَالَ الْإِسْلَامِ",
+    "transliteration": "Allahumma arzuqna kamala islam",
+    "translation": "হে আল্লাহ! আমাদের পরিপূর্ণ ইসলাম দান করো",
+    "count_target": 3,
+    "description": "পরিপূর্ণ ইসলামের দোয়া।"
+  },
+  {
+    "id": 462,
+    "name": "আল্লাহুম্মা আরযুকনা কামালাল ইহসান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كَمَالَ الْإِحْسَانِ",
+    "transliteration": "Allahumma arzuqna kamala ihsan",
+    "translation": "হে আল্লাহ! আমাদের পরিপূর্ণ ইহসান দান করো",
+    "count_target": 3,
+    "description": "পরিপূর্ণ ইহসানের দোয়া।"
+  },
+  {
+    "id": 463,
+    "name": "আল্লাহুম্মা আরযুকনাল আমান মিনাল ফিতান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْأَمَانَ مِنَ الْفِتَنِ",
+    "transliteration": "Allahumma arzuqnal amana minal fitan",
+    "translation": "হে আল্লাহ! আমাদের সকল ফিতনা থেকে নিরাপত্তা দান করো",
+    "count_target": 3,
+    "description": "সকল ফিতনা থেকে নিরাপত্তার দোয়া।"
+  },
+  {
+    "id": 464,
+    "name": "আল্লাহুম্মা আরযুকনাল আমান মিনাল বালায়া",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْأَمَانَ مِنَ الْبَلَايَا",
+    "transliteration": "Allahumma arzuqnal amana minal balaaya",
+    "translation": "হে আল্লাহ! আমাদের সকল বিপদ-মসিবত থেকে নিরাপত্তা দান করো",
+    "count_target": 3,
+    "description": "সকল বিপদ-মসিবত থেকে নিরাপত্তার দোয়া।"
+  },
+  {
+    "id": 465,
+    "name": "আল্লাহুম্মা আরযুকনা মাওয়াদ্দাহ বাইনাল মুসলিমীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْمَوَدَّةَ بَيْنَ الْمُسْلِمِينَ",
+    "transliteration": "Allahumma arzuqnal mawaddata baynal muslimin",
+    "translation": "হে আল্লাহ! মুসলমানদের মধ্যে ভালোবাসা দান করো",
+    "count_target": 3,
+    "description": "মুসলমানদের মধ্যে ভালোবাসার দোয়া।"
+  },
+  {
+    "id": 466,
+    "name": "আল্লাহুম্মা আরযুকনা ওয়াহদাহ ওয়া ইত্তিফাক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْوَحْدَةَ وَالِاتِّفَاقَ",
+    "transliteration": "Allahumma arzuqnal wahdata wal ittifaq",
+    "translation": "হে আল্লাহ! আমাদের ঐক্য ও সম্প্রীতি দান করো",
+    "count_target": 3,
+    "description": "ঐক্য ও সম্প্রীতির দোয়া।"
+  },
+  {
+    "id": 467,
+    "name": "আল্লাহুম্মা আরযুকনা নাসরান আলা আদাইক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا النَّصْرَ عَلَى أَعْدَائِكَ",
+    "transliteration": "Allahumma arzuqna nasran ala a'da'ik",
+    "translation": "হে আল্লাহ! তোমার শত্রুদের বিরুদ্ধে বিজয় দান করো",
+    "count_target": 3,
+    "description": "শত্রুদের বিরুদ্ধে বিজয়ের দোয়া।"
+  },
+  {
+    "id": 468,
+    "name": "আল্লাহুম্মা আরযুকনা নাসরাদ দীন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا نَصْرَ الدِّينِ",
+    "transliteration": "Allahumma arzuqna nasrad din",
+    "translation": "হে আল্লাহ! আমাদের দ্বীনকে সাহায্যের তাওফিক দাও",
+    "count_target": 3,
+    "description": "দ্বীনের সাহায্যের দোয়া।"
+  },
+  {
+    "id": 469,
+    "name": "আল্লাহুম্মা আরযুকনা ইয়াসারান ওয়া ফারাজান",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا الْيُسْرَ وَالْفَرَجَ",
+    "transliteration": "Allahumma arzuqnal yusra wal faraj",
+    "translation": "হে আল্লাহ! আমাদের সহজতা ও মুক্তি দান করো",
+    "count_target": 7,
+    "description": "সহজতা ও মুক্তির দোয়া।"
+  },
+  {
+    "id": 470,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনান নাদার ফি দীনিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ النَّظَرِ فِي دِينِكَ",
+    "transliteration": "Allahumma arzuqna husnan nazari fi dinik",
+    "translation": "হে আল্লাহ! তোমার দ্বীনে গভীর দৃষ্টি দেওয়ার তাওফিক দাও",
+    "count_target": 3,
+    "description": "দ্বীনে গভীর দৃষ্টির দোয়া।"
+  },
+  {
+    "id": 471,
+    "name": "আল্লাহুম্মা আরযুকনা সাওয়াবাস সাবর",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ثَوَابَ الصَّبْرِ",
+    "transliteration": "Allahumma arzuqna thawabas sabr",
+    "translation": "হে আল্লাহ! আমাদের ধৈর্যের পুরস্কার দান করো",
+    "count_target": 3,
+    "description": "ধৈর্যের পুরস্কারের দোয়া।"
+  },
+  {
+    "id": 472,
+    "name": "আল্লাহুম্মা আরযুকনা সাওয়াবাশ শুকর",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ثَوَابَ الشُّكْرِ",
+    "transliteration": "Allahumma arzuqna thawabash shukr",
+    "translation": "হে আল্লাহ! আমাদের কৃতজ্ঞতার পুরস্কার দান করো",
+    "count_target": 3,
+    "description": "কৃতজ্ঞতার পুরস্কারের দোয়া।"
+  },
+  {
+    "id": 473,
+    "name": "আল্লাহুম্মা আরযুকনা সাওয়াবায যিকর",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ثَوَابَ الذِّكْرِ",
+    "transliteration": "Allahumma arzuqna thawabadh dhikr",
+    "translation": "হে আল্লাহ! আমাদের যিকরের পুরস্কার দান করো",
+    "count_target": 3,
+    "description": "যিকরের পুরস্কারের দোয়া।"
+  },
+  {
+    "id": 474,
+    "name": "আল্লাহুম্মা আরযুকনা সাওয়াবাস সালাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا ثَوَابَ الصَّلَاةِ",
+    "transliteration": "Allahumma arzuqna thawabas salah",
+    "translation": "হে আল্লাহ! আমাদের নামাজের পুরস্কার দান করো",
+    "count_target": 3,
+    "description": "নামাজের পুরস্কারের দোয়া।"
+  },
+  {
+    "id": 475,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়াকুমু বিলাইলি ওয়া ইয়াসুমু বিন্নাহার",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَقُومُ بِاللَّيْلِ وَيَصُومُ بِالنَّهَارِ",
+    "transliteration": "Allahumma ij'alna mimman yaqumu billayli wa yasuumu binahar",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা রাতে নামাজ পড়ে ও দিনে রোজা রাখে",
+    "count_target": 3,
+    "description": "রাতের নামাজ ও দিনের রোজার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 476,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়াবকি মিন খাশিয়াতিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَبْكِي مِنْ خَشْيَتِكَ",
+    "transliteration": "Allahumma ij'alna mimman yabki min khashyatik",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা তোমার ভয়ে কাঁদে",
+    "count_target": 3,
+    "description": "আল্লাহর ভয়ে কান্নার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 477,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়ুনফিকু ফি সাবিলিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يُنْفِقُ فِي سَبِيلِكَ",
+    "transliteration": "Allahumma ij'alna mimman yunfiqu fi sabilik",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা তোমার পথে খরচ করে",
+    "count_target": 3,
+    "description": "আল্লাহর পথে ব্যয় করার তাওফিকের দোয়া।"
+  },
+  {
+    "id": 478,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়ুসলিহু বাইনান নাস",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يُصْلِحُ بَيْنَ النَّاسِ",
+    "transliteration": "Allahumma ij'alna mimman yuslihu bayna nnas",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা মানুষের মধ্যে সন্ধি করে",
+    "count_target": 3,
+    "description": "মানুষের মধ্যে সন্ধি স্থাপনের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 479,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়ামুরু বিল মারুফ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَأْمُرُ بِالْمَعْرُوفِ وَيَنْهَى عَنِ الْمُنْكَرِ",
+    "transliteration": "Allahumma ij'alna mimman ya'muru bil ma'rufi wa yanha anil munkar",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা সৎ কাজের আদেশ দেয় ও অসৎ কাজ থেকে নিষেধ করে",
+    "count_target": 3,
+    "description": "সৎ কাজে আদেশ ও অসৎ কাজে নিষেধের তাওফিকের দোয়া।"
+  },
+  {
+    "id": 480,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়া'মালু বিকিতাবিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَعْمَلُ بِكِتَابِكَ",
+    "transliteration": "Allahumma ij'alna mimman ya'malu bikitabik",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা তোমার কিতাব অনুযায়ী আমল করে",
+    "count_target": 3,
+    "description": "কুরআন অনুযায়ী আমলকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 481,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়াত্তাবিউস সুন্নাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَتَّبِعُ السُّنَّةَ",
+    "transliteration": "Allahumma ij'alna mimman yattabi'us sunnah",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা সুন্নতের অনুসরণ করে",
+    "count_target": 3,
+    "description": "সুন্নতের অনুসারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 482,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়াতাকারারাবু ইলাইকা বিন নাওয়াফিল",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَتَقَرَّبُ إِلَيْكَ بِالنَّوَافِلِ",
+    "transliteration": "Allahumma ij'alna mimman yataqarrabu ilayka bin nawaafil",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা নফল ইবাদতে তোমার নিকটবর্তী হয়",
+    "count_target": 3,
+    "description": "নফল ইবাদতে আল্লাহর নিকটবর্তী হওয়ার দোয়া।"
+  },
+  {
+    "id": 483,
+    "name": "আল্লাহুম্মা আজআলনা মিমান ইয়াযকুরুকা ওয়া ইয়াশকুরুক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِمَّنْ يَذْكُرُكَ وَيَشْكُرُكَ",
+    "transliteration": "Allahumma ij'alna mimman yadhkuruka wa yashkuruk",
+    "translation": "হে আল্লাহ! আমাদের তাদের মধ্যে অন্তর্ভুক্ত করো যারা তোমার যিকর করে ও তোমার শুকরিয়া আদায় করে",
+    "count_target": 7,
+    "description": "যিকর ও শুকরিয়াকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 484,
+    "name": "আল্লাহুম্মা আজআলনা মিন আওলিয়ায়িক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنْ أَوْلِيَائِكَ",
+    "transliteration": "Allahumma ij'alna min awliya'ik",
+    "translation": "হে আল্লাহ! আমাদের তোমার ওলিদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর ওলিদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 485,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুরাকিবীন লাক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُرَاقِبِينَ لَكَ",
+    "transliteration": "Allahumma ij'alna minal muraqqibina lak",
+    "translation": "হে আল্লাহ! আমাদের তোমার সার্বক্ষণিক পর্যবেক্ষণের অনুভূতি রাখা বান্দাদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "আল্লাহর পর্যবেক্ষণ সচেতনতার দোয়া।"
+  },
+  {
+    "id": 486,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুকীমীনাস সালাহ",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُقِيمِينَ الصَّلَاةَ",
+    "transliteration": "Allahumma ij'alna minal muqiminas salah",
+    "translation": "হে আল্লাহ! আমাদের নামাজ প্রতিষ্ঠাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "নামাজ প্রতিষ্ঠাকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 487,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুকাফফিলীনা বিল যাকাত",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُؤَدِّينَ لِلزَّكَاةِ",
+    "transliteration": "Allahumma ij'alna minal mu'addina liz zakah",
+    "translation": "হে আল্লাহ! আমাদের যাকাত আদায়কারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "যাকাত আদায়কারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 488,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুহাফিযীনা আলাল আওকাত",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُحَافِظِينَ عَلَى الْأَوْقَاتِ",
+    "transliteration": "Allahumma ij'alna minal muhafizina alal awqat",
+    "translation": "হে আল্লাহ! আমাদের সময় রক্ষাকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "সময় সঠিকভাবে ব্যবহারকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 489,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুসলিমীনাস সালিহীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُسْلِمِينَ الصَّالِحِينَ",
+    "transliteration": "Allahumma ij'alna minal musliminas salihin",
+    "translation": "হে আল্লাহ! আমাদের নেককার মুসলমানদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "নেককার মুসলমানদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 490,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুমিনীনাল কামিলীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُؤْمِنِينَ الْكَامِلِينَ",
+    "transliteration": "Allahumma ij'alna minal mu'mininal kamilin",
+    "translation": "হে আল্লাহ! আমাদের পূর্ণ ঈমানদারদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "পূর্ণ ঈমানদারদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 491,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাআব্বিদীনাল মুত্তাকীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَعَبِّدِينَ الْمُتَّقِينَ",
+    "transliteration": "Allahumma ij'alna minal muta'abbidinaal muttaqin",
+    "translation": "হে আল্লাহ! আমাদের মুত্তাকী ইবাদতকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 7,
+    "description": "মুত্তাকী ইবাদতকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 492,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুতাআলিমীনা লি দ্বীনিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُتَعَلِّمِينَ لِدِينِكَ",
+    "transliteration": "Allahumma ij'alna minal muta'alliminaa lidinnik",
+    "translation": "হে আল্লাহ! আমাদের তোমার দ্বীন শিক্ষার্থীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "দ্বীন শিক্ষার্থীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 493,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুআল্লিমীনা লি দ্বীনিক",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُعَلِّمِينَ لِدِينِكَ",
+    "transliteration": "Allahumma ij'alna minal mu'allimina lidinnik",
+    "translation": "হে আল্লাহ! আমাদের তোমার দ্বীনের শিক্ষকদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "দ্বীনের শিক্ষকদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 494,
+    "name": "আল্লাহুম্মা আজআলনা মিনাল মুনতাসিরীনা লিদ দ্বীন",
+    "arabic": "اللَّهُمَّ اجْعَلْنَا مِنَ الْمُنْتَصِرِينَ لِلدِّينِ",
+    "transliteration": "Allahumma ij'alna minal muntasiriina liddin",
+    "translation": "হে আল্লাহ! আমাদের দ্বীনের সাহায্যকারীদের অন্তর্ভুক্ত করো",
+    "count_target": 3,
+    "description": "দ্বীনের সাহায্যকারীদের দলে অন্তর্ভুক্তির দোয়া।"
+  },
+  {
+    "id": 495,
+    "name": "আল্লাহুম্মা আনতা ওয়ালিইয়ুনা ফিদ দুনিয়া ওয়াল আখিরাহ",
+    "arabic": "اللَّهُمَّ أَنْتَ وَلِيُّنَا فِي الدُّنْيَا وَالْآخِرَةِ",
+    "transliteration": "Allahumma anta waliyyuna fid dunya wal akhirah",
+    "translation": "হে আল্লাহ! তুমিই দুনিয়া ও আখিরাতে আমাদের অভিভাবক",
+    "count_target": 7,
+    "description": "আল্লাহকে দুনিয়া ও আখিরাতের অভিভাবক মানার যিকির।"
+  },
+  {
+    "id": 496,
+    "name": "আল্লাহুম্মা আরযুকনা রিদওয়ানাকা ওয়াল জান্নাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا رِضْوَانَكَ وَالْجَنَّةَ",
+    "transliteration": "Allahumma arzuqna ridwanaka wal jannah",
+    "translation": "হে আল্লাহ! আমাদের তোমার সন্তুষ্টি ও জান্নাত দান করো",
+    "count_target": 3,
+    "description": "আল্লাহর সন্তুষ্টি ও জান্নাতের দোয়া।"
+  },
+  {
+    "id": 497,
+    "name": "আল্লাহুম্মা আরযুকনা নূরান ইউদিউ লানা তারিকানা",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا نُورًا يُضِيءُ لَنَا طَرِيقَنَا",
+    "transliteration": "Allahumma arzuqna nuran yudii lana tariqana",
+    "translation": "হে আল্লাহ! আমাদের এমন নূর দান করো যা আমাদের পথ আলোকিত করে",
+    "count_target": 7,
+    "description": "জীবনের পথ আলোকিত করার নূরের দোয়া।"
+  },
+  {
+    "id": 498,
+    "name": "আল্লাহুম্মা আনতাল মালিকু লা ইলাহা ইল্লা আন্ত",
+    "arabic": "اللَّهُمَّ أَنْتَ الْمَلِكُ لَا إِلَهَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma antal maliku la ilaha illa ant",
+    "translation": "হে আল্লাহ! তুমিই রাজা, তুমি ছাড়া কোনো উপাস্য নেই",
+    "count_target": 100,
+    "description": "আল্লাহর রাজত্বের স্বীকৃতির যিকির।"
+  },
+  {
+    "id": 499,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকা বিহাক্কিস সায়িলীন আলাইক",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِحَقِّ السَّائِلِينَ عَلَيْكَ",
+    "transliteration": "Allahumma inni as'aluka bihaqis sa'ilina alayk",
+    "translation": "হে আল্লাহ! আমি তোমার কাছে প্রার্থনাকারীদের অধিকারের মাধ্যমে চাই",
+    "count_target": 3,
+    "description": "প্রার্থনাকারীদের অধিকারের মাধ্যমে দোয়া।"
+  },
+  {
+    "id": 500,
+    "name": "আল্লাহুম্মা আরযুকনা কুল্লা মা ইউকাররিবুনা ইলাইক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كُلَّ مَا يُقَرِّبُنَا إِلَيْكَ",
+    "transliteration": "Allahumma arzuqna kulla ma yuqarribuna ilayk",
+    "translation": "হে আল্লাহ! আমাদের এমন সব কিছু দান করো যা আমাদের তোমার নিকটবর্তী করে",
+    "count_target": 3,
+    "description": "আল্লাহর নৈকট্যলাভের সব উপায়ের দোয়া।"
+  },
+  {
+    "id": 501,
+    "name": "আল্লাহুম্মা আরযুকনা কুল্লা মা ইউবাইয়িদুনা আন গাদাবিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا كُلَّ مَا يُبَعِّدُنَا عَنْ غَضَبِكَ",
+    "transliteration": "Allahumma arzuqna kulla ma yuba'iduna an ghadabik",
+    "translation": "হে আল্লাহ! আমাদের এমন সব কিছু দান করো যা আমাদের তোমার ক্রোধ থেকে দূরে রাখে",
+    "count_target": 3,
+    "description": "আল্লাহর ক্রোধ থেকে দূরে রাখার সব উপায়ের দোয়া।"
+  },
+  {
+    "id": 502,
+    "name": "আল্লাহুম্মা আরযুকনা রিযকান ওয়াফিরান হানিআন মারিআন",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا رِزْقًا وَافِرًا هَنِيئًا مَرِيئًا",
+    "transliteration": "Allahumma arzuqna rizqan wafiran hani'an mari'a",
+    "translation": "হে আল্লাহ! আমাদের প্রচুর, আনন্দদায়ক ও উপকারী রিজিক দান করো",
+    "count_target": 3,
+    "description": "প্রচুর ও আনন্দদায়ক রিজিকের দোয়া।"
+  },
+  {
+    "id": 503,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল কিয়াফাহ",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الْكِفَايَةِ",
+    "transliteration": "Allahumma arzuqna husnal kifayah",
+    "translation": "হে আল্লাহ! আমাদের যথেষ্ট পরিমাণে দান করো",
+    "count_target": 3,
+    "description": "প্রয়োজনমতো দানের দোয়া।"
+  },
+  {
+    "id": 504,
+    "name": "আল্লাহুম্মা আরযুকনা হুসনাল ইস্তিআনাহ বিক",
+    "arabic": "اللَّهُمَّ ارْزُقْنَا حُسْنَ الِاسْتِعَانَةِ بِكَ",
+    "transliteration": "Allahumma arzuqna husnal isti'anati bik",
+    "translation": "হে আল্লাহ! তোমার কাছে সুন্দরভাবে সাহায্য চাওয়ার তাওফিক দাও",
+    "count_target": 7,
+    "description": "আল্লাহর কাছে সুন্দরভাবে সাহায্য চাওয়ার দোয়া।"
+  },
+  {
+    "id": 505,
+    "name": "আল্লাহুম্মা ইন্নি আসআলুকাল বুশরা ফিল হায়াতি ওয়া বাদাল মামাত",
+    "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْبُشْرَى فِي الْحَيَاةِ وَبَعْدَ الْمَمَاتِ",
+    "transliteration": "Allahumma inni as'alukal bushra fil hayati wa badal mamat",
+    "translation": "হে আল্লাহ! জীবনে ও মৃত্যুর পরে সুসংবাদ প্রার্থনা করি",
+    "count_target": 3,
+    "description": "দুনিয়া ও আখিরাতে সুখবর পাওয়ার দোয়া।"
+  }
+]
