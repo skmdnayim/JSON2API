@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#101827">
+<title>JSON2API - Free JSON API Hosting</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:Arial,sans-serif;background:#0b1120;color:#e5e7eb;line-height:1.6}
+header{padding:22px 7%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #263247}
+.logo{font-size:23px;font-weight:800;color:#fff}
+.logo span{color:#38bdf8}
+.status{color:#4ade80;font-size:13px}
+.hero{text-align:center;padding:75px 20px 45px}
+.hero h1{font-size:clamp(32px,6vw,54px);margin-bottom:14px}
+.hero h1 span{color:#38bdf8}
+.hero p{color:#94a3b8;max-width:600px;margin:auto}
+.container{max-width:1050px;margin:auto;padding:20px}
+.section-title{font-size:22px;margin:30px 0 18px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:15px}
+.stat,.api-card,.docs{background:#151f32;border:1px solid #29364c;border-radius:14px;padding:20px}
+.stat h2{font-size:27px;color:#38bdf8}
+.stat p{font-size:13px;color:#94a3b8}
+.api-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:15px}
+.api-card h3{margin-bottom:8px}
+.api-card p{font-size:13px;color:#94a3b8;margin-bottom:15px}
+.endpoint{background:#0b1120;padding:11px;border-radius:8px;font-size:12px;overflow-wrap:anywhere;color:#7dd3fc;margin-bottom:12px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+button,.open-link{border:0;border-radius:7px;padding:9px 13px;background:#0284c7;color:white;font-weight:600;cursor:pointer;text-decoration:none;font-size:12px}
+button:hover,.open-link:hover{background:#0369a1}
+.docs{margin-top:20px}
+.docs p{color:#94a3b8;margin:8px 0}
+code{color:#7dd3fc;overflow-wrap:anywhere}
+footer{text-align:center;padding:35px 15px;color:#64748b;font-size:13px;margin-top:30px;border-top:1px solid #263247}
+</style>
+</head>
+<body>
+
+<header>
+ <div class="logo">JSON<span>2API</span></div>
+ <div class="status">● API Hosting</div>
+</header>
+
+<section class="hero">
+ <h1>Your JSON.<br><span>Powerful API.</span></h1>
+ <p>Free JSON API hosting powered by GitHub and Cloudflare Pages. Simple, fast and accessible from anywhere.</p>
+</section>
+
+<main class="container">
+
+ <div class="stats">
+  <div class="stat">
+   <h2 id="total">5</h2>
+   <p>Configured Endpoints</p>
+  </div>
+  <div class="stat">
+   <h2>24/7</h2>
+   <p>Static Hosting</p>
+  </div>
+  <div class="stat">
+   <h2>JSON</h2>
+   <p>Response Format</p>
+  </div>
+ </div>
+
+ <h2 class="section-title">Available API Endpoints</h2>
+ <div class="api-list" id="apiList"></div>
+
+ <section class="docs">
+  <h2>Documentation</h2>
+  <p><b>Base URL:</b> <code id="baseUrl"></code></p>
+  <p><b>Request Method:</b> GET</p>
+  <p><b>Response:</b> application/json</p>
+  <p>Example JavaScript:</p>
+  <div class="endpoint">
+fetch('/api/quran.json')
+  .then(response => response.json())
+  .then(data => console.log(data));
+  </div>
+  <p>To add another endpoint, upload a JSON file inside the <code>api/</code> folder in your GitHub repository.</p>
+ </section>
+
+</main>
+
+<footer>
+ <div>JSON2API — Free JSON API Hosting</div>
+ <div>Powered by GitHub & Cloudflare Pages</div>
+</footer>
+
+<script>
+const endpoints = [
+ {name:"Quran API",file:"quran.json",description:"Quran data and information"},
+ {name:"Hadith API",file:"hadith.json",description:"Hadith books and information"},
+ {name:"Namaz API",file:"namaz.json",description:"Prayer and Namaz information"},
+ {name:"Books API",file:"books.json",description:"Islamic books and resources"},
+ {name:"Users API",file:"users.json",description:"User data and information"}
+];
+
+const base = window.location.origin;
+document.getElementById("baseUrl").textContent = base;
+document.getElementById("total").textContent = endpoints.length;
+
+const list = document.getElementById("apiList");
+
+endpoints.forEach(api=>{
+ const url = base + "/api/" + api.file;
+ const card = document.createElement("article");
+ card.className = "api-card";
+
+ const title = document.createElement("h3");
+ title.textContent = api.name;
+
+ const desc = document.createElement("p");
+ desc.textContent = api.description;
+
+ const endpoint = document.createElement("div");
+ endpoint.className = "endpoint";
+ endpoint.textContent = url;
+
+ const actions = document.createElement("div");
+ actions.className = "actions";
+
+ const copy = document.createElement("button");
+ copy.textContent = "Copy URL";
+ copy.addEventListener("click",async()=>{
+   try{
+     await navigator.clipboard.writeText(url);
+     copy.textContent = "Copied!";
+     setTimeout(()=>copy.textContent="Copy URL",1500);
+   }catch(e){
+     prompt("Copy API URL:",url);
+   }
+ });
+
+ const open = document.createElement("a");
+ open.className = "open-link";
+ open.href = "/api/" + api.file;
+ open.target = "_blank";
+ open.rel = "noopener";
+ open.textContent = "Open API";
+
+ actions.append(copy,open);
+ card.append(title,desc,endpoint,actions);
+ list.appendChild(card);
+});
+</script>
+
+</body>
+</html>
